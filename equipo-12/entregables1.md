@@ -2,7 +2,7 @@
 
 - Número del equipo: 12
 
-- Nombre del equipo: 
+- Nombre del equipo: Tequilazo ecologico 
 
 - Nombre de todos miembros en tu equipo:
 <br>• Sofía Diaz 
@@ -30,5 +30,8 @@
 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 
-No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
+- Imagenes de dibujo de la idea del proyecto:
 
+<img src="https://i.imgur.com/2PwNitx.png"/>
+
+<img src="https://i.imgur.com/40t6lm1.png"/>
