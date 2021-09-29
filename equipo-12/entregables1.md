@@ -2,7 +2,7 @@
 
 - Número del equipo: 12
 
-- Nombre del equipo: Tequilazo ecologico 
+- Nombre del equipo: Tequilazo ecológico 
 
 - Nombre de todos miembros en tu equipo:
 <br>• Sofía Diaz 
