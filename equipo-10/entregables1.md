@@ -1,6 +1,6 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo:10
+- Número del equipo: 10
 
 - Nombre del equipo:
   
