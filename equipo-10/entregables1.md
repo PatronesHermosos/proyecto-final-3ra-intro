@@ -5,19 +5,15 @@
 - Nombre del equipo:Eskelis
 
 
-- Nombre de todos miembros en tu equipo:
-
-Keren Guzmán
-
-Lis Medina
-
-Estefanía Villablanca
+- Nombre de todos miembros en tu equipo: Keren Guzmán, Lis Medina, Estefanía Villablanca
 
 - ¿Qué problema global eligieron ustedes? 
-Desperdicio de alimentos
+
+  Desperdicio de alimentos
 
 - ¿Porque eligieron ese problema? 
-La vida de millones de personas se ve amezada por la falta de alimentos y considerando que hay personas que tienen alimentos y tienen la capacidad de compartir con otros se puede compensar el sobrantes de unos con la necesidad de otros.
+
+  La vida de millones de personas se ve amezada por la falta de alimentos y considerando que hay personas que tienen alimentos y tienen la capacidad de compartir con otros se puede compensar el sobrantes de unos con la necesidad de otros.
 
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
 Hemos llegado a la conclusión de realizar una aplicación web en la cual quienes deseen de forma voluntaria donar sus alimentos se registren en este sitio con sus datos personales y la cantidad que disponen para donar. y por otra parte el usuario receptor de estos alimentos contactará con el donador. 
