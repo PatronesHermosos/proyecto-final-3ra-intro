@@ -8,7 +8,9 @@
 - Nombre de todos miembros en tu equipo:
 
 Keren Guzmán
+
 Lis Medina
+
 Estefanía Villablanca
 
 - ¿Qué problema global eligieron ustedes? 
