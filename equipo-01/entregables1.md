@@ -1,9 +1,9 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
+- Número del equipo: 1
+- Nombre del equipo:Escuadrón de la sustentabilidad
+- Nombre de todos miembros en tu equipo: Claudia Flores, Mayra Rivera Escareño, Angélica María Camacho Monsalve y Nerida H. Valero
+- ¿Qué problema global eligieron ustedes? Ciudades sustentables
 - ¿Porque eligieron ese problema?
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
 - Describe las tareas que harán cada miembro de su grupo:
