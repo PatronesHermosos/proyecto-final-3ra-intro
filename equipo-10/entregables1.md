@@ -25,5 +25,5 @@ Dentro de las tareas a realizar, diseño y describir problema y objetivo y entre
 
 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
-
+Video entrega 1: https://youtu.be/teuz2473n54
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
