@@ -2,9 +2,9 @@
 
 - Número del equipo:10
 
-- Nombre del equipo:Eskelis
-
-
+- Nombre del equipo:
+  
+  Eskelis
 - Nombre de todos miembros en tu equipo: Keren Guzmán, Lis Medina, Estefanía Villablanca
 
 - ¿Qué problema global eligieron ustedes? 
