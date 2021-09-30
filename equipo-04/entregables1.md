@@ -1,9 +1,9 @@
 ## Etapa 1 del proyecto final
 
 - Número del equipo: EQUIPO  4
-- Nombre del equipo:
+- Nombre del equipo: Gemisan
 - Nombre de todos miembros en tu equipo:
-- ¿Qué problema global eligieron ustedes?
+- ¿Qué problema global eligieron ustedes? trabajo  decente y crecimiento  economico
 - ¿Porque eligieron ese problema?
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
 - Describe las tareas que harán cada miembro de su grupo:
