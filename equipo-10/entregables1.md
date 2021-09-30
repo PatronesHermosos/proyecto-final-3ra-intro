@@ -6,11 +6,10 @@
 
 
 - Nombre de todos miembros en tu equipo:
+
 Keren Guzmán
-
 Lis Medina
-
-Estefanía Villablanca.
+Estefanía Villablanca
 
 - ¿Qué problema global eligieron ustedes? 
 Desperdicio de alimentos
