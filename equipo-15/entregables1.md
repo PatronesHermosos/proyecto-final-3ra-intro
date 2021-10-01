@@ -1,8 +1,11 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: 15
-- Nombre del equipo: Super Girls
-- Nombre de todos miembros en tu equipo: Buitrago Ruby Marcela, Ontaneda Elizabeth y Claudia Tornero.  
+- Número del equipo: 
+- 15
+- Nombre del equipo: 
+- Super Girls
+- Nombre de todos miembros en tu equipo: 
+- Buitrago Ruby Marcela, Ontaneda Elizabeth y Claudia Tornero.  
 - ¿Qué problema global eligieron ustedes? 
 - Calidad en la educación (objetivo 4) 
 - ¿Porque eligieron ese problema?
