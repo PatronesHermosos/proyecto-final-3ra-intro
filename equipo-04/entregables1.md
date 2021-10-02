@@ -5,9 +5,10 @@
 - ¿Qué problema global eligieron ustedes? trabajo  decente y crecimiento  economico
 - ¿Porque eligieron ese problema? Ha razón de la implementación del modelo neoliberal a escala planetaria, las grandes coorporaciones ha tenido el dominio de la fuerza laboral a nivel global. lo que le ha permitido relocalizar las fabricas a razón de obtner la mano obrera más barata y economizar costos, y por tanto de obtener más ganacias, ganancia que no se ve reflejada en aumento de salarios o incremento en el pago de impuesto, esta tendencia economica que tuvo inicio en la decada de los 70 con los gobiernos de Margaret Tatcher Y Ronald Reagan, poterior da la crisis del petroleo, sumado a las tendencias de flexibilización laboral y el emprendimiento, ha hecho que la relación patron obrero, deje de ser directa y se pierda por tanto derechos labotales. 
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
--Que crecimiento  de la producto interno bruto se vea reflejado en los sueldos de los trabajadores.-Que se reformulen los códigos laborales de los distintos países para reconozca las distintas formas de trabajo. 
--Que se reformulen los códigos laborales de los distintos países para reconozca las distintas formas de trabajo. 
--Que se genere empleo  pleno y  trabajo decente para todas las mujeres y los hombres, incluidos los jóvenes y las personas con discapacidad, y la igualdad de salarios por un trabajo de igual valor.
+La solución que proponemos en nuestro proyecto es que crecimiento  económico de cada país se vea reflejado en los sueldos de sus trabajadores.
+Para ello se requeriría también que se reformulen los códigos laborales de los distintos países para reconozcan las distintas formas de trabajo y la igualdad de salarios por un trabajo de igual valor, sin importar género, edad, incapacidades.
+
+
 
 - Describe las tareas que harán cada miembro de su grupo:
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el enlace de su vídeo en YouTube / Vimeo aquí:
