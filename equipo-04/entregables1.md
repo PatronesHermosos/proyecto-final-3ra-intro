@@ -8,7 +8,10 @@
 La solución que proponemos en nuestro proyecto es que crecimiento  económico de cada país se vea reflejado en los sueldos de sus trabajadores.
 Para ello se requeriría también que se reformulen los códigos laborales de los distintos países para reconozcan las distintas formas de trabajo y la igualdad de salarios por un trabajo de igual valor, sin importar género, edad, incapacidades.
 
-- Describe las tareas que harán cada miembro de su grupo:
-- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el enlace de su vídeo en YouTube / Vimeo aquí:
+- Describe las tareas que harán cada miembro de su grupo: 
+Isabel Agreda: Video de presentation, editar video final.
+Fernanda Garzón: Compilación de las diapositivas y video de diapositivas
+Ambas buscan información sobre datos laborales, dispuesto en la diapositiva 4
 
+- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el enlace de su vídeo en YouTube / Vimeo aquí:
 No se olviden de diseñar su obra en un papel e incluir una foto de este dibujo en el vídeo entregable.
