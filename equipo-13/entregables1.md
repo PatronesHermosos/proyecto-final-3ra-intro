@@ -17,7 +17,7 @@
 
 - Describe las tareas que harán cada miembro de su grupo: 
 
-  Intentamos ser equitativas con las tareas, si bien nos las dividimos, tambien intentaremos ayudarnos lo mas posible unas con otras, para no dejar una sola tarea definida en una   sola persona. 
+  Intentamos ser equitativas con las tareas, las tres buscaremos la informacion que pretendamos poner dentro de nuestra pagina web, asi como tambien nos dividimos las tareas, por   ejemplo, una va a enfocarse en el armado de la pagina en html, otra en el diseño con javascrip y la otra en el diseño por css, tambien intentaremos ayudarnos lo mas               posible unas con otras, para no dejar una sola tarea definida en una sola persona. 
 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 
