@@ -9,7 +9,7 @@
 
 - ¿Porque eligieron ese problema? 
 
-  Porque somos concientes de la problematica ambiental en el mundo, y a traves de nuestro proyecto queremos generar conciencia sobre la importancia de tratar esta problematica, el planeta esta agotando sus recursos, el calentamiento global es cada vez mas evidente y genera mayores desastres naturales, es importante concientizar sobre esto, es importante tomar medidas para intentar combatir su impacto en la naturaleza y en la sociedad.
+  Porque somos conscientes de la problematica ambiental en el mundo, y a traves de nuestro proyecto queremos generar conciencia sobre la importancia de tratar esta problematica,     el planeta esta agotando sus recursos, el calentamiento global es cada vez mas evidente y genera mayores desastres naturales, es importante concientizar sobre esto, sobre cuales   son sus principales causas, sus principales consecuencia y lo importante que es comenzar a tomar medidas para intentar combatir su impacto en la naturaleza y en la sociedad.
 
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
 
