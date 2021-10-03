@@ -9,7 +9,7 @@
 - Describe las tareas que harán cada miembro de su grupo: 
 1persona: búsqueda de imagenes , diseños , para plasmar lo encontrado por la persona 2 y 3.
 2persona: busqueda de investigaciones
-3persona: busqueda de instorias
+3persona: busqueda de historias
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
