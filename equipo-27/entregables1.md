@@ -10,6 +10,6 @@
 Karla: Página/infografía en torno a alternativas de medios de transporte públicos sustentables,
 Katia: Página/infografía en torno a las energías sutentables y su relación con los medios de transporte,
 Karime: Página/infografía en torno a el problema que representa el transpote actualmente.
-- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
+- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí: https://youtu.be/uOReZexVEd0
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
