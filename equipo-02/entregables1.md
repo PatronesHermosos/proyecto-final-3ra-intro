@@ -8,7 +8,7 @@ Karen Giannina Flores Del Águila
 Wendy Areli Ramírez Burgos
 Arisbeth Mendoza Barrera
 - ¿Qué problema global eligieron ustedes?
-- Nos basamos en el tercer objetivo de las naciones unidas, es decir, el de salud y bienestar.  Las enfermedades neurodegenerativas son un problema que adquiere mayor importancia dado  el aumento en al esperanza de vida, la vejez se presenta como una etapa a la que le es inherente el deterioro, físico y cognitive, sin embargo hay estrategias  y estilos de vida que pueden prevenir y en su caso mejorar el tránsito por ella y aumentaer el bienestar de las personas. ![image](https://user-images.githubusercontent.com/91512849/135735621-
+- Nos basamos en el tercer objetivo de las naciones unidas, es decir, el de salud y bienestar.  Las enfermedades neurodegenerativas son un problema que adquiere mayor importancia dado  el aumento en al esperanza de vida, la vejez se presenta como una etapa a la que le es inherente el deterioro, físico y cognitive, sin embargo hay estrategias  y estilos de vida que pueden prevenir y en su caso mejorar el tránsito por ella y aumentaer el bienestar de las personas. 
 - ¿Porque eligieron ese problema?
 - A pesar de que existen avances en el campo de la neurociencia respect a la comprensión y tratamiento de las enfermedades neurodegenerativas, la población en general no se beneficia de él debido a la falta de difusion o de estrategias adecuadas de parte de los científicos  que permitan el acceso a ella. 
 
@@ -24,6 +24,7 @@ Karen : Sector 2
 Ari : Sector 3
 Wendy Sector :4
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:  
--   https://www.youtube.com/watch?v=uPSmLjHfFbU
+-  https://www.youtube.com/watch?v=uPSmLjHfFbU
+- 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
 ![Diapositiva1](https://user-images.githubusercontent.com/91512849/135735757-5ca2d316-0fdf-423d-8862-93c1c5cd4e90.JPG)
