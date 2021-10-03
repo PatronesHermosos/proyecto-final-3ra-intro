@@ -3,9 +3,9 @@
 - Número del equipo:18
 - Nombre del equipo:Reforestag
 - Nombre de todos miembros en tu equipo:
-Jenny Mozo Gavilan
-Montserrat Vega Fregoso
-Erika Deza Ruiz
+-Jenny Mozo Gavilan
+-Montserrat Vega Fregoso
+-Erika Deza Ruiz
 
 - ¿Qué problema global eligieron ustedes?
 - Promover la concientización en las personas sobre la desertificación
