@@ -14,15 +14,13 @@
 <br> Cambio Climático 
 
 - ¿Porque eligieron ese problema?
-<br>  Porque nos interesa cuidar el medio ambiente y crear una solución tangible que pueda ayudar a resolver este problema que acontece actualmente.
+<br>  Nos interesa cuidar el medio ambiente y poder dar una guía para saber que cosas son reciclables o pueden volver a tener uso y cuáles no.
 
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
 <br> Presentación con opciones que lleven hacia distintas opciones que ayuden al medio ambiente, por ejemplo:
-<br>• huella ecologica
-<br>• estrategias locales en distintos lugares de america
-<br>• influencers ecologicos 
-<br>• blog ecologico 
-<br>• lista de asociaciones
+<br>• La obra de arte consistirá en crear 3 contenedores de diferente tipos de basura y cada cierto tiempo aparecera un elemento y con movimiento se redireccionará al contenedor adecuado.
+<br>• huella ecologica (breve información)
+<br>• influencers ecologicos (Moodboard de influencers)
 
 - Describe las tareas que harán cada miembro de su grupo:
 <br>• Inicialmente cada una se va a encargar de investigar y recolectar posible información para contribuir dentro del proyecto.
