@@ -14,4 +14,5 @@ Fernanda Garzón: Compilación de las diapositivas y video de diapositivas
 Ambas buscan información sobre datos laborales, dispuesto en la diapositiva 4
 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el enlace de su vídeo en YouTube / Vimeo aquí:
-No se olviden de diseñar su obra en un papel e incluir una foto de este dibujo en el vídeo entregable.
+No se olviden de diseñar su obra en un papel e incluir una foto de este dibujo en el vídeo entregable.https://youtu.be/WpAJcm4Y5Jk
+https://youtu.be/WpAJcm4Y5Jk
