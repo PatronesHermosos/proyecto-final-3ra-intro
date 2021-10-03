@@ -1,7 +1,7 @@
 ## Etapa 1 del proyecto final
 
 - Número del equipo: 11 
-- Nombre del equipo:  ??
+- Nombre del equipo:  Eco Alpha
 - Nombre de todos miembros en tu equipo:  Maria Cristina González Velazquez,Leidy Viviana Franco, Virginia Daniela Valenzuela Millan, Lilian Yulian Capacuti Coaquira.
 - ¿Qué problema global eligieron ustedes? 
 
@@ -24,5 +24,7 @@ Hemos seleccionado las siguientes actividades para desarrollar nuestro proyecto:
 Determinamos hacerlas de forma colaborativa
 -
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
+
+https://www.youtube.com/watch?v=w_J3-eEIO1o&ab_channel=CristinaGonzl
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
