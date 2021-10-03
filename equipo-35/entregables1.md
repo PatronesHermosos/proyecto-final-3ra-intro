@@ -1,7 +1,7 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: Las Tocayas
-- Nombre del equipo: 35
+- Número del equipo: 35
+- Nombre del equipo: Las Tocayas
 - Nombre de todos miembros en tu equipo:
 - Sofía Arreaga
 - Sofía Gomez
