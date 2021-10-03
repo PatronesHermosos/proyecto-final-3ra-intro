@@ -20,10 +20,10 @@ Montserrat Vega: buscar modelos de imágenes de plantas en 4 diferentes fases de
 Jenny Mozo: buscar y proponer alternativas de fondo y diseño final del árbol
 En el desarrollo de los códigos buscamos que cada una de nosotras realice actividades similares de programamación para fortalecer los conocimientos aprendidos durante el curso
 
--Descripción de la obra: 
+- Descripción de la obra: 
 En nuestra obra de arte buscamos hacer una invitación a la comunidad a formarse el hábito de sembrar, todos los días tenemos acceso a decenas de semillas de los alimentos que consumimos. Entonces a través de una frase escrita en primera personas afirmamos que  una semilla en nuestras puede hacer un cambio. Debajo de la frase se muestra una semilla cayendo a la tierra mostrándo el primer paso que nos llevaría hacia la meta de la reforestación de nuestra planeta. Luego imágenes de la semillas en sus distintas fases de crecimiento (3 tamaños), cada imagen desaperece una después de otra siendo sustituida cada una por palabras clave en el tema, como son: oxígeno, polinización y alimento, resaltando así los grandes resultados que obtenemos con el acto de sembrar cada uno una semilla. La 5ta imagen será la de un árbol completo.
 
--Paquetes/recursos a utilizar
+- Paquetes/recursos a utilizar
 Programaremos utilizando HTML, CSS, Java Script, paquete de plantillas de Bootstrap, repositorios de imágenes libres Unsplash y Pixibay
 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
