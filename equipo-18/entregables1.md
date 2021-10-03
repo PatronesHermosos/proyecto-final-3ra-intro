@@ -8,16 +8,16 @@
 - Erika Deza Ruiz
 
 - ¿Qué problema global eligieron ustedes?
-- Promover la concientización en las personas sobre la desertificación
+- Promover la concientización en las personas sobre la desertificación (Dentro de la meta 15 de la ONU)
 - ¿Por qué eligieron ese problema? Porque siendo el planeta el único lugar que tenemos para vivir esta problemática es algo que nos concierne absolutamente a todos, es fundamental lograr la toma de conciencia que nos lleve a tomar acciones que nos permitan frenar la depredación de bosques, la pérdida de biodiversidad y en consecuencia el cambio climático, entre otros.
 - ¿Por qué debemos preocuparnos? No debemos preocuparnos, sino que ocuparnos, ya que es esencial para la supervivencia del hombre y otros seres vivos en este planeta y si tenemos como objetivo mejorar las condiciones ambientales debemos reforestar, esto contribuye a la reforma, ornamentación e incremento de espacios verdes.
 
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): Invitar a la comunidad a sembrar una semilla, cada día pasan por nuestras manos decenas de semillas de los frutos y otros comestibles que consumimos,además de incentivar el hábito de reciclaje de desechos orgánicos para la obtención del compost y promover una operación sustentable en la cual queden en cuestión las empresas y sus métodos de explotación de los recursos forestales.
 
 - Describe las tareas que harán cada miembro de su grupo:
-Erika Deza: buscar opciones de fuentes para los textos
-Montserrat Vega: buscar modelos de imágenes de plantas en 4 diferentes fases de crecimiento
-Jenny Mozo: buscar y proponer alternativas de fondo y diseño final del árbol
+- Erika Deza: buscar opciones de fuentes para los textos
+- Montserrat Vega: buscar modelos de imágenes de plantas en 4 diferentes fases de crecimiento
+- Jenny Mozo: buscar y proponer alternativas de fondo y diseño final del árbol
 En el desarrollo de los códigos buscamos que cada una de nosotras realice actividades similares de programamación para fortalecer los conocimientos aprendidos durante el curso
 
 - Descripción de la obra: 
