@@ -2,7 +2,7 @@
 
 - Número del equipo: N°08
 - Nombre del equipo: Green Hearts
-- Nombre de todos miembros en tu equipo: Carolina,Maria Fernanda,Lina,Madeleine
+- Nombre de todos miembros en tu equipo: Carolina, Maria Fernanda, Lina y Madeleine
 - ¿Qué problema global eligieron ustedes? Abordaremos el impacto negativo que causa la deforestación en el medio ambiente, que está
 provocando la desaparición de muchas especies y dañando los ecosistemas a una escala sin precedentes, dañando asimismo la salud humana.
 - ¿Porque eligieron ese problema? Para concientizar sobre el cuidado de los arboles y la conservacion de la biodiversidad . 
