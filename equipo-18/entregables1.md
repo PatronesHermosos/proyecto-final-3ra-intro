@@ -8,7 +8,7 @@
 - Erika Deza Ruiz
 
 - ¿Qué problema global eligieron ustedes?
-- Promover la concientización en las personas sobre la desertificación (Dentro de la meta 15 de la ONU)
+- Promover la concientización en las personas sobre la desertificación (Meta #15 de la ONU)
 - ¿Por qué eligieron ese problema? Porque siendo el planeta el único lugar que tenemos para vivir esta problemática es algo que nos concierne absolutamente a todos, es fundamental lograr la toma de conciencia que nos lleve a tomar acciones que nos permitan frenar la depredación de bosques, la pérdida de biodiversidad y en consecuencia el cambio climático, entre otros.
 - ¿Por qué debemos preocuparnos? No debemos preocuparnos, sino que ocuparnos, ya que es esencial para la supervivencia del hombre y otros seres vivos en este planeta y si tenemos como objetivo mejorar las condiciones ambientales debemos reforestar, esto contribuye a la reforma, ornamentación e incremento de espacios verdes.
 
