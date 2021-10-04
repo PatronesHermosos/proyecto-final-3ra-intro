@@ -12,3 +12,7 @@ provocando la desaparición de muchas especies y dañando los ecosistemas a una 
  - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
+
+ **CHICAS NO TENGO OTRA FORMA DE MANDARLES MI CORREO OJALA LO PUEDAN VER ES***: 
+mcanazas2020@gmail.com todo en minuscula me escriben por ahi aca se han caido las redes sociales 
+Y no atengo para mensaje de texto sorry nos estamos comunicando, despues borran este mesaje final 
