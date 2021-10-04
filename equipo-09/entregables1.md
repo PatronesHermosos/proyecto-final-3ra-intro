@@ -14,6 +14,6 @@
  
 - Describe las tareas que harán cada miembro de su grupo: En esta primer etapa trabajaremos de manera colaborativa, y más adelante de acuerdo a los avances iremos dividiendonos las actividades
 
-- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
+- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí: https://youtu.be/jPc751gf_Ko
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
