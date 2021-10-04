@@ -13,6 +13,3 @@ provocando la desaparición de muchas especies y dañando los ecosistemas a una 
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
 
- **CHICAS SOY MADELEINE NO TENGO OTRA FORMA DE MANDARLES MI CORREO OJALA LO PUEDAN VER ES***: 
-mcanazas2020@gmail.com todo en minuscula me escriben por ahi aca se han caido las redes sociales 
-Y no atengo para mensaje de texto sorry nos estamos comunicando, despues borran este mesaje final 
