@@ -1,7 +1,7 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo:
-- Nombre del equipo:
+- Número del equipo: 28
+- Nombre del equipo: 
 - Nombre de todos miembros en tu equipo: Krisstell Villa Yataco, Laura Cabezas Sankina, Laila Magallan & Debora
 - ¿Qué problema global eligieron ustedes? Exceso de desechos plásticos 
 - ¿Porque eligieron ese problema? Actualmente el plástico es uno de los mayores contaminantes y son pocas las alternativas para reemplazarlo
