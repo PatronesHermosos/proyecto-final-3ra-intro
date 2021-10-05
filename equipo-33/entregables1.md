@@ -1,14 +1,18 @@
 ## Etapa 1 del proyecto final
 
 -Número del equipo: 33
+
 -Nombre del equipo: SeaGirls
+
 -Nombre de todos miembros en tu equipo:
 -Moreno Silvana
 -Oriana Osorio
 -Natalie Pérez
 -Priscila Ohannecian
+
 -¿Qué problema global eligieron ustedes?
 Vida submarina: contaminación de las aguas. Conservar y utilizar de forma sostenible los océanos, los mares y los recursos marinos.
+
 -¿Porque eligieron ese problema?
 Porque es una problemática mundial latente a la cual no se le ha dado solución. Por lo tanto es importante promover y establecer proyectos y políticas ambientales y ecológicas.
 Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
@@ -23,6 +27,7 @@ robot que recoja basura
 petróleo
 las aguas residuales
 Deforestación
+
 -Describe las tareas que harán cada miembro de su grupo:
 Moreno Silvana: Creación del entorno, descarga de plantilla Bootstrap y subirla a Gitjab. A partir de allí trabajar con HTML y CSS creación del título, descripción del proyecto y Javascript.
 Oriana Osorio: JavaScript, HTML, CSS, planteamiento del problema y planteamiento a la solución a dicha problemática, propuesta de diseño.
