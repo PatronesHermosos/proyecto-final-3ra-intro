@@ -13,5 +13,5 @@
 - Describe las tareas que harán cada miembro de su grupo:
 - Por el momento, lo enfocaremos de una manera grupal.. más adelante según la necesidad nos repartiremos las distintas tareas que vayan surgiedo.
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
-- 
+- https://youtu.be/M873bt5wrwQ
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
