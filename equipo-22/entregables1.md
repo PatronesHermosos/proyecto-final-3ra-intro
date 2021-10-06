@@ -9,4 +9,5 @@
 - Describe las tareas que harán cada miembro de su grupo: Claudia animación, Hernández dibujo mujer, Rivera dibujo montañas, Salas Vargas vegetación
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 https://www.youtube.com/watch?v=-lPJpuUW9OI
+
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
