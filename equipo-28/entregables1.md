@@ -2,7 +2,10 @@
 
 - Número del equipo: 28
 - Nombre del equipo: 
-- Nombre de todos miembros en tu equipo: Krisstell Villa Yataco, Laura Cabezas Sankina, Laila Magallan & Debora
+- Nombre de todos miembros en tu equipo: 
++ Krisstell Villa Yataco
++ nerea elena carraro
++ Jessica Melissa Villarreal Campos
 - ¿Qué problema global eligieron ustedes? Exceso de desechos plásticos 
 - ¿Porque eligieron ese problema? Actualmente el plástico es uno de los mayores contaminantes y son pocas las alternativas para reemplazarlo
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
