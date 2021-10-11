@@ -9,10 +9,12 @@ La falta de oportunidades académicas y laborales de mujeres en STEM en Latinoam
 Porque nos parece un problema muy actual y además por nuestras experiencias personales con el mismo
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
 Habilitar una página que brinde información sobre cursos de STEM y divulgación de igualdad de género
+
 - Describe las tareas que harán cada miembro de su grupo:
 - Nataly Echalar: Diseño y Programación 
 - Antonia Torres: Diseño y Programación
 - Nannyel Gutiérrez: Diseño y programación
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 https://youtu.be/IsISW2IplA0
+
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
