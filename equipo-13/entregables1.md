@@ -3,7 +3,7 @@
 - Número del equipo: #13
 - Nombre del equipo: Mosqueteras en accion por el planeta 
 
-- Nombre de todos miembros en tu equipo: Valeria Natalia Sestua ; Maria Elena Diosdado Martinez ; Estefania Bermudez Alvarez 
+- Nombre de todos miembros en tu equipo: Valeria Sestua ; Maria Elena Diosdado Martinez ; Estefania Bermudez Alvarez 
 
 - ¿Qué problema global eligieron ustedes?: Accion por el clima, Tomar medidas urgentes para combatir el cambio climatico y sus impactos
 
