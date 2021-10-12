@@ -11,7 +11,7 @@
   
   Lis Medina
   
-  Estefanía Villablanca
+  Rocio Huallpa
 
 - ¿Qué problema global eligieron ustedes? 
 
