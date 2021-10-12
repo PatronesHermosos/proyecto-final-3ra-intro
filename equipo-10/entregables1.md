@@ -4,7 +4,7 @@
 
 - Nombre del equipo:
   
-  Eskelis
+  KeLi-Roc
 - Nombre de todos miembros en tu equipo: 
 
   Keren Guzmán
