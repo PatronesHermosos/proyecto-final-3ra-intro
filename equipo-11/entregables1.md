@@ -28,3 +28,8 @@ Determinamos hacerlas de forma colaborativa
 https://www.youtube.com/watch?v=w_J3-eEIO1o&ab_channel=CristinaGonzl
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
+
+Nota: No alcanzamos a incluir el boceto inicial del proyecto en el video, de manera que adjuntamos el siguiente link con una imagen del mismo
+
+https://drive.google.com/file/d/10EyqDplvQp62WWKLDDhVBh3sKJVkdypz/view?usp=sharing
+
