@@ -27,7 +27,7 @@ Nuestra obra de arte va a tener una parte adicional en la cual dirigirá al usua
 <br>• Inicialmente cada una se va a encargar de investigar y recolectar posible información para contribuir dentro del proyecto.
 <br>• Dividiremos las opciones que incluyamos dentro del diseño e iremos creandolo de a poco, con ideas. 
 
-- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
+- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí: https://www.youtube.com/watch?v=gdvQuZU-bFE
 
 - Imagenes de dibujo de la idea del proyecto: 
 
