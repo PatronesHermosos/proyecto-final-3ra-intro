@@ -24,4 +24,4 @@
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
 
 ![Diseño](https://user-images.githubusercontent.com/91492174/136846946-1ec26013-3366-4df5-8cf2-742787afa3a3.jpg)
-file:///Z:/ESTEFANIA/PATRONES%20HERMOSOS/Proyecto%20final/Proyecto%20final.html
+![Diseño](file:///Z:/ESTEFANIA/PATRONES%20HERMOSOS/Proyecto%20final/Proyecto%20final.html)
