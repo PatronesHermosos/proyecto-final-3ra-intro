@@ -33,6 +33,6 @@ se le puede dar puntos o premiar como ciudadano ejemplar.
 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 
-  Video entrega 1: https://youtu.be/teuz2473n54
+  Video entrega 1: https://youtu.be/_TcHsCfh6uM
 
 - No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
