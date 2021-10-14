@@ -1,8 +1,11 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo:
+- Número del equipo:41
 - Nombre del equipo:
-- Nombre de todos miembros en tu equipo:
+- Nombre de todos miembros en tu equipo:Elizabeth Cristina Arenas Isaza
++ Albelis Alejandra Alfonzo Nava
++ Giselle Noemi Rios Mendez
++ Patricia Laura Casco
 - ¿Qué problema global eligieron ustedes?
 - ¿Porque eligieron ese problema?
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
