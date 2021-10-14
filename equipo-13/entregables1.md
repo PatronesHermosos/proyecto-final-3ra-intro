@@ -24,3 +24,7 @@
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
 
 ![Diseño](https://user-images.githubusercontent.com/91492174/136846946-1ec26013-3366-4df5-8cf2-742787afa3a3.jpg)
+
+Hemos rediseñado nuestra obra en un papel, mezclando nuevas ideas y tomando algunas del papel anterior quedando asi, este nuevo diseño:
+
+![WhatsApp Image 2021-10-13 at 16 07 05](https://user-images.githubusercontent.com/91492174/137368724-28e0f3d8-1530-4246-ac89-97a75fce1303.jpeg)
