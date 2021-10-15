@@ -23,6 +23,8 @@
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
 
+Nuestro video : https://youtu.be/hTYn2IDpg6U
+
 ![Diseño](https://user-images.githubusercontent.com/91492174/136846946-1ec26013-3366-4df5-8cf2-742787afa3a3.jpg)
 
 Hemos rediseñado nuestra obra en un papel, mezclando nuevas ideas y tomando algunas del papel anterior quedando asi, este nuevo diseño:
