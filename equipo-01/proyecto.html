@@ -1,49 +1,80 @@
 <!DOCTYPE html>
 <html lang= "es"> <!--lang define el idioma de la página*/-->
-<style> 
+<style> /*estilos CSS para los diferentes elementos, clases , id */
 #contenedor { 
     width: 1000px; 
     margin: 0 auto; 
     }
 
-h1{
+h1{ /*elemento html*/
     text-align:center;
     font-family: monospace;
     color: rgb(20, 121, 20); 
     background-position: center center;
 }
-.texto-circulo{
+.texto-circulo{ /*clase*/
     position: relative;
     top:100px;
     text-align: center;
     font-size: 16px;
     line-height: 25px;
 }
-#circulo{
+#circulo-1{/* ID*/
     position: relative;
-    left: 50%;
+    top:100px;
+    left: 300px;
     background: lightblue;
     border-radius: 50%;
     width: 200px;
     height: 200px;
 }
+#circulo-2{/* ID*/
+    position: relative;
+    top:100px;
+    left: 500px;
+    background: lightblue;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+#circulo-3{/* ID*/
+    position: relative;
+    left: 100px;
+    background: lightblue;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+#circulo-4{/* ID*/
+    position: relative;
+    left: 600px;
+    background: lightblue;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
 </style>
 <div id= contenedor> <!--todo el contenido de la pagina-->
 <head>
     <title>Ciudades sostenibles</title>
 </head>
 <body>
+ <header>
     <h1 >La ciudad es un ecosistema </h1><!--* primer título-->
+ </header>
     <p> <strong>Ecosistema:</strong> es una comunidad biótica (organismos vivos) que interactúan 
     con el medio físico de tal manera que un flujo de energía conduzca a un ciclo de la materia y a 
     un intercambio entre lo vivo y lo inerte en el interior del sistema (Odum, 1971).</p>
-    <div id= circulo>
+    <div id= "circulo-2"></div>
+    <div id= "circulo-1">
     <p class="texto-circulo">METABOLISMO de la CIUDAD</p> <!-- texto dentro del tag <p> para parrafo -->
     </div>
-        
+    
+    <div id= "circulo-3"></div>
+    <div id= "circulo-4"></div>
+<footer>Odum, E. P., & Barrett, G. W. (1971). Fundamentals of ecology (Vol. 3, p. 5). Philadelphia: Saunders.</h4>
+</footer> <!--va dentro del body-->
 </body>
-<footer style="position:relative; bottom:0px;">
-<h4>Odum, E. P., & Barrett, G. W. (1971). Fundamentals of ecology (Vol. 3, p. 5). Philadelphia: Saunders.</h4>
-</footer>
 </div> <!--  cierre del contenido -->
 </html>
