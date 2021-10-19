@@ -19,11 +19,9 @@
 
   Intentamos ser equitativas con las tareas, las tres buscaremos la informacion que pretendamos poner dentro de nuestra pagina web, asi como tambien nos dividimos las tareas, por   ejemplo, una va a enfocarse en el armado de la pagina en html, otra en el diseño con javascrip y la otra en el diseño por css, tambien intentaremos ayudarnos lo mas               posible unas con otras, para no dejar una sola tarea definida en una sola persona. 
 
-- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
+- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí: https://youtu.be/hTYn2IDpg6U
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
-
-Nuestro video : https://youtu.be/hTYn2IDpg6U
 
 ![Diseño](https://user-images.githubusercontent.com/91492174/136846946-1ec26013-3366-4df5-8cf2-742787afa3a3.jpg)
 
