@@ -11,11 +11,20 @@ h1{
     font-family: monospace;
     color: rgb(20, 121, 20); 
 }
-p{
+.texto-circulo{
     position: relative;
-    top:60px;
+    top:100px;
     text-align: center;
+    font-size: 16px;
     line-height: 25px;
+}
+#circulo{
+    position: relative;
+    background-position: 50% 50%;
+    background: lightblue;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;"
 }
 </style>
 <div id= contenido>
@@ -24,18 +33,16 @@ p{
 </head>
 <body>
     <h1 >La ciudad es un ecosistema </h1><!--* primer título-->
-    <div style="
-    position: relative;
-    top:500px;
-    left: 200px;
-    background: lightblue;
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;">
-    <p>METABOLISMO de la CIUDAD</p> <!-- texto dentro del tag <p> para parrafo -->
+    <p> <strong>Ecosistema:</strong> es una comunidad biótica (organismos vivos) que interactúan 
+    con el medio físico de tal manera que un flujo de energía conduzca a un ciclo de la materia y a 
+    un intercambio entre lo vivo y lo inerte en el interior del sistema (Odum, 1971).</p>
+    <div id= circulo>
+    <p class="texto-circulo">METABOLISMO de la CIUDAD</p> <!-- texto dentro del tag <p> para parrafo -->
     </div>
         
-    </body>
-    
+</body>
+<footer style="position:relative; bottom:0px;">
+<h4>Odum, E. P., & Barrett, G. W. (1971). Fundamentals of ecology (Vol. 3, p. 5). Philadelphia: Saunders.</h4>
+</footer>
 </div>
 </html>
