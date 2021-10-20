@@ -20,6 +20,13 @@ h1{ /*elemento html*/
     color: rgb(20, 121, 20); 
     background-position: center center;
 }
+.parrafo{
+    text-align: justify;
+    font-size:25px;
+    font-family: monospace;
+    background-color: rgb(207, 238, 195);
+    padding:50px ;
+}
 .texto-circulo{ /*clase*/
     position: relative;
     top:100px;
@@ -51,7 +58,7 @@ footer{
      CIUDADES SOSTENIBLES
 </header>
 <h1 >La ciudad es un ecosistema </h1><!--* primer título-->
-    <p> <strong>Ecosistema:</strong> es una comunidad biótica (organismos vivos) que interactúan 
+    <p class= "parrafo"> <strong>Ecosistema:</strong> es una comunidad biótica (organismos vivos) que interactúan 
     con el medio físico de tal manera que un flujo de energía conduzca a un ciclo de la materia y a 
     un intercambio entre lo vivo y lo inerte en el interior del sistema (Odum, 1971).</p>
  
@@ -63,7 +70,7 @@ footer{
     border-radius: 50%;
     width: 100px;
     height: 100px;">
-    <p class="texto-ball">energía/ combustible</p> <!-- texto dentro del tag <p> para parrafo -->      
+    <p class="texto-ball">energía/ combustible</p> <!-- clase texto-ball reutilizable en todos los círculos similares-->
     </div>
     <div id="ball2" style="position: relative;
     top:140px;
@@ -72,7 +79,7 @@ footer{
     border-radius: 50%;
     width: 100px;
     height: 100px;">
-    <p class="texto-ball">agua</p> <!-- texto dentro del tag <p> para parrafo -->      
+    <p class="texto-ball">agua</p> 
     </div>
     <div id="ball3" style="position: relative;
     top:100px;
@@ -81,7 +88,7 @@ footer{
     border-radius: 50%;
     width: 100px;
     height: 100px;">
-    <p class="texto-ball">materias primas/ producción</p> <!-- texto dentro del tag <p> para parrafo -->      
+    <p class="texto-ball">materias primas/ producción</p>     
     </div>
 
     <!-- CIRCULOS-->
@@ -92,37 +99,80 @@ footer{
     border-radius: 50%;
     width: 200px;
     height: 200px;">
-    <p class="texto-circulo">ENTRADAS</p> <!-- texto dentro del tag <p> para parrafo -->    
+    <p class="texto-circulo">ENTRADAS</p><!-- clase texto-círculo reutilizable en todos los similares -->
+    </div>
+
+    <!--flecha-->
+    <div id="rectangulo" style="position:relative;
+    top:13px;
+    left:595px;
+    width: 25px;
+    height: 60px;
+    background:rgb(255, 0, 106);
+    transform:rotate(45deg);"></div>
+    <div id="triangulo" style="position:relative;
+    top:-5px;
+    left:557px;
+    width:0px;
+    height:0px;
+    border-left:25px solid transparent;
+    border-right:25px solid transparent;
+    border-top:25px solid rgb(255, 0, 106);
+    transform: rotate(45deg);">
     </div>
     <div id= "circulo2" style="position: relative;
-    top:50px;
+    top:0px;
     left: 350px;
     background: rgb(230, 186, 173);
     border-radius: 50%;
     width: 200px;
     height: 200px;">
-    <p class="texto-circulo">Medio abiótico</p> <!-- texto dentro del tag <p> para parrafo -->
+    <p class="texto-circulo">Medio abiótico</p> 
     </div>
     <div  id= "circulo3" style="
     z-index: 2;
     position: relative;
-    top:-30px;
+    top:-40px;
     left: 250px;
     background: rgb(180, 189, 63);
     border-radius: 50%;
     width: 300px;
     height: 300px;">
-    <p class="texto-circulo"><strong>METABOLISMO de la CIUDAD</strong></p> <!-- texto dentro del tag <p> para parrafo -->
+    <p style="position: relative;
+    top:130px;
+    text-align: center;
+    font-size: 35px;
+    line-height: 30px;"><strong>METABOLISMO de la CIUDAD</strong></p> <!-- style específico para el circulo central -->
     </div>
     <div id= "circulo4" style="position: relative;
-    top:-100px;
+    top:-80px;
     left: 350px;
     background: rgb(230, 186, 173);
     border-radius: 50%;
     width: 200px;
     height: 200px;">
-    <p class="texto-circulo"> Seres vivos</p> <!-- texto dentro del tag <p> para parrafo -->
+    <p class="texto-circulo"> Seres vivos</p>
     </div>
+
+    <!--flecha-->
+    <div id="rectangulo" style="position:relative;
+    top:-75px;
+    left:360px;
+    width: 25px;
+    height: 60px;
+    background:rgb(255, 0, 106);
+    transform:rotate(45deg);"></div>
+    <div id="triangulo" style="position:relative;
+    top:-95px;
+    left:325px;
+    width:0px;
+    height:0px;
+    border-left:25px solid transparent; 
+    border-right:25px solid transparent; 
+    border-top:25px solid rgb(255, 0, 106);
+    transform: rotate(45deg);">
+    </div>
+    
     <div id = "circulo5" style="position: relative;
     top:-100px;
     left: 150px;
@@ -130,7 +180,7 @@ footer{
     border-radius: 50%;
     width: 200px;
     height: 200px;">
-    <p class="texto-circulo"> SALIDAS</p> <!-- texto dentro del tag <p> para parrafo -->      
+    <p class="texto-circulo"> SALIDAS</p> 
     </div>
 
     <!-- pelotitas NARANJAS-->
@@ -141,7 +191,7 @@ footer{
     border-radius: 50%;
     width: 100px;
     height: 100px;">
-    <p class="texto-ball"> emisiones</p> <!-- texto dentro del tag <p> para parrafo -->      
+    <p class="texto-ball"> emisiones</p>    
     </div>
     <div id="ball5" style="position: relative;
     top:-230px;
@@ -150,7 +200,7 @@ footer{
     border-radius: 50%;
     width: 100px;
     height: 100px;">
-    <p class="texto-ball">residuos sólidos</p> <!-- texto dentro del tag <p> para parrafo -->      
+    <p class="texto-ball">residuos sólidos</p>     
     </div>
     <div id="ball6" style="position: relative;
     top:-550px;
@@ -159,7 +209,7 @@ footer{
     border-radius: 50%;
     width: 100px;
     height: 100px;">
-    <p class="texto-ball">aguas residuales</p> <!-- texto dentro del tag <p> para parrafo -->      
+    <p class="texto-ball">aguas residuales</p>   
     </div>
 
 <footer> <p><strong>Referencias: </strong> Odum, E. P., & Barrett, G. W. (1971). Fundamentals of ecology (Vol. 3, p. 5). Philadelphia: Saunders.</p>
