@@ -18,7 +18,7 @@
 
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): 
 <br> Presentación con opciones que lleven hacia distintas opciones que ayuden al medio ambiente, por ejemplo:
-<br>• La idea de nuestra obra de arte es que aparezca un elemento que desechamos, para que se clasifiquen, al descender en uno de los contenedores que estarán en la parte de abajo.
+<br>• La idea de nuestra obra de arte es que aparezca un elemento que desechamos, para que se clasifiquen, al descender en uno de los contenedores que estarán en la parte de abajo. Será una obra de arte tipo collage que combina imagenes y "puntillismo" en lo que hace referencia a los objetos o desechos cotidianos de los hogares. 
 Nuestra obra de arte va a tener una parte adicional en la cual dirigirá al usuario mediante enlaces, hacia los sitios de distintos influencers ecológicos.
 <br>• huella ecologica (breve información)
 <br>• influencers ecologicos (Moodboard de influencers)
