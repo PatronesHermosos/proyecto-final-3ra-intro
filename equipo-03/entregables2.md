@@ -11,6 +11,8 @@
 
 No se olviden de entregar el código que ustedes han escrito para el proyecto final. Instrucciones para subir archivos a Github están disponibles en la plataforma.
 
+//**SUBO EL CÓDIGO DE HMTL, NO EL DE CSS PORQUE ESTÁ EN EN OTRA PESTAÑA EN VSCODE Y NO SÉ CÓMO ADJUNTARLOS Y QUE SE VEAN ORDENADOS. POR EL MOMENTO DEBEMOS MODIFICAR EL CÓDIGO HTML //
+
 
 <!doctype html>
 <html lang="en">
