@@ -9,6 +9,7 @@
 - El título de su proyecto: La importancia de plantar árboles
 
 - La lista de recursos y referencias que han usado:
+
 Antonella Vásquez: Rain cloud / https://codepen.io/joshottey/pen/rGwGgG
 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
