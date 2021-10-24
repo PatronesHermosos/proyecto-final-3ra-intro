@@ -1,8 +1,11 @@
 ## Etapa 2 del proyecto final
 
-- Numero del equipo: 
-- Nombre del equipo:
+- Numero del equipo: 12
+- Nombre del equipo: Tequilazo ecologico
 - Nombre de todos miembros en su equipo:
+- • Jenny Pérez Ortega
+• Carla Michel García Aldrete
+• Marisol Itzel Mejía Perales
 - El título de su proyecto:
 - La lista de recursos y referencias que han usado:
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
