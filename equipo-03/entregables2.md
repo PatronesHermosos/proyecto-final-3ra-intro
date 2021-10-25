@@ -79,7 +79,7 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
               <a class="nav-link" href=file:///C:/Users/D%C3%A9bora/Desktop/Contaminaci%C3%B3n%20submarina,%20problema%20de%20todos%20-%20Equipo%2003/index.html?#scroll>Inicio<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href=file:///C:/Users/D%C3%A9bora/Desktop/Contaminaci%C3%B3n%20submarina,%20problema%20de%20todos%20-%20Equipo%2003/obra_de_arte/index2.html>Nuestra Obra de Arte</a>
+              <a class="nav-link" href="./obra_de_arte/index2.html">Nuestra Obra de Arte</a>
             </li>
               <li class="nav-item active"></li>
               <a class="nav-link" href=file:///C:/Users/D%C3%A9bora/Desktop/Contaminaci%C3%B3n%20submarina,%20problema%20de%20todos%20-%20Equipo%2003/index.html?#scroll>Artículos de Interés<span class="sr-only">(current)</span></a></ul>
