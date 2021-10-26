@@ -8,6 +8,7 @@
 • Marisol Itzel Mejía Perales
 - El título de su proyecto:CADA COSA A SU LUGAR  
 - La lista de recursos y referencias que han usado:
+- Link para  tener referencia sobre los colores de los botes de basura: https://www.ecologiahoy.com/colores-del-reciclaje
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
 
