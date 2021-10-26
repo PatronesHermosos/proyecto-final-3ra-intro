@@ -4,7 +4,8 @@
 - Nombre del equipo: Contaminación submarina, problema de todos
 - Nombre de todos miembros en su equipo: Zoe Ailen Montes, Débora Cuestas, Arantza Lozada, Maria Camila Rojas Muñoz.
 - El título de su proyecto: (Elegir título de la entrega en conjunto)
-- La lista de recursos y referencias que han usado:
+- La lista de recursos y referencias que han usado: 
+- (Imagenes usadas en carousel en la parte superior): Photo by Angela Compagnone on Unsplash (imagen con titulo de patrones hermosos) Photo by Naja Bertolt Jensen on Unsplash (imagen de red en el agua con peces), Photo by Alexander Schimmeck on Unsplash (imagen de puente con basura en el agua) 
 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
