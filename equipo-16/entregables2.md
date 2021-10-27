@@ -3,9 +3,9 @@
 - Número del equipo: 16
 - Nombre del equipo: Super equipo 16
 - Nombre de todos miembros en su equipo:
-- Natalia López Gutiérrez
-- Vania Rebeca Ramos López 
-- Kristel Fiorelly Orellana Orellana
+   - Natalia López Gutiérrez
+   - Vania Rebeca Ramos López 
+   - Kristel Fiorelly Orellana Orellana
 
 - El título de su proyecto: Contaminación en Latinoamérica
 - La lista de recursos y referencias que han usado:
