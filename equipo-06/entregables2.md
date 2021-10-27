@@ -3,7 +3,7 @@
 - Numero del equipo: 06
 - Nombre del equipo: Blue Designers
 - Nombre de todos miembros en su equipo: Florencia y Pamela.
-- El título de su proyecto:
+- El título de su proyecto: "Educando sobre la contaminación del agua"
 - La lista de recursos y referencias que han usado:
 - CUIDADO DEL MAR
 •	https://www.fao.org/fao-stories/article/es/c/1260367/
