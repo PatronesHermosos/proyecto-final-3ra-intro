@@ -12,6 +12,7 @@
 - Raices de la palabra tequila: https://es.wikipedia.org/wiki/Tequila
 - * Las erres en la ecologia: https://reddolac.org/profiles/blogs/los-colores-que-se-deben-emplear-para-el-reciclaje-de-basura
 - Formas para algunas frutas o reciduos: https://cybmeta.com/formas-basicas-con-css-triangulos-circulos-trapecios-rectangulos-cuadrados
+- Còdigos para hacer rotar las formas: https://developer.mozilla.org/es/docs/Web/CSS/transform-function/rotate()
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
 
