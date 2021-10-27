@@ -5,13 +5,15 @@
 - Nombre de todos miembros en su equipo: Florencia y Pamela.
 - El título de su proyecto: "Educando sobre la contaminación del agua"
 - La lista de recursos y referencias que han usado:
-- CUIDADO DEL MAR
+CUIDADO DEL MAR
 •	https://www.fao.org/fao-stories/article/es/c/1260367/
 •	https://coordinadoraongd.org/2019/06/aquatika-un-cuento-infantil-que-conciencia-sobre-la-importancia-de-cuidar-el-mar/
 •	https://www.ngenespanol.com/ecologia/consejos-para-cuidar-los-oceanos-gifs-animados-de-oceano/
+
 CUENTOS Y CANCIONES
 •	https://www.youtube.com/watch?v=P3nO70b_UHE
 •	https://www.eluniverso.com/entretenimiento/2020/06/04/nota/7861098/heroes-oceano-su-rescate-medio-ambiente-cuento/
+
 AUDIO-CUENTO CREADO
 •	https://drive.google.com/file/d/1DauyeOHPClpZahvYMJOfYXvQ2-seEWeX/view?usp=sharing
 
