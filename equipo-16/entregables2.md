@@ -5,7 +5,7 @@
 - Nombre de todos miembros en su equipo:
    - Natalia López Gutiérrez
    - Vania Rebeca Ramos López 
-   - Kristel Fiorelly Orellana Orellana
+   - Kristhel Fiorelly Orellana Orellana
 
 - El título de su proyecto: Contaminación en Latinoamérica
 - La lista de recursos y referencias que han usado:
