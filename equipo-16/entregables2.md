@@ -9,6 +9,8 @@
 
 - El título de su proyecto: Contaminación en Latinoamérica
 - La lista de recursos y referencias que han usado:
+   - Contaminación : https://www.bbc.com/mundo/noticias-56001440
+   - Imágenes: https://pixabay.com/es/illustrations/search/ciudad/
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/NVO7JSNmwKI
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
 ¿Es recomendable que las imágenes que utilicemos para nuestra obra de arte, tenga posición relativa o es mejor utilizar posición absoluta?
