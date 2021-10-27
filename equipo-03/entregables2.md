@@ -3,11 +3,23 @@
 - Numero del equipo: 3
 - Nombre del equipo: Contaminación submarina, problema de todos
 - Nombre de todos miembros en su equipo: Zoe Ailen Montes, Débora Cuestas, Arantza Lozada, Maria Camila Rojas Muñoz.
-- El título de su proyecto: (Elegir título de la entrega en conjunto)
+- El título de su proyecto: Contaminación submarina, problema de todos
 - La lista de recursos y referencias que han usado: 
-- (Imagenes usadas en carousel en la parte superior): Photo by Angela Compagnone on Unsplash (imagen con titulo de patrones hermosos) Photo by Naja Bertolt Jensen on Unsplash (imagen de red en el agua con peces), Photo by Alexander Schimmeck on Unsplash (imagen de puente con basura en el agua) 
+  - (Imagenes usadas en carousel en la parte superior): Photo by Angela Compagnone on Unsplash (imagen con titulo de patrones hermosos) Photo by Naja Bertolt Jensen on Unsplash (imagen de red en el agua con peces), Photo by Alexander Schimmeck on Unsplash (imagen de puente con basura en el agua).
+  Flaticon 
+  Pexels
+  Links
+  https://www.contaminacionx.com/contaminacion-agua/#%C2%BFQue_es_la_contaminacion_del_agua >Contaminación del agua (Estudio para LATAM) artículo por Sebastián Álvarez en ContaminaciónX, Año 2020.
+  https://www.aguasresiduales.info/revista/noticias/causa-y-consecuencias-de-la-contaminacion-del-agua-JNEEY >"Causa y consecuencias de la contaminación del agua" por Aguas Residuales.Info, Año 2017.
+  https://www.energyavm.es/causas-y-posibles-soluciones-a-la-contaminacion-del-agua/ >"Causas y posibles soluciones a la contaminación del agua" por Enérgya VM, Año 2020.
+  https://www.youtube.com/watch?v=hEMLqrgEwbg > Reporte "Marine litter" por Surfrider Foundation Europe, Año 2011.
+  https://www.youtube.com/watch?v=KfDfl03-a-o > La Ruta del Plástico (Episodio Completo) por Explorer Investigation (National Geographic Latinoamérica), Año 2019.
+  https://www.greenpeace.org/mexico/blog/2588/4-animales-que-sufren-por-la-contaminacion-plastica/ > "4 animales que sufren por la contaminación plástica" artículo publicado por Daniela Albarrán en 'Greenpeace', Año 2019.
+  https://www.ecologiaverde.com/causas-y-consecuencias-de-la-contaminacion-del-mar-1539.html#anchor_2 > "Causas y consecuencias de la contaminación del mar" artículo publicado por Nura Abbas, Ambientóloga en Ecología Verde, actualizado en el año 2019.
+  https://www.un.org/es/actnow/facts-and-figures#tab6 > "Datos y cifras"- "Residuos" artículo publicado por Naciones Unidas.
+  https://www.enestadocrudo.com/isla-basura/ > "Isla de basura: dudas y respuestas" artículo publicado ‘En Estado Crudo’, Año 2019.
 
-- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/5Yt9lIGYKzs
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
 
 No se olviden de entregar el código que ustedes han escrito para el proyecto final. Instrucciones para subir archivos a Github están disponibles en la plataforma.
@@ -39,6 +51,18 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
     <meta name="theme-color" content="#563d7c">
 
     <style>
+      .he::after{
+        
+  content:'';
+  position:absolute;
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  background-color:black;
+  opacity:0.5;
+}
+      
       .nav-bg{
         background-color: #5BC07B;
       }
@@ -77,13 +101,13 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href=file:///C:/Users/D%C3%A9bora/Desktop/Contaminaci%C3%B3n%20submarina,%20problema%20de%20todos%20-%20Equipo%2003/index.html?#scroll>Inicio<span class="sr-only">(current)</span></a>
+              
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a class="nav-link" href="./obra_de_arte/index2.html">Nuestra Obra de Arte</a>
-            </li>
+            </li> -->
               <li class="nav-item active"></li>
-              <a class="nav-link" href=file:///C:/Users/D%C3%A9bora/Desktop/Contaminaci%C3%B3n%20submarina,%20problema%20de%20todos%20-%20Equipo%2003/index.html?#scroll>Artículos de Interés<span class="sr-only">(current)</span></a></ul>
+              <a class="nav-link" href=#>Artículos de Interés<span class="sr-only">(current)</span></a></ul>
              </li>
             <!-- <li class="nav-item">
               <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
@@ -99,15 +123,15 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
 
     <main role="main">
 
-      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <div  id="myCarousel" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#myCarousel" data-slide-to="1"></li>
           <li data-target="#myCarousel" data-slide-to="2"></li>
         </ol>
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="logomodif.jpg"  alt="...">
+        <div  class="carousel-inner">
+          <div  class="he carousel-item active">
+            <img  src="logomodif.jpg"  alt="...">
 
             <div class="container">
               <div class="carousel-caption text-left">
@@ -117,7 +141,7 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
               </div>
             </div>
           </div>
-          <div class="carousel-item">
+          <div class="he carousel-item">
             <img src="Photo2.jpg" alt="...">
 
             <div class="container">
@@ -128,7 +152,7 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
               </div>
             </div>
           </div>
-          <div class="carousel-item">
+          <div class="he carousel-item">
             <img src="Photo3.jpg" alt="...">
 
             <div class="container">
@@ -151,6 +175,17 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
       </div>
 
 
+      <!-- EDICION OBRA DE ARTE -->
+
+      <div style="padding: 10px; margin-bottom: 50px; display: flex; flex-direction: column;
+      justify-content: center; align-items: center;">
+        <h2>Pueden ver nuestra Obra de Arte de Aquí</h2> 
+        <p><a class="btn bg-seco text-white" href="./obra_de_arte/index2.html"> Ver Obra de Arte</a></a></p>
+      </div>
+
+      <!-- ACABA AQUI OBRA DE ARTE  -->
+
+
       <!-- Marketing messaging and featurettes
       ================================================== -->
       <!-- Wrap the rest of the page in another container to center all the content. -->
@@ -160,14 +195,14 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
         <!-- Three columns of text below the carousel -->
         <div class="row">
           <div class="col-lg-4">
-            <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
-
+            
+            <img src="circulo 2.jpg"width="260" height="160" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">
             <h2 style="color: #5BC07B;">Contaminación del agua</h2>
             <p>"La contaminación del agua se produce cuando ingresan en un entorno la presencia de elementos o sustancias que son nocivas para el ecosistema, es decir, ponen en riesgo su equilibrio, viéndose perjudicada la salud de los seres humanos y los animales que habiten en ese espacio. El agua es un recurso básico de importancia vital, ya que permite garantizar la vida de todos los seres vivos. En la actualidad, se presentan diversos problemas como su escasez y la contaminación, ocasionando graves daños al ecosistema de nuestro planeta Tierra. La contaminación del agua resulta ser la más perjudicial, ya que a nivel mundial es la principal causa de muertes y enfermedades, siendo perjudicadas un aproximado de 14.000 personas diariamente."</p>
             <p><a class="btn bg-seco text-white" href=https://www.contaminacionx.com/contaminacion-agua/#¿Que_es_la_contaminacion_del_agua>Contaminación del agua (Estudio para LATAM) por Sebastián Álvarez, Año 2020</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+            <img src="circulo 222.jpeg"width="220" height="160" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">
 
             <h2 style="color: #5BC07B;">El ser humano, principal responsable de la contaminación del agua
             </h2>
@@ -177,7 +212,7 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
             <p><a class="btn bg-seco text-white" href=https://www.aguasresiduales.info/revista/noticias/causa-y-consecuencias-de-la-contaminacion-del-agua-JNEEY> "Causa y consecuencias de la contaminación del agua" por Aguas Residuales.Info, Año 2017.</a></a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+            <img src="circulo 3.jpeg"width="260" height="160" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em"></text>
 
             <h2 style="color: #5BC07B;">Las soluciones a la contaminación del agua</h2>
             <p>"Las principales soluciones pasan por:
@@ -207,7 +242,7 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
             <p><a class="btn bg-seco text-white" href=https://www.youtube.com/watch?v=KfDfl03-a-o> La Ruta del Plástico (Episodio Completo) por Explorer Investigation (National Geographic Latinoamérica), 2019</a></p>  
           </div>
           <div class="col-md-5">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+            <img src="cuadrado 11.jpeg" width="500" height="500" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">
 
           </div>
         </div>
@@ -228,7 +263,7 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
               <p class="lead">Fuente: <a class="btn bg-seco text-white" href=https://www.ecologiaverde.com/causas-y-consecuencias-de-la-contaminacion-del-mar-1539.html#anchor_2> "Causas y consecuencias de la contaminación del mar" artículo publicado por Nura Abbas, Ambientóloga en Ecología Verde, actualizado en el año 2019.</a></p>    
             </div>
           <div class="col-md-5 order-md-1">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+            <img src="circulo 11.jpg" width="440" height="450" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">
 
           </div>
         </div>
@@ -255,10 +290,18 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
             <p class="lead"></p>  
             </div>
           <div class="col-md-5">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+            <img src="reciclaje.jpeg" width="450" height="500" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">
+              
 
+              
+              <div class="col-md-5">
+              <hr class="featurette-divider">
+              <img src="isla.jpeg" width="440" height="450" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">
+            </div>
           </div>
-        </div>
+  
+          <hr class="featurette-divider">
+  
 
         <hr class="featurette-divider">
 
