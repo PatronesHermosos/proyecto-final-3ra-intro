@@ -1,0 +1,27 @@
+
+.contenedor img{
+    margin:auto;
+    display:block;
+    width:600px;
+    height:600px;
+    left:400px;
+    top: 300px;
+    transition:1s;
+    position: absolute;
+}
+h1{
+    color:beige;
+    font-size: 6em;
+    text-align: center;
+    position:absolulte;
+    top:50%;
+    left:50%
+}
+
+.contenedor img:hover{
+    -webkit-transform: rotate(360g);
+    transition: 3s ease-in-out;
+    -webkit-box-shadow:0px 0px 15px 15px rgb(37, 9, 30);
+    -webkit-border-radius: 50%;
+    
+}
