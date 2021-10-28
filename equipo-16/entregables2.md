@@ -20,3 +20,125 @@
    -¿Es recomendable que las imágenes que utilicemos para nuestra obra de arte, tenga posición relativa o es mejor utilizar posición absoluta?
 
 No se olviden de entregar el código que ustedes han escrito para el proyecto final. Instrucciones para subir archivos a Github están disponibles en la plataforma.
+
+
+Código en HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!--ruta de la hoja de estilos-->
+        <link rel="stylesheet" href="style.css">
+    <title>Contaminación</title>
+</head>
+<body>
+    <div id="container">
+        <header>
+            <h1>¡La contaminación en latinoamerica!</h1>
+            <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+        </header>
+     
+        <section1 id="content">
+            <div>
+                <p>ciudad ecológica</p>
+                <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+                <img src="img/plaza.jpg" alt="ciudad ecológica"
+                style="object-fit:contain;
+                position:relative;
+                           width:100%;
+                           height:100%"/>
+            </div>
+
+        </section2 id="content">
+        <div>
+            <p>Texto2</p>
+            <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+            <img src="img/verde2.jpg" alt="Texto2"
+            style="object-fit:contain;
+            position:relative;
+                       width:100%;
+                       height:100%"/>
+        </div>
+
+    </section3 id="content">
+    <div>
+        <p>Texto3</p>
+        <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+        <img src="img/verano.jpg" alt="Texto3"
+        style="object-fit:contain;
+        position:relative;
+                   width:100%;
+                   height:100%"/>
+    </div>
+        <footer>
+            <h3>Diseñado por Súper equipo 16</h3>
+  
+        </footer>
+    </div> 
+</body>
+</html>
+
+código en CSS
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.8;
+    font-size: 16px;
+    background: #fff;
+    color: #848484;
+    font-weight: 300;
+    overflow-x: hidden;
+    margin: 25px 50px 75px;
+}
+header{
+    color: #212121;
+    font-family:'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 0 340px 0;
+}
+section1{
+    background-color: transparent;
+    color: #3f2c53;
+    font-family:'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 85px;
+    text-align: center;
+    margin: 0 0 340px 0;
+}
+section2{
+    background-color: transparent;
+    color: #3f2c53;
+    font-family:'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 85px;
+    text-align: center;
+    margin: 0 0 340px 0;
+}
+section3{
+background-color: transparent;
+color: #3f2c53;
+font-family:'Dancing Script', cursive;
+font-weight: 400;
+font-size: 85px;
+text-align: center;
+margin: 0 0 3400px 0;
+}
+
+footer{
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 12px;
+    width: 100%;
+    background: #ebebeb;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #999999;
+}
