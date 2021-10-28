@@ -19,6 +19,7 @@ AUDIO-CUENTO CREADO
 •	https://drive.google.com/file/d/1DauyeOHPClpZahvYMJOfYXvQ2-seEWeX/view?usp=sharing
 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+https://youtu.be/iXUexPg3VYc 
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
 - ¿ Se puede agregar una herramienta para colorear dibujos hechos por nosotras digitalizados, en una plantilla de bootstrap?
 
