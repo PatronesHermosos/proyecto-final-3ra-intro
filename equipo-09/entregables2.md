@@ -13,6 +13,8 @@
 - https://www.youtube.com/watch?v=oIo48CjmaLo
 - 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- https://www.canva.com/design/DAEuJpwtcP8/gzi_2svaEmICeqCKEyL1CQ/view?utm_content=DAEuJpwtcP8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#2
+- 
 - 
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
 - Nuestra principal duda es: sobre los recursos que vimos en los sitios citados arriba, que tan valido es que nos basemos en ellos para armar nuestro proyecto. En concreto ¿es valido usar recursos de bootstrap?
