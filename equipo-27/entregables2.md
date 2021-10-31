@@ -1,11 +1,16 @@
 ## Etapa 2 del proyecto final
 
-- Numero del equipo: 
-- Nombre del equipo:
-- Nombre de todos miembros en su equipo:
-- El título de su proyecto:
-- La lista de recursos y referencias que han usado:
+- Numero del equipo: 27
+- Nombre del equipo: Kaminos Sustentables
+- Nombre de todos miembros en su equipo: Katia Lopez Murillo, Karen Sanabia, Karla Vanesa Muñoz Parrales, Karime Ochoa Jacinto.
+- El título de su proyecto:Kaminos sustentables
+- La lista de recursos y referencias que han usado: 
+https://coolors.co/004e64-00a5cf-9fffcb-25a18e-7ae582
+https://www.gob.mx/semarnat/articulos/la-bicicleta-transporte-sustentable-de-uso-individual
+
+
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
-
+-¿Cómo compartimos nuestro código en GitHub de manera más dinámica?
+-¿Cómo editamos nuestra plantilla de Bootstrap para hacer más pestañas?
 No se olviden de entregar el código que ustedes han escrito para el proyecto final. Instrucciones para subir archivos a Github están disponibles en la plataforma.
