@@ -1,6 +1,6 @@
 ## Etapa 2 del proyecto final
 
-- Numero del equipo: 
+- Numero del equipo: 34
 - Nombre del equipo:
 - Nombre de todos miembros en su equipo:
 - El título de su proyecto:
