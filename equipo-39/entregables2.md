@@ -24,6 +24,7 @@
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
 - 
   +¿Cómo insertar una hoja de estilo desde un archivo css en un código html?
+  
   +¿Se pueden crear figuras que contengan hipervínculos (por ejemplo, una hoja o una fruta a la que se le pudiera dar clic? 
 
 No se olviden de entregar el código que ustedes han escrito para el proyecto final. Instrucciones para subir archivos a Github están disponibles en la plataforma.
