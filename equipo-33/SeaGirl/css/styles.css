@@ -1,0 +1,137 @@
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+
+  /*BARRA DE NAVEGACIÓN*/
+#nav{
+    width: 100%;
+    height: 40px;
+    background-color: #333333;
+    color: white;
+    font-family: Sans-serif, Helvetica, Arial;
+    font-size: 14px;
+    box-shadow: 0px 0px 2px gray;
+}
+
+#nav ul{
+    list-style: none;
+    text-decoration: none;
+    margin: 0px auto;
+    width: 1090px;
+
+}
+
+#nav > ul > li {
+    line-height: 40px;
+    float: left;
+    border-right: 1px solid gray;
+    transition: all 300ms;
+}
+
+#nav > ul > li a {
+    display: block;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+#nav > ul > li > a:first-child{
+    border-left: 1px solid gray;
+}
+
+#nav > ul > li:hover{
+    background-color: #2a64bb;
+    box-shadow: 0px 0px 4px rgb(0, 9, 128) inset;
+}
+
+
+/*MENU DESPLEGABLE*/
+ 
+#nav >ul >li >ul {
+    display: none;
+    position: absolute;
+    width: 160px;
+    box-shadow: 0px 2px 2px gray;
+    z-index: 1;
+} 
+
+#nav >ul >li:hover >ul{
+    display: block;
+} 
+
+#nav >ul >li:hover >ul >li{
+    background-color: #f2f1f0;
+    border-bottom: 1px solid #d6d6d6;
+    padding: 8px;
+    line-height: 25px;
+    font-size: 13px;
+    transition: all 300ms;
+    
+} 
+
+#nav >ul >li:hover >ul >li a{
+    color: #666666;
+   
+}
+
+#nav >ul >li:hover >ul >li:hover{
+     box-shadow: 0px 0px 2px #ccc inset;
+     background: rgb(228, 227, 227);
+    
+}
+
+/*CONTENIDO*/
+#content {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    width: 1250px;
+    min-height: 1100px;
+    margin: 0px auto;
+} 
+
+/*PIE DE PAGINA*/
+
+#footer{
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 40px;
+    background-color: #333333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-family: sans-serif;
+    font-size:14px ;
+    box-shadow: 0px 0px 2px gray;
+    
+}
+
+/* BOTON */
+
+.boton {
+    color: #ffffff; 
+    text-decoration: none;
+    border: none;
+     
+      text-align: center;
+      border-radius: 3.5px;
+      background-color: #6c757d; 
+  }
+  .boton:hover {
+    background-color: #343a40;
+    
+   
+  }
