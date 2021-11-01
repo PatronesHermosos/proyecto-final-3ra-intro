@@ -1,0 +1,212 @@
+body{
+    background: url(img/FONDO.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+@font-face {
+    font-family: "MI FUENTE1";
+    src: url(fuentes/Satisfy-Regular.ttf);
+}
+
+h1{
+    font-family: "MI FUENTE1";
+    font-size: 25px;
+}
+h1{
+    padding: 110px;
+    text-align: center;
+}
+
+@font-face {
+    font-family:"MI FUENTE2";
+    src: url(fuentes/PatrickHand-Regular.ttf);
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+.texto1 {
+    font-family: "MI FUENTE2";
+    font-size: 25px;
+    padding: 100px;
+    text-align: justify;
+    position: relative;
+    top: 400px;
+}
+
+
+h3{
+    text-align: center;
+    font-size: 40px;
+}
+
+.texto2 {
+    padding: 100px;
+    text-align: justify;
+    font-family: "MI FUENTE2";
+    font-size: 25px;
+    position: relative;
+    top: 400px;
+
+}
+
+h4{
+    text-align: center;
+    font-size: 40px;
+}
+
+.texto3 {
+    padding: 100px;
+    text-align: justify;
+    font-family: "MI FUENTE2";
+    font-size: 25px;
+    position: relative;
+    top: 400px;
+}
+
+h5{
+    text-align: center;
+    font-size: 40px;
+}
+
+h6{
+    font-size: 30px;
+}
+.texto4 {
+    padding: 100px;
+    text-align: justify;
+    font-family: "MI FUENTE2";
+    font-size: 25px;
+    position: relative;
+    top: 400px
+}
+
+.contenedor1 img{
+    margin-left: 0px;
+    display: block;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 215px;
+    
+
+}
+
+.contenedor2 img{
+    margin-left: 850px;
+    display: block;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 215px;
+}
+
+.contenedor3 img{
+    margin-left: 50px;
+    display: block;
+    width: 1000px;
+    height: 750px;
+    position: absolute;
+    top: 160px;
+}
+
+.contenedor4 img{
+    margin-left: 250px;
+    display: block;
+    width: 1000px;
+    height: 750px;
+    position: absolute;
+    top: 175px;
+}
+
+.contenedor5 img{
+    margin-left: 520px;
+    display: block;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 0px;
+}
+
+.contenedor6 img{
+    margin-left: 360px;
+    display: block;
+    width: 160px;
+    height: 50px;
+    position: absolute;
+    top: 650px
+}
+
+.contenedor7 img{
+    margin-left: 510px;
+    display: block;
+    width: 160px;
+    height: 50px;
+    position: absolute;
+    top: 650px
+}
+
+.contenedor8 img{
+    margin-left: 660px;
+    display: block;
+    width: 160px;
+    height: 50px;
+    position: absolute;
+    top: 650px
+}
+
+.contenedor9 img{
+    margin-left: 810px;
+    display: block;
+    width: 160px;
+    height: 50px;
+    position: absolute;
+    top: 650px
+}
+
+#concepto{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.texto1{
+    border-radius: 15px;
+    border: solid 3px;
+    background-color: rgb(230, 162, 150);
+}
+
+#cifras{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.texto2{
+    border-radius: 15px;
+    border: solid 3px;
+    background-color: rgb(194, 211, 255);
+}
+
+#soluciones{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.texto3{
+    border-radius: 15px;
+    border: solid 3px;
+    background-color: rgb(220, 194, 240);
+}
+
+#mas{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.texto4{
+    border-radius: 15px;
+    border: solid 3px;
+    background-color: rgb(200, 247, 183);
+}
