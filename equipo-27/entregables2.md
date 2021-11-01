@@ -11,7 +11,7 @@ https://www.motorpasion.com.mx/industria/movilidad-sustentable
 https://www.conacyt.gov.py/sites/default/files/Autos-electricos.pdf
 https://onuhabitat.org.mx/index.php/contaminacion-automoviles-y-calidad-del-aire#:~:text=Las%20ciudades%20mexicanas%20padecen%20serios,viajes%20en%20transporte%20individual%20motorizado.
 https://www.elfinanciero.com.mx/nacional/transporte-publico-y-de-carga-causa-80-de-la-contaminacion-expertos/
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fimt.mx%2Farchivos%2FPublicaciones%2FPublicacionTecnica%2Fpt372.pdf&clen=776750&chunk=true
+https://imt.mx/archivos/Publicaciones/PublicacionTecnica/pt372.pdf
 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
