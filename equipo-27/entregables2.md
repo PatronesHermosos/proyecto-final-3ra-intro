@@ -13,7 +13,7 @@ https://onuhabitat.org.mx/index.php/contaminacion-automoviles-y-calidad-del-aire
 https://www.elfinanciero.com.mx/nacional/transporte-publico-y-de-carga-causa-80-de-la-contaminacion-expertos/
 https://imt.mx/archivos/Publicaciones/PublicacionTecnica/pt372.pdf
 
-- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/kYPCn2eCUOM
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
 -¿Cómo compartimos nuestro código en GitHub de manera más dinámica?
 -¿Cómo editamos nuestra plantilla de Bootstrap para hacer más pestañas?
