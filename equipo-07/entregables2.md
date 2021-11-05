@@ -3,7 +3,7 @@
 - Numero del equipo: equipo 07
 - Nombre del equipo: PowerGirls
 - Nombre de todos miembros en su equipo: Raquel Calderón, Ronda Lara, Leydy Mayumy, Ayelen Gutiérrez
-- El título de su proyecto: Biblioteca de ayuda 
+- El título de su proyecto: **HugMe: Biblioteca de Apoyo** 
 - La lista de recursos y referencias que han usado: 
 - Trastornos mentales https://www.who.int/es/news-room/fact-sheets/detail/mental-disorders
 Ayuda para salud mental https://www.nimh.nih.gov/health/find-help/ayuda-para-la-salud-mental 
