@@ -1,0 +1,114 @@
+<style>
+/* dentro de CSS, definimos todas las propiedadas que necesitamos para a ventana emergente */
+
+/* ventana emergente: creación */
+.ventana_emergente {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* ventana emergente: propiedades */
+.ventana_emergente .ventana_emergente_texto {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* flecha para la ventana */
+.ventana_emergente .ventana_emergente_texto::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+  text-align: center; /* para poner el text en el centro horizontal del div */
+  vertical-align: middle; /* para poner el text en el centro vertical del div */
+  line-height: 50px;/* la altura de la linea del texto*/
+}
+
+/* Cuando alguien le da clic, muestra o esconda la ventana */
+.ventana_emergente .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s
+}
+
+/* Añadir una animación para que la ventana se aparece lentamente */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+/* Añadir una animación para que la ventana se desaparece lentamente */
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+</style>
+
+<!-- para que se aparece accentos en español -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!--  creamos el elemento con IMAGEN para la ventana emergente -->
+<div class="ventana_emergente" onclick="funcionVentanaEmergente()" style="
+  z-index:6;
+    position:absolute;
+    left:950px;
+    top:100px;
+    width:300px;
+    height:165px;
+    border-radius:10%;
+    background-image:url('ciudad1.png');
+    background-size:cover"> 
+  <span class="ventana_emergente_texto" id="ventana_emergente">La ciudad es una isla</span>
+</div>
+
+<div class="ventana_emergente" onclick="funcionVentanaEmergente()" style="
+  position: absolute; 
+        z-index: 2; 
+        top: 400px; 
+        left: 500px;
+        width:400px;
+        height: 200px;
+        border-radius: 10%;
+    background-image:url('industria.png');
+    background-size:cover"> 
+  <span class="ventana_emergente_texto" id="ventana_emergente2">La industria</span>
+</div>
+<div class="ventana_emergente" onclick="funcionVentanaEmergente()" style="
+  position: absolute; 
+        z-index: 2; 
+        top: 400px; 
+        left: 800px;
+        width:400px;
+        height: 300px;
+    background-image:url('garbage1.png');
+    background-size: cover"> 
+  <span class="ventana_emergente_texto" id="ventana_emergente3">residuos desechos son...</span>
+</div>
+<!-- JavaScript para la animación de la ventana que aparecerá -->
+<script>
+  // Cuando le da clic en el elemento, vemos la ventana emergente
+  function funcionVentanaEmergente() {
+    // creando una variable para guardar el elemento ventana_emergente
+    var popup = document.getElementById("ventana_emergente");
+    var popup2 = document.getElementById("ventana_emergente2");
+    var popup3 = document.getElementById("ventana_emergente3");
+    // mostrando la ventana emergente cuando alguien le da clic por llamar al CSS que todavia definimos
+    popup.classList.toggle("show") || popup2.classList.toggle("show") || 
+    popup3.classList.toggle("show");
+  }
+    </script>
