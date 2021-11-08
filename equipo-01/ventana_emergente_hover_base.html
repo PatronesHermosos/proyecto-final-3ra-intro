@@ -2,11 +2,14 @@
 <!--Fuente del código base  link: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_tooltip-->
 <html>
 <style>
+/* Contenedor Tooltip  */
+   
 .tooltip {
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted black;
 }
+/* Texto Tooltip */
 
 .tooltip .tooltiptext {
   visibility: hidden;
@@ -16,15 +19,19 @@
   text-align: center;
   border-radius: 6px;
   padding: 5px 0;
+ /* Posición del texto en tooltip */
+  
   position: absolute;
   z-index: 1;
   bottom: 125%;
   left: 50%;
   margin-left: -60px;
+ /* Desvanecerse en (Fade in)*/
   opacity: 0;
   transition: opacity 0.3s;
 }
 
+  /*Flecha del Tooltip*/
 .tooltip .tooltiptext::after {
   content: "";
   position: absolute;
@@ -36,18 +43,20 @@
   border-color: #555 transparent transparent transparent;
 }
 
+/* Mostrar el texto cuando el mouse pase sobre el contenedor del Tooltip*/
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
 }
 </style>
+<!--HTML Code con las propiedades del texto-->
 <body style="text-align:center;">
 
 <h2>Tooltip</h2>
 <p>Move the mouse over the text below:</p>
-
+<!--Aqui se pone el texto si se desea -->
 <div class="tooltip">Hover over me
-  <span class="tooltiptext">Tooltip text</span>
+  <span class="tooltiptext">Tooltip text</span><!-- Este es el texto emergente-->
 </div>
 
 </body>
