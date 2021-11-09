@@ -1,34 +1,114 @@
 <!DOCTYPE html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <!-- reconoce correctamente los acentos en español-->
+<meta name="viewport" content="width=device-width"> <!--que se ajuste al ancho del dispositivo-->
 <html lang= "es"> <!--lang define el idioma de la página*/-->
-<div id= container style="margin: 0 auto;"><!--al final creo cualquier texto irá en bloques separado como en el bosquejo-->
-    <div id= "city" >
-        <img src="ciudad.png"
+
+<style><!--Estilos CSS-->
+/*Fuente Tooltip  link: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_tooltip */
+/* Contenedor Tooltip  */   
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+/* Texto Tooltip */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+ /* Posición del texto en tooltip */
+  position: absolute;
+  z-index: 6;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+ /* Desvanecerse  (Fade in)*/
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+  /*Flecha del Tooltip*/
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Mostrar el texto cuando el mouse pase sobre el contenedor del Tooltip*/
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style> <!--Fin estilos CSS-->
+
+
+<body style="text-align:center;">
+<div id= container style="margin: 0 auto;"><!-- Inicio del contendor-->
+
+
+<!--IMÁGENES CON VENTANA EMERGENTE-->
+<div  id= "ciudad" class="tooltip" style="
+  z-index:2;
+  position:absolute;
+  left:200px;
+  top:200px;
+  width:1020px;
+  height:550px;
+  background-image:url('ciudad1.png');
+  background-size:cover"> 
+  <span class="tooltiptext">La ciudad es una isla</span><!-- Este es el texto emergente-->
+</div>
+
+<!--div class="tooltip" style="
+  position: absolute; 
+        z-index: 2; 
+        top: 400px; 
+        left: 550px;
+        width:200px;
+        height: 200px;
+        border-radius: 50%;
+    background-image: url('https://misanimales.com/wp-content/uploads/2016/04/gatos-sacan-la-lengua.jpg');
+    background-size:cover"> 
+    <span class="tooltiptext">La Industria</span></div--><!-- gato que me ayuda a saber cual es el centro-->
+
+<!--div class="tooltip" style="
+  position: absolute; 
+        z-index: 3; 
+        top: 400px; 
+        left: 800px;
+        width:400px;
+        height: 300px;
+    background-image:url('garbage1.png');
+    background-size: cover"> 
+  <span class="tooltiptext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Proin non felis sit amet quam molestie vulputate sit amet ut velit. Proin felis odio, placerat eu turpis sed, auctor rutrum quam. Fusce condimentum risus aliquam
+       quam dignissim accumsan. Integer at elit id neque interdum aliquam. Sed blandit augue posuere eros tempus rhoncus. </span>
+</div-->
+
+<!--IMÁGENES FIJAS-->
+    <!--div id= "city" >
+        <img src="ciudad1.png"
         style= "position: absolute;
         z-index: 1; 
         top: 400px; 
         left: 900px;
         width:400px;
         max-width: 40%;
-        height: auto;">
-        <!--p style="position:relative;
-        top: 100px;
-        left: 50px;
-        text-align: center;
-        font-size: 30px;
-        line-height: 25px;"><strong>METABOLISMO de la CIUDAD</strong></este texto debería estar debajo de la imagen-->
+        height: auto;"-->
+        
     </div>
-    <div id= "industria" >
-        <img src="industria.png"
-        style= "position: absolute; 
-        z-index: 2; 
-        top: 400px; 
-        left: 500px;
-        width:400px;
-        max-width: 100%;
-        height: auto;">
-    </div>
-</div>
+    
 
-
-</html>
+</div><!--Fin del contenedor-->
+</body><!--Fin del body-->
+</html><!--Fin-->
