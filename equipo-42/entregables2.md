@@ -1,5 +1,7 @@
 ## Etapa 2 del proyecto final
 
+<img width="960" alt="entrega2_equipo42" src="https://user-images.githubusercontent.com/82679468/140865070-c75844ae-7812-46ad-9a41-c53b9472f502.png">
+
 - Numero del equipo: 
 - Nombre del equipo:
 - Nombre de todos miembros en su equipo:
