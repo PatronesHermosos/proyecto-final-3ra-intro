@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html>
+<title>Code tree</title>
+  
+<body>
+<head> <meta name="viewport"
+    content="width=device-width, initital scale=1"> </head>
+
+    <style>
+    .fondo1 {
+    z-index:1;
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1500px;
+    height:500px;
+    border-radius:0%;
+    background-color: rgb(68, 154, 212);
+    }
+    
+    .fondo2 {
+    z-index:1;
+    position:absolute;
+    left:0px;
+    top:500px;
+    width:1500px;;
+    height:230px;
+    border-radius:0%;
+    background-color: rgb(3, 48, 9);
+    }
+    
+    .ramita1 {
+        z-index:3;
+         width: 5px;
+          height: 80px;
+            position: absolute;
+          transform: skew(30deg);
+          background: rgb(121, 248, 62);
+            left: 628px;
+            margin-left: -3px;
+            top: 271px;
+          }
+         
+             .ramita2 {
+                z-index:3;
+            width: 5px;
+          height: 80px;
+            position: absolute;
+          transform: skew(50deg);
+          background: rgb(121, 248, 62);
+            left: 558px;
+            margin-left: -3px;
+            top: 192px;
+          }
+     
+          .parallelogram1 {
+            z-index:3;
+          width: 5px;
+          height: 80px;
+            position: absolute;
+          transform: skew(20deg);
+          background: rgb(121, 248, 62);
+            left: 665px;
+            margin-left: -3px;
+            top: 350px;
+          }
+            
+          .parallelogram2 {
+            z-index:3;
+          width: 5px;
+          height: 85px;
+            position: absolute;
+          transform: skew(20deg);
+          background: rgb(121, 248, 62);
+            left: 640px;
+            margin-left: -3px;
+            top: 205px;
+          }
+     
+          .parallelogram3 {
+            z-index:3;
+          width: 5px;
+          height: 90px;
+            position: absolute;
+          transform: skew(20deg);
+          background: rgb(121, 248, 62);
+            left: -19px;
+            margin-left: -3px;
+            top: -90px;
+          }
+          
+          .parallelogram4 {
+            z-index:3;
+          width: 5px;
+          height: 50px;
+            position: absolute;
+          transform: skew(20deg);
+          background: rgb(121, 248, 62);
+            left: 685px;
+            margin-left: -3px;
+            top: 176px;
+          }
+     
+          .parallelogram5 {
+            z-index:3;
+          width: 5px;
+          height: 35px;
+            position: absolute;
+          transform: skew(0deg);
+          background: rgb(121, 248, 62);
+            left: 815px;
+            margin-left: -3px;
+            top: 200px;
+          }
+     
+          .parallelogram6 {
+            z-index:3;
+          width: 5px;
+          height: 96px;
+            position: absolute;
+          transform: skew(0deg);
+          background: rgb(121, 248, 62);
+            left: 720px;
+            margin-left: -3px;
+            top: 285px;
+          }
+     
+          .parallelogram7 {
+            z-index:3;
+          width: 5px;
+          height: 145px;
+            position: absolute;
+          transform: skew(-30deg);
+          background: rgb(121, 248, 62);
+            left: 772px;
+            margin-left: -3px;
+            top: 235px;
+          }
+     
+          .parallelogram8 {
+            z-index:3;
+          width: 5px;
+          height: 150px;
+            position: absolute;
+          transform: skew(-30deg);
+          background: rgb(121, 248, 62);
+            left: 936px;
+            margin-left: -3px;
+            top: 181px;
+          }
+     
+          .parallelogram9 {
+            z-index:3;
+          width: 5px;
+          height: 65px;
+            position: absolute;
+          transform: skew(-30deg);
+          background: rgb(121, 248, 62);
+            left: 675px;
+            margin-left: -3px;
+            top: 226px;
+          }
+     
+          .parallelogram10 {
+            z-index:3;
+          width: 5px;
+          height: 32px;
+            position: absolute;
+          transform: skew(-50deg);
+          background: rgb(121, 248, 62);
+            left: 789px;
+            margin-left: -3px;
+            top: 400px;
+          }
+     
+          .parallelogram11 {
+            z-index:3;
+          width: 5px;
+          height: 22px;
+            position: absolute;
+          transform: skew(50deg);
+          background: rgb(121, 248, 62);
+            left: 795px;
+            margin-left: -3px;
+            top: 378px;
+          }
+     
+     
+          .parallelogram12 {
+            z-index:3;
+          width: 5px;
+          height: 72px;
+            position: absolute;
+          transform: skew(-50deg);
+          background: rgb(121, 248, 62);
+            left: 850px;
+            margin-left: -3px;
+            top: 330px;
+          }
+     
+          .parallelogram13 {
+            z-index:3;
+          width: 5px;
+          height: 72px;
+            position: absolute;
+          transform: skew(20deg);
+          background: rgb(121, 248, 62);
+            left: 880px;
+            margin-left: -3px;
+            top: 258px;
+          }
+     
+          .parallelogram14 {
+            z-index:3;
+          width: 5px;
+          height: 72px;
+            position: absolute;
+          transform: skew(-16deg);
+          background: rgb(121, 248, 62);
+            left: 876px;
+            margin-left: -3px;
+            top: 187px;
+          }
+          .ramita15 {
+            z-index:3;
+          width: 5px;
+          height: 80px;
+            position: absolute;
+          transform: skew(-38deg);
+          background: rgb(121, 248, 62);
+            left: 750px;
+            margin-left: -3px;
+            top: 205px;
+          }
+     
+          .ramita16 {
+            z-index:3;
+          width: 5px;
+          height: 22px;
+            position: absolute;
+          transform: skew(50deg);
+          background: rgb(121, 248, 62);
+            left: 769px;
+            margin-left: -3px;
+            top: 183px;
+          }
+     
+          .ramita17 {
+            z-index:3;
+          width: 5px;
+          height: 96px;
+            position: absolute;
+          transform: skew(-5deg);
+          background: rgb(121, 248, 62);
+            left: 814px;
+            margin-left: -3px;
+            top: 303px;
+          }
+     
+          .ramita18 {
+            z-index:3;
+          width: 5px;
+          height: 17px;
+            position: absolute;
+          transform: skew(50deg);
+          background: rgb(121, 248, 62);
+            left: 810px;
+            margin-left: -3px;
+            top: 287px;
+          }
+     
+          .ramita19 {
+            z-index:3;
+          width: 5px;
+          height: 35px;
+            position: absolute;
+          transform: skew(-35deg);
+          background: rgb(121, 248, 62);
+            left: 831px;
+            margin-left: -3px;
+            top: 268px;
+          }
+     
+          .ramita20 {
+            z-index:3;
+          width: 5px;
+          height: 52px;
+            position: absolute;
+          transform: skew(69deg);
+          background: rgb(121, 248, 62);
+            left: 585px;
+            margin-left: -3px;
+            top: 300px;
+          }
+     
+          .ramita21 {
+            z-index:3;
+          width: 5px;
+          height: 72px;
+            position: absolute;
+          transform: skew(20deg);
+          background: rgb(121, 248, 62);
+            left: 505px;
+            margin-left: -3px;
+            top: 228px;
+          }
+     
+          .ramita22 {
+            z-index:3;
+          width: 5px;
+          height: 55px;
+            position: absolute;
+          transform: skew(-35deg);
+          background: rgb(121, 248, 62);
+            left: 500px;
+            margin-left: -3px;
+            top: 298px;
+          }
+     
+          .ramita23 {
+            z-index:3;
+          width: 5px;
+          height: 35px;
+            position: absolute;
+          transform: skew(-35deg);
+          background: rgb(121, 248, 62);
+            left: 637px;
+            margin-left: -3px;
+            top: 170px;
+          }
+     
+          .ramita24 {
+            z-index:3;
+          width: 5px;
+          height: 45px;
+            position: absolute;
+          transform: skew(-73deg);
+          background: rgb(121, 248, 62);
+            left: 594px;
+            margin-left: -3px;
+            top: 400px;
+          }
+     
+          .ramita25 {
+            z-index:3;
+          width: 5px;
+          height: 45px;
+            position: absolute;
+          transform: skew(55deg);
+          background: rgb(121, 248, 62);
+            left: 594px;
+            margin-left: -3px;
+            top: 368px;
+          }
+     
+     
+     
+          .vl{
+            z-index:3;
+             border-left: 5px solid rgb(2, 156, 61);
+             height: 350px;
+             position: absolute;
+             left: 680px;
+             margin-left: -3px;
+             top: 430px;
+          }
+          .vl1{
+            z-index:3;
+             border-left: 5px solid rgb(2, 156, 61);
+             height: 400px;
+             position: relative;
+             left: 682px;
+             margin-left: -3px;
+             top: 373px;
+          }
+     
+          .vl2{
+            z-index:3;
+            border-left: 5px solid rgb(2, 156, 61);
+             height: 400px;
+             position: absolute;
+             left: 700px;
+             margin-left: -3px;
+             top: 380px;
+          }
+     
+          .vl3{
+            z-index:3;
+            border-left: 5px solid rgb(2, 156, 61);
+             height: 400px;
+             position: absolute;
+             left: 710px;
+             margin-left: -3px;
+             top: 380px;
+          }
+     
+          .vl4{
+            z-index:3;
+             border-left: 5px solid rgb(2, 156, 61);
+             height: 400px;
+             position: absolute;
+             left: 720px;
+             margin-left: -3px;
+             top: 380px;
+          }
+     
+          .vl5{
+            z-index:3;
+             border-left: 5px solid rgb(2, 156, 61);
+             height: 400px;
+             position: absolute;
+             left: 730px;
+             margin-left: -3px;
+             top: 380px;
+          }
+     
+          .vl6{
+            z-index:3;
+             border-left: 5px solid rgb(2, 156, 61);
+             height: 400px;
+             position: absolute;
+             left: 740px;
+             margin-left: -3px;
+             top: 380px;
+          }
+     
+          .vl7{
+            z-index:3;
+             border-left: 5px solid rgb(2, 156, 61);
+             height: 400px;
+             position: absolute;
+             left: 750px;
+             margin-left: -3px;
+             top: 380px;
+          }
+     
+          .vl8{
+            z-index:3;
+             border-left: 5px solid rgb(2, 156, 61);
+             height: 400px;
+             position: absolute;
+             left: 760px;
+             margin-left: -3px;
+             top: 380px;
+          }
+     
+          .vl9{
+            z-index:3;
+             border-left: 5px solid rgb(2, 156, 61);
+             height: 350px;
+             position: absolute;
+             left: 770px;
+             margin-left: -3px;
+             top: 430px;
+          }
+        </style>
+        </head>
+
+<h1><b> Equipo 39: Code tree </b></h1>
+<h>Educar e inovar para crecer</h>
+
+<body>
+        <div class="fondo1"></div>
+        <div class="fondo2"></div>
+
+        
+        <div class="vl"></div>
+        <div class="vl1"></div>
+        <div class="vl2"></div>
+        <div class="vl3"></div>
+        <div class="vl4"></div>
+        <div class="vl5"></div>
+        <div class="vl6"></div>
+        <div class="vl7"></div>
+        <div class="vl8"></div>
+        <div class="vl9"></div>
+        <div class="parallelogram1"></div>
+        <div class="parallelogram2"></div>
+        <div class="parallelogram3"></div>
+        <div class="parallelogram4"></div>
+        <div class="parallelogram5"></div>
+        <div class="parallelogram6"></div>
+        <div class="parallelogram7"></div>
+        <div class="parallelogram8"></div>
+        <div class="parallelogram9"></div>
+        <div class="parallelogram10"></div>
+        <div class="parallelogram11"></div>
+        <div class="parallelogram12"></div>
+        <div class="parallelogram13"></div>
+        <div class="parallelogram14"></div>
+        <div class="ramita1"></div>
+        <div class="ramita2"></div>
+        <div class="ramita15"></div>
+        <div class="ramita16"></div>
+        <div class="ramita17"></div>
+        <div class="ramita18"></div>
+        <div class="ramita19"></div>
+        <div class="ramita20"></div>
+        <div class="ramita21"></div>
+        <div class="ramita22"></div>
+        <div class="ramita23"></div>
+        <div class="ramita24"></div>
+        <div class="ramita25"></div>
+
+    </body>
+</html>
