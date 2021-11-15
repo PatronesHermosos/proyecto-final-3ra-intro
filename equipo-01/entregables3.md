@@ -2,7 +2,7 @@
 
 - Número del equipo: Equipo 1.
 - Nombre del equipo: Escuadrón de la sostenibilidad
-- Nombre de todos miembros en el equipo:
+- Nombre de todos miembros en el equipo: Nerida Nadia Huamán Valero
 - El título del proyecto: Ciudades Sostenibles Ciudades Amigables
 - Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
 
