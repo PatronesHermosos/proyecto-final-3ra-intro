@@ -15,7 +15,7 @@
 /* Texto Tooltip */
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 300px;
+  width: 280px;
   background-color: #555;
   color: #fff;
   text-align: center;
@@ -23,10 +23,10 @@
   padding: 5px 0;
  /* Posición del texto en tooltip */
   position: absolute;
-  z-index: 6;
+  z-index: 2;
   bottom: 125%;
   left: 50%;
-  margin-left: -60px;
+  margin-left: -150px;
  /* Desvanecerse  (Fade in)*/
   opacity: 0;
   transition: opacity 0.3s;
@@ -58,7 +58,7 @@
 
 <!--IMÁGENES CON VENTANA EMERGENTE-->
 <div  id= "ciudad" class="tooltip" style="
-  z-index:2;
+  z-index:3;
   position:absolute;
   left:400px;
   top:400px;
@@ -73,7 +73,7 @@
 
 <div id= "arbol" class="tooltip" style="
   position: absolute; 
-  z-index: 4; 
+  z-index: 3; 
   top: 490px; 
   left: 308px;
   width:190px;
@@ -85,9 +85,8 @@
   rutrum quam. Fusce condimentum risus aliquam quam dignissim accumsan. Integer at elit id neque interdum aliquam. Sed blandit augue posuere eros tempus
   rhoncus.</span>
 </div>
-
 <div id= "industria" class="tooltip" style="
-  z-index: 3;
+  z-index: 4;
   position: absolute;  
   top: 590px; 
   left: 430px;
@@ -100,28 +99,15 @@
    quam dignissim accumsan. Integer at elit id neque interdum aliquam. Sed blandit augue posuere eros tempus rhoncus.</span>
 </div>
 <div id="desagüe" class="tooltip" style="
-  z-index: 3;
-  position: absolute;  
-  top: 670px; 
-  left: 305px;
-  width:135px;
-  height: 100px;
-  background-image:url('esgoto.png');
-  background-size:135px 100px;"> 
-  <span class="tooltiptext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-  Proin non felis sit amet quam molestie vulputate sit amet ut velit. Proin felis odio, placerat eu turpis sed, auctor rutrum quam. Fusce condimentum risus aliquam
-  quam dignissim accumsan. Integer at elit id neque interdum aliquam. Sed blandit augue posuere eros tempus rhoncus.</span>
-</div>
-<div id= "rana" class="tooltip" style="
   z-index: 4;
   position: absolute;  
   top: 670px; 
-  left: 400px;
-  width:30px;
-  height: 30px;
-  background-image:url('frog.png');
-  background-size:30px 30px;"> 
-  <span class="tooltiptext"><br>anfibios</br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  left: 290px;
+  width:200px;
+  height: 100px;
+  background-image:url('esgoto.png');
+  background-size:150px 100px;"> 
+  <span class="tooltiptext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   Proin non felis sit amet quam molestie vulputate sit amet ut velit. Proin felis odio, placerat eu turpis sed, auctor rutrum quam. Fusce condimentum risus aliquam
   quam dignissim accumsan. Integer at elit id neque interdum aliquam. Sed blandit augue posuere eros tempus rhoncus.</span>
 </div>
@@ -129,7 +115,7 @@
   z-index: 3;
   position: absolute;  
   top: 385px; 
-  left: 600px;
+  left: 580px;
   width:90px;
   height: 60px;
   background-image:url('lluvia-tormenta.png');
@@ -139,7 +125,7 @@
   quam dignissim accumsan. Integer at elit id neque interdum aliquam. Sed blandit augue posuere eros tempus rhoncus.</span>
 </div>
 <div id= "mototaxi" class="tooltip" style="
-  z-index: 4;
+  z-index: 5;
   position: absolute;  
   top: 765px; 
   left: 745px;
@@ -147,7 +133,7 @@
   height: 60px;
   background-image:url('gorgojo.png');
   background-size:90px 60px;"> 
-  <span class="tooltiptext"><br>lluvias</br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  <span class="tooltiptext"><br>transporte</br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   Proin non felis sit amet quam molestie vulputate sit amet ut velit. Proin felis odio, placerat eu turpis sed, auctor rutrum quam. Fusce condimentum risus aliquam
   quam dignissim accumsan. Integer at elit id neque interdum aliquam. Sed blandit augue posuere eros tempus rhoncus.</span>
 </div>
@@ -164,11 +150,36 @@
   Proin non felis sit amet quam molestie vulputate sit amet ut velit. Proin felis odio, placerat eu turpis sed, auctor rutrum quam. Fusce condimentum risus aliquam
   quam dignissim accumsan. Integer at elit id neque interdum aliquam. Sed blandit augue posuere eros tempus rhoncus.</span>
 </div>
-
+<div id= "salidas" class="tooltip" style="
+  z-index: 2;
+  position: absolute;  
+  top: 500px; 
+  left: 80px;
+  width:210px;
+  height: 80px;
+  background-image:url('SALIDAS.png');
+  background-size:210px 80px;"> 
+  <span class="tooltiptext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  Proin non felis sit amet quam molestie vulputate sit amet ut velit. Proin felis odio, placerat eu turpis sed, auctor rutrum quam. Fusce condimentum risus aliquam
+  quam dignissim accumsan. Integer at elit id neque interdum aliquam. Sed blandit augue posuere eros tempus rhoncus.</span>
+</div>
+<div id= "entradas" class="tooltip" style="
+  z-index: 2;
+  position: absolute;  
+  top: 350px; 
+  left: 1190px;
+  width:210px;
+  height: 80px;
+  background-image:url('ENTRADAS.png');
+  background-size:210px 80px;"> 
+  <span class="tooltiptext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  Proin non felis sit amet quam molestie vulputate sit amet ut velit. Proin felis odio, placerat eu turpis sed, auctor rutrum quam. Fusce condimentum risus aliquam
+  quam dignissim accumsan. Integer at elit id neque interdum aliquam. Sed blandit augue posuere eros tempus rhoncus.</span>
+</div>
 <!--IMÁGENES FIJAS-->
 <div id="city">
   <img src="ciudad.png" style="position: absolute;
-  z-index: 2; 
+  z-index: 4; 
   top: 545px; 
   left: 750px;
   width:225px;
@@ -193,9 +204,18 @@
   max-width: 100%;
   height: auto;">
 </div>
+<div id= "rana">
+  <img src="frog.png" style= "position: absolute; 
+  z-index: 4;
+  top: 670px; 
+  left: 380px;
+  width:30px;
+  max-width: 100%;
+  height: auto;">
+</div>
 <div id= "desechos" >
   <img src="garbage2.png" style= "position: absolute;
-  z-index: 4; 
+  z-index: 5; 
   top: 715px; 
   left: 285px;
   width:300px;
@@ -204,7 +224,7 @@
 </div>
 <div id= "persona" >
   <img src="garbage1.png" style= "position: absolute;
-  z-index: 3; 
+  z-index: 4; 
   top: 665px; 
   left: 430px;
   width:75px;
@@ -213,9 +233,9 @@
 </div>
 <div id= "avion" >
   <img src="avion.png" style= "position: absolute;
-  z-index: 4; 
-  top: 400px; 
-  left: 717px;
+  z-index: 3; 
+  top: 450px; 
+  left: 700px;
   width:90px;
   max-width: 100%;
   height: auto;">
@@ -285,18 +305,9 @@
 </div>
 <div id= "fuego" >
   <img src="fire.png" style= "position: absolute;
-  z-index: 4; 
+  z-index: 5; 
   top: 660px; 
-  left: 350px;
-  width:100px;
-  max-width: 100%;
-  height: auto;">
-</div>    
-<div id= "fuego" >
-  <img src="fire.png" style= "position: absolute;
-  z-index: 4; 
-  top: 660px; 
-  left: 350px;
+  left: 355px;
   width:100px;
   max-width: 100%;
   height: auto;">
@@ -382,6 +393,56 @@
   border-radius: 10%;
   height: auto;">
 </div>
+<div id= "sol" >
+  <img src="sol.png" style= "position: absolute;
+  z-index: 1; 
+  top: 200px; 
+  left: 780px;
+  width:200px;
+  max-width: 100%;
+  border-radius: 10%;
+  height: auto;">
+</div>
+
+<!--FLECHA-->
+<div id="flecha1" style="position:absolute;
+top:600px;
+left:230px;
+width: 25px;
+height: 60px;
+background:rgb(255, 0, 119);
+transform:rotate(45deg);">
+</div>
+<div id="triangulo1" style="position:absolute;
+top:640px;
+left:195px;
+width:0px;
+height:0px;
+border-left:25px solid transparent;
+border-right:25px solid transparent;
+border-top:25px solid rgb(255, 0, 119);
+transform: rotate(45deg);">
+</div>
+
+<div id="flecha2" style="position:absolute;
+top:445px;
+left:1300px;
+width: 25px;
+height: 60px;
+background:rgb(252, 162, 27);
+transform:rotate(45deg);">
+</div>
+<div id="triangulo2" style="position:absolute;
+top:490px;
+left:1260px;
+width:0px;
+height:0px;
+border-left:25px solid transparent; 
+border-right:25px solid transparent; 
+border-top:25px solid rgb(252, 162, 27);
+transform: rotate(45deg);">
+</div>
+
 </div><!--Fin del contenedor-->
 </body><!--Fin del body-->
 </html><!--Fin-->
