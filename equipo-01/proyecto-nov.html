@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <!-- reconoce correctamente los acentos en español-->
-<meta name="viewport" content="width=device-width"> <!--que se ajuste al ancho del dispositivo-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--que se ajuste al ancho del dispositivo-->
 <html lang= "es"> <!--lang define el idioma de la página*/-->
 
 <style><!--Estilos CSS-->
@@ -53,8 +53,15 @@
 
 
 <body style="text-align:center;">
-<div id= container style="margin: 0 auto;"><!-- Inicio del contendor-->
+<div id="container"><!-- Inicio del contendor-->
 
+<!--ENCABEZADO-->
+ <header style= "font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: rgb(58, 98, 172);
+  color:rgb(183, 170, 230);
+  padding: 25px;">La ciudad es un ecosistema
+  </header>
 
 <!--IMÁGENES CON VENTANA EMERGENTE-->
 <div  id= "ciudad" class="tooltip" style="
@@ -151,7 +158,7 @@
   quam dignissim accumsan. Integer at elit id neque interdum aliquam. Sed blandit augue posuere eros tempus rhoncus.</span>
 </div>
 <div id= "salidas" class="tooltip" style="
-  z-index: 2;
+  z-index: 3;
   position: absolute;  
   top: 500px; 
   left: 80px;
@@ -403,7 +410,15 @@
   border-radius: 10%;
   height: auto;">
 </div>
-
+<div id="entropia">
+  <img src="entropía.png" style="position: absolute;
+  z-index: 2;
+  top:361px;
+  left: 135px;
+  width:180px;
+  max-width: 100%;
+  height: auto;"> 
+</div>
 <!--FLECHA-->
 <div id="flecha1" style="position:absolute;
 top:600px;
@@ -429,7 +444,7 @@ top:445px;
 left:1300px;
 width: 25px;
 height: 60px;
-background:rgb(252, 162, 27);
+background:rgb(27, 252, 83);
 transform:rotate(45deg);">
 </div>
 <div id="triangulo2" style="position:absolute;
@@ -439,8 +454,17 @@ width:0px;
 height:0px;
 border-left:25px solid transparent; 
 border-right:25px solid transparent; 
-border-top:25px solid rgb(252, 162, 27);
+border-top:25px solid rgb(27, 252, 83);
 transform: rotate(45deg);">
+</div>
+<div id="flecha3">
+  <img src="flechanaranja.png" style="position: absolute;
+  z-index: 1;
+  top:430px;
+  left: 210px;
+  width:50px;
+  max-width: 100%;
+  height: auto;"> 
 </div>
 
 </div><!--Fin del contenedor-->
