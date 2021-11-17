@@ -786,4 +786,6 @@ Código:
 </html>
 
 
-
+Avance del proyecto:
+![Avanceproyecto](https://user-images.githubusercontent.com/91509952/142139685-3bd11e73-7d43-4544-8c9c-96e724c5994d.png)
+![Avanceproyecto2](https://user-images.githubusercontent.com/91509952/142139894-6cab1575-5b23-4c37-8a7b-4bfe7c2308e4.png)
