@@ -1,0 +1,118 @@
+/*-------Generales-----*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+
+/*----------MENÚ----------*/
+ #menu a, button{    /* Selector id menu, a lo tenemos de hijo directo de li*/
+     font-size: 18px !important;
+     font-weight: 600;    
+ }
+ #menu a{
+     color:#3f3f3f;     
+ }
+
+ /*----------CARRUSEL IMAGENES----------*/
+.carousel-inner {
+    max-height:39rem !important;
+    
+}
+.slide{
+    margin-top: 10px;
+}
+.slide img{
+    height: 65vh;
+}
+
+/*---------------- PARTICIPANTES IMAGEN--------------*/
+#img-equipo{
+    max-height:30rem !important;
+    width:50%;
+}
+
+/*---------------------CONTACTOS BACKGROUND------------------------*/
+#bg-contactos{
+    position:relative;
+    top: -130px;
+} 
+ #seccion-contacto{
+    background-color: #1b2a4e;
+    min-height:500px;
+    position:relative;
+}
+
+/*-------------------------CONTACTOS FORMULARIO--------------------------*/
+#contenedor-formulario{
+    position:absolute;
+    top:30%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background: #fbfafa;
+    border-radius:5px;    
+}
+#titulo-formulario {
+    color: #3f3f3f;
+}
+
+
+
+
+/*----------FOOTER----------*/
+footer {
+    background: #1b2a4e;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+#iconos  i {
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
+
+/*----------PANTALLA ANCHA----------*/
+@media (max-width:1200px){
+    #intro, #equipo {
+        width:90% !important;
+        margin:auto;
+    }  
+    #local {
+        flex-wrap: wrap;
+        padding-top:30px;
+   }
+   .wrapper-local {
+    width:90%;
+    margin:auto;
+    padding-top:50px;    
+   } 
+}
+
+/*----------PANTALLA CHICA----------*/
+@media (max-width:768px) {
+
+    #intro, #equipo{
+        width:90% !important;
+        margin:auto;
+    }    
+    #img-equipo{
+        max-height:20rem !important;
+        width:90%;
+    }
+    .wrapper-local {
+        width:90%;
+        margin:auto;
+        padding-top:50px;    
+    }
+    #local {
+        flex-wrap: wrap;
+    }
+    #bg-contactos{
+        top: -120px;
+    }
+}
