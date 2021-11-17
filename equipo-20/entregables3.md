@@ -1,6 +1,6 @@
 ## Etapa 3 del proyecto final
 
-- Número del equipo:
+- Número del equipo: 20
 - Nombre del equipo:
 - Nombre de todos miembros en el equipo:
 - El título del proyecto:
