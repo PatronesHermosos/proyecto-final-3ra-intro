@@ -8,6 +8,7 @@
 IMG REF (tortuga) https://.pngtree.com/so/Tortugas%27%3ETortugas
 "Limpiar el plástico de los océanos ES POSIBLE| Ocean Cleanup System 001|" por Tendencias Tecnológicas, en 2018.: https://www.youtube.com/watch?v=z1ZQ3HpU5PY
 Diversos stickers (como la Red o los peces) de https://www.flaticon.es/ (sin nombres o derechos)
+© Ministerio para la Transición Ecológica y el Reto Demográfico/REEDUCAMAR-Gobierno de España: https://www.miteco.gob.es/es/ceneam/recursos/mini-portales-tematicos/reeducamar/videos-documentales.aspx
 
 
 
