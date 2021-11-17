@@ -15,7 +15,8 @@ Diversos stickers (como la Red o los peces) de https://www.flaticon.es/ (sin nom
 - ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
 Débora:
 1_¿Cómo podría realizar el 'rebote' de los peces en las orillas?
-2_¿Cómo debería realizar la intercepción de 2 elementos? Ej: que un pez quede atrapado en una bolsa y vayan a la par
+2_¿Cómo debería realizar la intercepción de 2 elementos? Ej: que un pez quede atrapado en una bolsa y vayan a la par.
+3_¿Es posible poner información del Gobierno de España?
 
 
 
