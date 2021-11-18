@@ -2,7 +2,7 @@
 
 - Número del equipo: 2
 - Nombre del equipo: Neuro-hot-power
-- Nombre de todos miembros en el equipo: Wendy Ramirez, Karen Flores del Aguila, Arisbet Mendoza
+- Nombre de todos miembros en el equipo: Wendy Ramirez, Karen Flores del Aguila, Arisbet Mendoza Barrera
 - El título del proyecto: La neurociencia
 - Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
 - ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
