@@ -1,0 +1,16 @@
+/* BOTON */
+
+.boton {
+    color: #ffffff; 
+    text-decoration: none;
+    border: none;
+     
+      text-align: center;
+      border-radius: 3.5px;
+      background-color: #6c757d; 
+  }
+  .boton:hover {
+    background-color: #343a40;
+    
+   
+  }
