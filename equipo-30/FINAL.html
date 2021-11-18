@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Equipo 30</title>
+    </head>
+    <body bgcolor="sky blue"> 
+        <center>
+            <h1>GARANTIZAR PATRONES DE PRODUCCION Y CONSUMO SOSTENIBLE</h1>
+        </center>        
+        <main>
+            <div id="arbol" style="
+            left:-60px;
+            top:-50px;
+            position:absolute"> 
+                <div id="ball_1" style=" 
+                z-index:5;
+                position:absolute;
+                left:800px;
+                top:200px;
+                width:200px;
+                height: 200px;
+                border-radius:50%;
+                background: rgb(10, 141, 10)">
+                </div>
+                
+                <div id="ball_2" style=" 
+                z-index:3;
+                position:absolute;
+                left:900px;
+                top:130px;
+                width:100px;
+                height: 100px;
+                border-radius:50%;
+                background: rgb(17, 97, 17)">
+                </div>
+                
+                <div id="ball_3" style="
+                z-index:8;
+                position:absolute;
+                left:950px;
+                top:180px;
+                width:100px;
+                height: 100px;
+                border-radius:50%;
+                background: rgb(12, 122, 12)">
+                </div> 
+                
+                <div id="ball_4" style=" 
+                z-index:5;
+                position:absolute;
+                left:950px;
+                top:250px;
+                width:120px;
+                height: 120px;
+                border-radius:50%;
+                background: rgb(86, 155, 86)">
+                </div>
+                
+                <div id="ball_5" style=" 
+                z-index:3;
+                position:absolute;
+                left:950px;
+                top:300px;
+                width:100px;
+                height: 100px;
+                border-radius:50%;
+                background: rgb(12, 122, 12)">
+                </div>
+                
+                <div id="ball_6" style=" 
+                z-index:5;
+                position:absolute;
+                left:900px;
+                top:310px;
+                width:120px;
+                height: 120px;
+                border-radius:50%;
+                background: rgb(17,97,17)">
+                </div>
+                
+                <div id="ball_7" style="
+                z-index:8;
+                position:absolute;
+                left:850px;
+                top:350px;
+                width:100px;
+                height: 100px;
+                border-radius:50%;
+                background: rgb(12, 122, 12)">
+                </div>
+                
+                <div id="ball_8" style=" 
+                z-index:5;
+                position:absolute;
+                left:800px;
+                top:310px;
+                width:120px;
+                height: 120px;
+                border-radius:50%;
+                background: rgb(17,97,17)">
+                </div>
+                
+                <div id="ball_9" style=" 
+                z-index:5;
+                position:absolute;
+                left:750px;
+                top:280px;
+                width:120px;
+                height: 120px;
+                border-radius:50%;
+                background: rgb(17,97,17)">
+                </div>
+                
+                <div id="ball_10" style=" 
+                z-index:3;
+                position:absolute;
+                left:750px;
+                top:200px;
+                width:100px;
+                height: 100px;
+                border-radius:50%;
+                background: rgb(12,122,12)">
+                </div>
+                
+                <div id="ball_11" style=" 
+                z-index:8;
+                position:absolute;
+                left:820px;
+                top:150px;
+                width:100px;
+                height: 100px;
+                border-radius:50%;
+                background: rgb(12, 122, 12)">
+                </div>
+                
+                <div id="ball_12" style=" 
+                z-index:5;
+                position:absolute;
+                left:820px;
+                top:230px;
+                width:100px;
+                height: 100px;
+                border-radius:50%;
+                background: rgb(86, 155, 86)">
+                </div>
+                
+                <div id="ball_13" style=" 
+                z-index:5;
+                position:absolute;
+                left:870px;            
+                top:230px;            
+                width:100px;            
+                height: 100px;            
+                border-radius:50%;            
+                background: rgb(29, 129, 29)">
+                </div>
+            
+                <div id="ball_14" style=" 
+                z-index:5;
+                position:absolute;
+                left:780px;
+                top:300px;
+                width:100px;
+                height: 100px;
+                border-radius:50%;
+                background: rgb(29, 129, 29)">
+                </div>
+            
+                <div id="ball_15" style=" 
+                z-index:3;
+                position:absolute;
+                left:850px;
+                top:400px;
+                width:100px;
+                height: 180px;
+                background: rgb(168, 53, 8)">
+                </div>
+            
+                <div id="ball_16" style=" 
+                z-index:3;
+                position:absolute;
+                left:775px;
+                top:550px;
+                width:250px;
+                height: 100px;
+                border-radius: 80px 80px 0 0;
+                background: rgb(168, 53, 8)">
+                </div>
+
+                <div id="ball_17" style=" 
+                z-index:5;
+                position:absolute;
+                left:772px;
+                top:550px;
+                width:250px;
+                height:250px;
+                border-radius:100%;
+                border:3px solid;
+                border-color:rgb(168, 53, 8);
+                background-image:url('tierra.jpg');
+                background-size: cover">
+                </div>
+
+            <script>
+                var distancia = 3;
+                var position = 0;
+    
+                setInterval(function(){
+                if ( position > 772 ){
+                    if (distancia >0) {
+                    distancia =  distancia *(-1);
+                        if (distancia > 0) {
+                        distancia = distancia/9; // lento
+                        }else {
+                        distancia = distancia*9; // rápido
+                        }
+                    }
+                } else if (position < 0) {
+                    if (distancia < 0) {
+                    distancia =  distancia *(-1);
+                        if (distancia > 0) {
+                        distancia = distancia/9; // lento
+                        }else {
+                        distancia = distancia*9; // rápido
+                        }
+                    }
+                }
+                
+                
+
+                position = position + distancia;
+                ball_17.style.left = position + 'px';  
+                }, 30);
+                    
+            </script>
+                
+            </div>
+
+        </main>
+    </body>
+    
+
+    
