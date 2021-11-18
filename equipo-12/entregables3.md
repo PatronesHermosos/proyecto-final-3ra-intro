@@ -1,7 +1,7 @@
 ## Etapa 3 del proyecto final
 
-- Número del equipo:
-- Nombre del equipo:
+- Número del equipo:  Equipo 12
+- Nombre del equipo:Tequilazo Ecologico
 - Nombre de todos miembros en el equipo:
 - El título del proyecto:
 - Actualizaciones de la lista de recursos y referencias que están usando para su proyecto final:
