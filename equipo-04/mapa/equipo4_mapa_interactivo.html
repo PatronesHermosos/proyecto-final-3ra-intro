@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>svgMap HTML demos</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
+
+    <link href="./demo.css" rel="stylesheet" />
+    <link href="./dist/svgMap.css" rel="stylesheet" />
+    <script src="./dist/svgMap.js"></script>
+  </head>
+
+  <body>
+    <div class="demo-wrapper">
+      <!-- Demo GPD -->
+
+      <div class="demo-container">
+        <h2>Ejemplo de mapa: GDP</h2>
+
+        <div id="svgMapGPD"></div>
+        <script src="./data/gdp.js"></script>
+        <script>
+          new svgMap({
+            targetElementID: 'svgMapGPD',
+            data: svgMapDataGPD,
+            mouseWheelZoomEnabled: true,
+            mouseWheelZoomWithKey: true
+          });
+        </script>
+      </div>
+
+      <!-- Demo population -->
+
+      <div class="demo-container">
+        <h2>Ejemplo de mapa: densidad de la población</h2>
+
+        <div id="svgMapPopulation"></div>
+        <script src="./data/population.js"></script>
+        <script>
+          new svgMap({
+            targetElementID: 'svgMapPopulation',
+            data: svgMapDataPopulation,
+            flagType: 'emoji',
+            mouseWheelZoomEnabled: true,
+            mouseWheelZoomWithKey: true
+          });
+        </script>
+      </div>
+
+        </script>
+      </div>
+    </div>
+  </body>
+</html>
