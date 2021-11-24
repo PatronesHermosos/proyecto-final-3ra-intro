@@ -1,0 +1,46 @@
+/*Fuente Tooltip  link: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_tooltip */
+/* Contenedor Tooltip  */   
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted transparent;
+  }
+  
+  /* Texto Tooltip */
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 280px;
+    background-color: #555;
+    color: #fff;
+    text-align: justify;
+    border-radius: 6px;
+    padding: 5px 10px;
+   /* Posición del texto en tooltip */
+    position: absolute;
+    z-index: 5;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -150px;
+   /* Desvanecerse  (Fade in)*/
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+    /*Flecha del Tooltip*/
+  .tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Mostrar el texto cuando el mouse pase sobre el contenedor del Tooltip*/
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+  
