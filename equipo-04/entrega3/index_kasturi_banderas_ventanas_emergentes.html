@@ -143,6 +143,97 @@
 
 </section>
 
+<!-- BANDERAS CON VENTANAS EMERGENTES -->
+<style>
+/* dentro de CSS, definimos todas las propiedadas que necesitamos para a ventana emergente */
+
+  /* ventana emergente: creación */
+.ventana_emergente {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* ventana emergente: propiedades */
+.ventana_emergente .ventana_emergente_texto {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* flecha para la ventana */
+.ventana_emergente .ventana_emergente_texto::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+  text-align: center; /* para poner el text en el centro horizontal del div */
+  vertical-align: middle; /* para poner el text en el centro vertical del div */
+  line-height: 50px; /* la altura de la linea del texto*/">
+}
+
+/* Cuando alguien le da clic, muestra o esconda la ventana */
+.ventana_emergente .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s
+}
+
+/* Añadir una animación para que la ventana se aparece lentamente */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+/* Añadir una animación para que la ventana se desaparece lentamente */
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+</style>
+
+<!--  creamos el elemento para la ventana emergente -->
+<div class="ventana_emergente" onclick="funcionVentanaEmergente()" style="
+  z-index:5;
+        position:absolute;
+        left:500px;
+        top:100px;
+        width:100px;
+        height:50px;
+        border-radius:50%;
+        background:lightcoral;
+        text-align: center; /* para poner el text en el centro horizontal del div */
+    vertical-align: middle; /* para poner el text en el centro vertical del div */
+    line-height: 50px; /* la altura de la linea del texto*/">
+  <!-- texto (si quisieramos texto) -->
+  ¡Me pica!
+  <span class="ventana_emergente_texto" id="ventana_emergente">Texto que quisieran insertar...</span>
+</div>
+
+<!-- JavaScript para la animación de la ventana que aparecerá -->
+<script>
+  // Cuando le da clic en el elemento, vemos la ventana emergente
+  function funcionVentanaEmergente() {
+    // creando una variable para guardar el elemento ventana_emergente
+    var popup = document.getElementById("ventana_emergente");
+    // mostrando la ventana emergente cuando alguien le da clic por llamar al CSS que todavia definimos
+    popup.classList.toggle("show");
+  }
+  </script>
+
 
 <!-------CONTACTOS------>
 <section id="seccion-contacto" class="border-bottom border-secondary border-2">
