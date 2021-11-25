@@ -11,6 +11,7 @@ algo que quizás o en principio se sentía imposible o las primeras frustaciones
 IMG REF (tortuga) https://.pngtree.com/so/Tortugas%27%3ETortugas "Limpiar el plástico de los océanos ES POSIBLE| Ocean Cleanup System 001|" por Tendencias Tecnológicas, en 2018.: https://www.youtube.com/watch?v=z1ZQ3HpU5PY Diversos stickers (como la Red o los peces) de https://www.flaticon.es/ (sin nombres o derechos) © Ministerio para la Transición Ecológica y el Reto Demográfico/REEDUCAMAR-Gobierno de España: https://www.miteco.gob.es/es/ceneam/recursos/mini-portales-tematicos/reeducamar/videos-documentales.aspx
 - Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Algo más que quieren añadir sobre el proyecto: Gracias por todo Patrones Hermosos y a sus increíbles colaboradoras, una pena despedirnos de este proyecto tan hermoso! Una pena que no haya más tiempo. Espero nos volvamos a ver!
+![EQUIPO3](https://user-images.githubusercontent.com/91509952/143343356-a463c4e3-4658-4e15-939a-5e76ccac6232.jpg)
 
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal!
@@ -22,10 +23,13 @@ ges.githubusercontent.com/91509952/143334695-5cb20c66-3375-4cc2-9ff1-c7e11fe7a86
 ![basuraimportante](https![botella-de-plastico](https://user-images.githubusercontent.com/91509952/143334819-8c383a70-7cf1-4d7b-a1a2-3e23aa66d186.png)
 ![bg-hero](https://user-images.githubusercontent.com/91509952/143334823-326b10a1-9721-4ba5-9155-cb9d805cf791.png)
 ![bolsa](https://user-images.githubusercontent.com/91509952/143334830-64cb2ef8-3126-44db-999c-8d05e140492d.png)
-://user-images.githubusercontent.com/91509952/143334778-48f5a975-4c85-4e9c-ac65-4603dda4fb81.png)
 ![mascarilla-medica](htt![Red](https://user-images.githubusercontent.com/91509952/143334860-388ab0f3-ad46-40ad-8197-180710c7ea19.png)
 ![tortuga](https://user-images.githubusercontent.com/91509952/143334862-12ee59d7-617a-41e6-b311-c400ad893595.png)
-ps://user-images.githubusercontent.com/91509952/143334833-9f0e2e21-cf5a-4b52-9317-6709636da21f.png)
+![Red](https://user-images.githubusercontent.com/91509952/143342000-8c594af8-b596-4b0f-b75d-295952b98137.png)
+![botella-de-plastico](https://user-images.githubusercontent.com/91509952/143342585-ead5ac28-e3a2-4fd9-b2a1-5ca8542bbef0.png)
+
+
+
 
 
 <!doctype html>
