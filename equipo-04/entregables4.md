@@ -10,3 +10,6 @@
 - Algo más que quieren añadir sobre el proyecto:
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal!
+
+
+Link Excel paìses: https://docs.google.com/spreadsheets/d/1zC1_79s2IefCnG6xe-NvyqpGmt6PozQQ/edit#gid=1910415689
