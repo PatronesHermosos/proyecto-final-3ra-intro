@@ -56,10 +56,10 @@
     margin: 0;
     padding: 0;
   }
-  /* Proporcion del panel en 65%*/
+  /* Proporcion del panel en 70%*/
   .carousel {
     position: relative;
-    padding-top: 65%;
+    padding-top: 70%;
    filter: drop-shadow(0 0 10px #0003);
     perspective: 100px;
   }
@@ -141,9 +141,10 @@
     display: inline-block;
     width: 1.5rem;
     height: 1.5rem;
-    background-color: #333;
+    background-color:rgb(239, 141, 50);
     background-clip: content-box;
     border: 0.25rem solid transparent;
+    margin-bottom: 10px;
     border-radius: 50%;
     font-size: 0;
     transition: transform 0.1s;
@@ -180,7 +181,7 @@
   .carousel::after {
     content: '';
     z-index: 1;
-    background-color: rgb(47, 47, 209);
+    background-color: rgb(239, 141, 50);
     background-size: 1rem 1rem;
     background-repeat: no-repeat;
     background-position: center center;
