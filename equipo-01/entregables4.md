@@ -16,7 +16,7 @@
   <br>Extensiones que ayudan al diseño web:<br>
    - Extensión  de Visual Studio Code:  Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer Permite visualizar el proyecto como un servidor 	local, actualiza la vista del archivo en el browser luego de cada cambio y lo mejor me permite usar las extensiones de Chrome que no funcionan como local host. En funcionamiento a la fecha Nov-2021 aunque el desarrollador ha dejado de actualizar en 2019.
    - Extension navegador Chrome: Tape https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb permite medir la posiciones de píxeles. Útil en un proyecto como este donde hay que ir poniendo las imágenes png una sobre otra.
-   - Referencias bibliográficas : Mis conocimientos generales sobre Ecología urbana (I'm kidding!). Las referencias serán listadas posteriormente.
+   - Referencias bibliográficas : Las referencias están en el archivo referencias.html 
   
 - Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Algo más que quieren añadir sobre el proyecto: Más creatividad es necesaria. 
