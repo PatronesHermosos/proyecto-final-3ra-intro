@@ -8,18 +8,21 @@ html {
   box-sizing: border-box;
 }
 body{
-  font-family: Verdana;
+  font-family: Tahoma;
   margin: 0 auto;
+  background-color: rgb(233, 200, 145);
 }
 .about{
   padding: 50px;
   text-align: center;
-  background-color:rgb(71, 78, 93);;
-  color: white;
-  font-size: 15px;
+  background-color:rgb(174, 67, 30);
+  color: rgb(233, 200, 145);
+  font-size: 20px;
 }
 .contenido{
   padding: 0 16px;
+  font-size: 20px;
+  color: rgb(238, 214, 196);
 }
 .contenido::after{
   content: "";
@@ -31,23 +34,26 @@ body{
   float: left;
   width: 40%;
   margin-bottom: 16px;
-  padding: 0 8px;
+  padding: 10px 20px 20px 20px;
 }
 #derecha{
   float: right;
   width: 40%;
   margin-bottom: 16px;
-  padding: 0 8px;  
+  padding: 10px 20px 20px 20px;
 }
 aside, section{
   padding: 10px;
-  background-color: rgb(213, 216, 191);
-  margin: 50px;
+  background-color: rgb(138, 134, 53);
+  margin: 40px;
   box-shadow: 25px 10px 0 0  rgba(0, 0, 0, 0.2);
+  border-radius: 10%;
 }
 
 a{
-  color:bisque;  
+  color:rgb(244, 255, 196); 
+  font-size: 20px;
+  text-decoration: none;
 }
 .foto{
   border-radius: 50%;
@@ -58,16 +64,30 @@ a{
 footer{
   padding: 10px;
   text-align: center;
-  background-color:rgb(71, 78, 93);;
+  background-color:rgb(208, 98, 36);
   color: white;
   font-size: 15px;
+  font-size: comic;
 }
+nav{
+  background-color: rgb(108, 74, 74);
+  text-align: center;
+  font-size: 20px;
 
+}
+nav ul{
+  margin: 0px;
+  padding: 5px 0px 5px 30px;
+}
+nav li{
+  display: inline;
+  margin-right: 50px;
+}
 </style>    
 </head>
 <body>
 <div class="about">
-<h1>About EcoUrbana/ Sobre EcoUrbana</h1>
+<h1>Sobre Escuadron de la sostenibilidad</h1>
   <p>Este sitio fue desarrollado con el apoyo del proyecto <a href="https://beautifulpatterns.org/">Patrones Hermosos</a>
   como parte de la Tercera Generación 2021.</p>
   <p>El objetivo fue crear una obra de arte que representara uno de los 17 objetivos de la agenda para 
@@ -76,7 +96,7 @@ footer{
   comparado con lo podría ser una ciudad amigable con el medio ambiente.</p>
 </div>
 
-<h2 style="text-align:center">Nuestro equipo</h2>
+<h2 style="text-align:center; font-size: 35px; color: rgb(134, 84, 57);">Nuestro equipo</h2>
 <div class="contenido">
   <section id="izquierda">
   <img class="foto" src="yo.jpg">
@@ -88,14 +108,20 @@ footer{
   <aside id="derecha">
   <img class="foto" src="coco.jpg">
   <h2>Coco Val</h2>
-  <p><strong>Hablale al gallo</strong></p>
-  <p>Un gallo cantor, enojón, que le gusta opinar demasiado.</p>   
+  <p><strong>Depurador "Rooster debbuging"</strong></p>
+  <p>Un gallo cantor, enojón, que le gusta opinar demasiado. ¿Algún problema? Habla con el gallo.</p>   
   </aside>
 </div>
 
 <footer>
 <p>Donde estamos:</p>
 <p>Barrio aleatorio. Santa Cruz de la Sierra-Bolivia</p>    
+<nav>
+  <ul>
+    <li><a href="proyecto-final.html"><strong>Home</strong></a></li>
+    <li><a href="referencias.html"><strong>Referencias</strong></a></li>
+  </ul>
+</nav>
 </footer>
 </body>
 </html>
