@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <!-- reconoce correctamente los acentos en español-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--que se ajuste al ancho del dispositivo-->
+<html lang= "es"> <!--lang define el idioma de la página*/-->
+<head>
+<style>
+html {
+  box-sizing: border-box;
+}
+body{
+  font-family: Verdana;
+  margin: 0 auto;
+}
+.about{
+  padding: 50px;
+  text-align: center;
+  background-color:rgb(71, 78, 93);;
+  color: white;
+  font-size: 15px;
+}
+.contenido{
+  padding: 0 16px;
+}
+.contenido::after{
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#izquierda{
+  float: left;
+  width: 40%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+#derecha{
+  float: right;
+  width: 40%;
+  margin-bottom: 16px;
+  padding: 0 8px;  
+}
+aside, section{
+  padding: 10px;
+  background-color: rgb(213, 216, 191);
+  margin: 50px;
+  box-shadow: 25px 10px 0 0  rgba(0, 0, 0, 0.2);
+}
+
+a{
+  color:bisque;  
+}
+.foto{
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+footer{
+  padding: 10px;
+  text-align: center;
+  background-color:rgb(71, 78, 93);;
+  color: white;
+  font-size: 15px;
+}
+
+</style>    
+</head>
+<body>
+<div class="about">
+<h1>About EcoUrbana/ Sobre EcoUrbana</h1>
+  <p>Este sitio fue desarrollado con el apoyo del proyecto <a href="https://beautifulpatterns.org/">Patrones Hermosos</a>
+  como parte de la Tercera Generación 2021.</p>
+  <p>El objetivo fue crear una obra de arte que representara uno de los 17 objetivos de la agenda para 
+  <a href="https://www.un.org/sustainabledevelopment/es/development-agenda/">desarrollo sostenible de la ONU</a>. Este fue el caso
+  de "Ciudades sostenibles, ciudades amigables" una manera de vizualizar didáctica en dos paneles los problemas de cualquier metrópoli latinoamericana
+  comparado con lo podría ser una ciudad amigable con el medio ambiente.</p>
+</div>
+
+<h2 style="text-align:center">Nuestro equipo</h2>
+<div class="contenido">
+  <section id="izquierda">
+  <img class="foto" src="yo.jpg">
+  <h2>Neri H. Val</h2>
+  <p><strong>Desarrollador</strong></p> 
+  <p>Ecóloga de computador buscando su próximo aventura en el conocimiento.</p>
+  </section>
+
+  <aside id="derecha">
+  <img class="foto" src="coco.jpg">
+  <h2>Coco Val</h2>
+  <p><strong>Hablale al gallo</strong></p>
+  <p>Un gallo cantor, enojón, que le gusta opinar demasiado.</p>   
+  </aside>
+</div>
+
+<footer>
+<p>Donde estamos:</p>
+<p>Barrio aleatorio. Santa Cruz de la Sierra-Bolivia</p>    
+</footer>
+</body>
+</html>

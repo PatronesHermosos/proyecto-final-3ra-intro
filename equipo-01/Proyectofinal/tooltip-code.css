@@ -43,4 +43,8 @@
     visibility: visible;
     opacity: 1;
   }
-  
+  /*Estilos específicos para la lista del tootltip*/
+  .bullets li{
+    list-style: circle;
+    color: rgb(228, 240, 236);
+  }
