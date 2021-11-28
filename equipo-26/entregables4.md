@@ -1,11 +1,11 @@
 ## Etapa 4 del proyecto final
 
-- Numero del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en el equipo:
-- El título de su proyecto:
+- Numero del equipo:  26    
+- Nombre del equipo:  Find Workers!     
+- Nombre de todos miembros en el equipo:  Gaby Nina Vargas ,  Guadalupe Alejandra Castro
+- El título de su proyecto:   "Conectando oportunidades para mejorar la inserción laboral"  
 - Resumen (2-3 frases) de su proyecto final:
-- La lista de recursos y referencias que han usado:
+- La lista de recursos y referencias que han usado: 
 - Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Algo más que quieren añadir sobre el proyecto:
 
