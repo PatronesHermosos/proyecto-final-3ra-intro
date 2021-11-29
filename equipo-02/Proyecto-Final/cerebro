@@ -1,0 +1,347 @@
+
+<style>
+  
+</style>
+
+<div class="row featurette">
+    <div class="col-md-7">
+      <h2 class="featurette-heading" >NEUROCEREBRO </h2>
+    </div>
+
+    
+
+    <div class="col-md-7 ">
+      <div style="
+      position:absolute;
+      left: 476px;
+      top:25.5px;
+      width:319px;
+      height:170px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)">
+      </div> 
+      
+      <div id="ball" style="
+        z-index: 5;
+        position: absolute;
+        left: 390px;
+        top: 115px;
+        width: 75px;
+        height: 75px;
+        border-radius: 50%;
+        border-color: black;
+        border: 2px solid;
+        background-color: white;
+        background-image: url('./1foto.jpeg');
+        background-size: cover;
+        background-position: center;
+        
+     "></div>
+
+      <div id="ball1" style="
+      z-index: 5;
+      position: absolute;
+      left: 690px;
+      top: 45px;
+      width: 75px;
+      height: 75px;
+      border-radius: 50%;
+      border-color: black;
+      border: 2px solid;
+      background-color: white;
+      background-image: url('./neuronitas.jpg');
+      background-size: cover;
+      background-position: center;
+
+      "></div>
+
+      <div id="ball2" style="
+      z-index: 5;
+      position: absolute;
+      left: 535px;
+      top: 255px;
+      width: 75px;
+      height: 75px;
+      border-radius: 50%;
+      border-color: black;
+      border: 2px solid;
+      background-color: white;
+      background-image: url('./H2.jpeg');
+      background-size: cover;
+      background-position: center;
+
+      "></div>
+      
+      <div id="ball3" style="
+      z-index: 5;
+      position: absolute;
+      left: 820px;
+      top: 165px;
+      width: 75px;
+      height: 75px;
+      border-radius: 50%;
+      border-color: black;
+      border: 2px solid;
+      background-color: white;
+      background-image: url('./H5.jpg');
+      background-size: cover;
+      background-position: center;
+
+      "></div>
+
+      
+      <div id="ball4" style="
+      z-index: 6;
+      position: absolute;
+      left: 693px;
+      top: 355px;
+      width: 75px;
+      height: 75px;
+      border-radius: 50%;
+      border-color: black;
+      border: 2px solid;
+      background-color: white;
+      background-image: url('./neurociencia.jpg');
+      background-size: cover;
+      background-position: center;
+
+      "></div>
+
+      
+      <div id="ball5" style="
+      z-index: 5;
+      position: absolute;
+      left: 930px;
+      top: 280px;
+      width: 75px;
+      height: 75px;
+      border-radius: 50%;
+      border-color: black;
+      border: 2px solid;
+      background-color: white;
+      background-image: url('./azul.jpg');
+      background-size: cover;
+      background-position: center;
+
+      "></div>
+
+      <div id="ball6" style="
+      z-index: 6;
+      position: absolute;
+      left: 805px;
+      top: 455px;
+      width: 75px;
+      height: 75px;
+      border-radius: 50%;
+      border-color: black;
+      border: 2px solid;
+      background-color: white;
+      background-image: url('./imagen6.jpg');
+      background-size: cover;
+      background-position: center;
+
+      "></div>
+
+      
+
+      <div style="
+      z-index: index 2;
+      position:absolute;
+      left:729px;
+      top: 47.6px;
+      width:176px;
+      height: 187px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div> 
+      
+      <div style="
+      z-index: index 4;
+      position:absolute;
+      left:828px;
+      top:79.9px;
+      width:158px;
+      height:170px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div>
+
+      <div style="
+      z-index: index 6;
+      position:absolute;
+      left:872px;
+      top: 124.1px;
+      width:178px;
+      height: 102px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div>
+
+      <div style="
+      z-index: index 7;
+      position:absolute;
+      left:955px;
+      top:166.5px;
+      width:132px;
+      height:85px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div>
+
+      <div style="
+      z-index: index 9;
+      position:absolute;
+      left:894px;
+      top:229.5px;
+      width:213.4px;
+      height:96.9px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div>
+
+      <div style="
+      z-index: index 10;
+      position:absolute;
+      left:916px;
+      top: 280.6px;
+      width:178.2px;
+      height:98.6px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div>
+
+      <div style="
+      z-index: index 11;
+      position:absolute;
+      left:806px;
+      top:323px;
+      width:248.6px;
+      height:93.5px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div>
+
+      <div style="
+      z-index:5;
+      position:absolute;
+      left: 751px;
+      top:360.4px;
+      width:231px;
+      height:115.6px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)">
+      </div> 
+
+      <div style="
+      position:absolute;
+      z-index:3;
+      left: 403.3px;
+      top:51px;
+      width:231px;
+      height:136px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)">
+      </div> 
+
+      <div style="
+      position:absolute;
+      z-index: 4;
+      left: 355px;
+      top:90.1px;
+      width:178.2px;
+      height:204px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)">
+      </div>
+
+      <div style="
+      position:absolute;
+      z-index: 4;
+      left:300px;
+      top:136px;
+      width: 209px;
+      height:119px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div> "
+
+      <div style=" 
+      position:absolute;
+      z-index:4 ;
+      left:489px;
+      top:173.4px;
+      width:283.8px;
+      height:126.8px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div> 
+      
+      
+
+      <div style="
+      position:absolute;
+      z-index: 4;
+      left:625.6px;
+      top:238px;
+      width:330px;
+      height:110.5px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div>
+
+      <div style="
+      position:absolute;
+      z-index: 4;
+      left: 674px;
+      top:306px;
+      width:176px;
+      height:132.6px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div>
+
+      <div style="
+      position:absolute;
+      z-index: 4;
+      left:509px;
+      top:283.9px;
+      width:176px;
+      height:91.8px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div>
+
+       <div style="
+      position:absolute;
+      z-index: 5;
+      left:803.8px;
+      top:459px;
+      width:77px;
+      height:93.5px;
+      border-radius:3%;
+      border-color:black;
+      border-style: solid;
+      background: rgb(253, 237, 236)"></div> 
+  
+    </div> 
+</div>
