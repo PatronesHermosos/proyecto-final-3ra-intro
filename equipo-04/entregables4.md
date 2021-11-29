@@ -1,12 +1,12 @@
 ## Etapa 4 del proyecto final
 
-- Numero del equipo:04
+- Numero del equipo: 04
 
-- Nombre del equipo:Granizado
+- Nombre del equipo: Granizado
 
 - Nombre de todos miembros en el equipo: Andrea Fernanda Garzon, Giselli Montania González e Isabel Agreda Anchaise
 
-- El título de su proyecto:Trabajo Digno
+- El título de su proyecto: Trabajo Digno
 
 - Resumen (2-3 frases) de su proyecto final:
 
