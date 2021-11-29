@@ -13,7 +13,7 @@
 - Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí:  https://youtu.be/y1j4YhH0-LA
 
 - Algo más que quieren añadir sobre el proyecto:
-- Nos gusto trabajar muchisimo en nuestra obra de arte, gracias por la oportunidad. 
+  - Nos gusto trabajar muchisimo en nuestra obra de arte, gracias por la oportunidad. 
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal!
 https://github.com/Mogorochan/Equipo-16-Patrones-Hermosos.git
