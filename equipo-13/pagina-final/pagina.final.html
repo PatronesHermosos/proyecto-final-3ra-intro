@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="es">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0">
+       
+        <!-- Titulo de la pagina que se ve en la pestaña-->
+        <title>¡Accion por el clima!</title> 
+
+        <!-- Estilos del carrusel de fotos-->
+        <style > 
+           
+            section {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                overflow-x: hidden;
+                background-image: url(ur.jpg);
+            }
+ 
+            .hi-slide {
+                position: relative;
+                width: 754px;
+                height: 292px;
+                margin: 115px auto 0;
+ 
+            }
+ 
+            .hi-slide .hi-next,
+             .hi-slide .hi-prev {
+                 position: absolute;
+                 top:50%;
+                 width: 40px;
+                 height: 40px;
+                 margin: -20px;
+                 border-radius: 50px;
+                 line-height: 40px;
+                 text-align: center;
+                 cursor:pointer;
+                 background-color: rgb(240, 145, 181);
+                 color:black;
+                 transition: all 1.5s;
+                 font-size: 20ox;
+                 font-weight: bold;
+ 
+            }
+ 
+ 
+             .hi-slide .hi-next:hover,
+              .hi-slide .hi-prev:hover {
+                 opacity: 1;
+                 background-color: white;
+             }
+ 
+             .hi-slide .hi-prev {
+                 left: -70px;
+             }
+ 
+             .hi-slide .hi-prev::before {
+                 content: '<';
+             }
+ 
+             .hi-slide .hi-next {
+                 right: -70px;
+             }
+ 
+             .hi-slide .hi-next::before {
+                 content: '>';
+             }
+ 
+             .hi-slide > ul {
+                 list-style: none;
+                 position: relative;
+                 width: 754px;
+                 height: 292px;
+                 margin: 0;
+                 padding: 0;
+             }
+ 
+             .hi-slide > ul > li {
+                 overflow: hidden;
+                 position: absolute;
+                 z-index: 0;
+                 left: 377px;
+                 top:147px;
+                 width: 0;
+                 height: 0;
+                 margin: 0;
+                 padding: 0;
+                 border: 3px solid black;
+                 background-color: #333;
+                 cursor: pointer;   
+             }
+ 
+             .hi-slide > ul > li > img {
+                 width: 100%;
+                 height: 100%;
+                 background-position: center;
+             }
+ 
+ 
+        </style>
+
+        <!-- Estilos de fuente -->
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@300&family=EB+Garamond:ital@1&family=Petit+Formal+Script&family=Zen+Kaku+Gothic+Antique:wght@300&display=swap" rel="stylesheet">
+
+        <!-- Estilos de CSS -->
+        <link href="styles.css" rel="stylesheet">
+
+    </head>
+
+    <body>
+
+        <header>
+            <br><br>
+            <h2 id="equipo">Mosqueteras en accion por el clima</h2>
+            <nav>
+                <ul>
+                    <li><a href="#contacto"><span class="icon-drawer"></span>Contactanos</a></li>
+                    <li><a href="#"><span class="icon-leaf"></span>Proyectos</a></li>
+                    <li><a href="#quienSoy"><span class="icon-earth"></span>Quienes Somos</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <!-- Agrego el video de fondo de la pagina -->
+        <video src="planetita.mp4" autoplay muted loop alt="video del planeta tierra rotando"></video>
+
+        <!--Agrego un audio -->
+
+<!--    <audio id="song" controls >
+
+            <source src="Enya - Only Time (Lyrics Spanish  English).mp3" type="audio/mpeg">
+
+        </audio>
+-->
+        <!-- Parte principal de la pagina (Lo que se ve al ingresar)-->
+
+        <h1 id="tema">ACCION POR EL CLIMA</h1>
+        <h3 id="subtema"> La importancia de tomar medidas para combatir el cambio climatico</h3>
+
+        <h3 id="frase">El cambio climático es el problema más importante de nuestra era. <br> La pregunta es: ¿podremos cambiar el curso a tiempo?</h3>
+        
+        <img id="icon1" src="IMG/icon.png">
+
+        <!-- Necesito poner saltos de renglon por un error en las posiciones -->
+
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        
+
+
+        <!-- Seccion Causas del cambio climatico -->
+
+
+        <h2 class= "Titulos"> Causas del cambio climatico </h2> <br>
+        <h3 class= "Informacion" >El principal responsable del cambio climático es el ser humano, sus acciones y actividades que al no ser controladas y 
+            realizarse de manera <br> indiscriminada generan emisiones de gases de efecto invernadero que aumentan la temperatura de la tierra generando un cambio en el planeta.
+            <br>El gas más conocido es el CO2, causante del 63% del calentamiento global, pero existen otros como el metano o el óxido nitroso.</h3>
+        
+        <section>
+            <div class="slide hi-slide">
+                <div class="hi-prev"></div>
+                <div class="hi-next"></div>
+                <ul>
+                    <li>
+                        <img src="Imagenes/1.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/2.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/3.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/4.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/5.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/6.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/7.jpg" alt="">
+                    </li>
+                    
+                </ul>
+            </div>
+        </section>
+
+        <br><br>
+
+        <section>
+            <ol class="listas">        
+                <li class="subtitulo"> Transporte contaminante ya que el 40% de las emisiones de CO2 provenientes de vehiculos.</li> 
+    <!--               <p> El 40% de las emisiones provienen de coches, camiones, furgonetas, autobuses pero también de embarcaciones acuáticas o aéreas </p>   
+    -->
+                <li class="subtitulo"> Edificios que necesitan rehabilitacion energetica. </li>
+    <!--                   <p> El 36% de los gases emitidos son por culpa de edificios que necesitan una rehabilitación energética:</p>
+    -->      
+                <li class="subtitulo"> La industria y el sector manufacturero a partir de la quema de combustible fosil para la produccion. </li>
+    <!--                   <p> La industria y el sector manufacturero generan emisiones, sobre todo a partir de la quema de combustibles fósiles 
+                        que permite producir la energía necesaria para la producción de cemento, hierro, acero, electrónica, plásticos, ropa y otros bienes. 
+                        La minería y otros procesos industriales también liberan gases. </p>
+    -->
+                <li class="subtitulo"> Generacion excesiva de residuos producto del consumismo</li>
+    <!--                   <p> Cada persona genera más de un kilo y medio de basura al día. El 60% de esta basura consiste en envases y bolsas de plástico.</p>
+    -->
+                <li class="subtitulo"> Agricultura y ganaderia no sostenible, las emisiones producidas por los equipos agricolas, los fertilizantes de cultivos, 
+                                       los desmontes para formar los campos y las emisiones producidas 
+                                       por el envasado y la distribucion de los productos.  </li>
+    <!--                   <p> La producción de alimentos requiere energía para hacer funcionar los equipos agrícolas o los barcos de pesca, 
+                        generalmente con combustibles fósiles. Los cultivos también provocan emisiones, como al utilizar fertilizantes y estiércol. El ganado produce metano, un potente gas de efecto invernadero. 
+                        Y las emisiones también proceden del envasado y la distribución de alimentos.</p>
+    -->
+                <li class="subtitulo"> Derroche de energia en edificios residenciales y comerciales al seguir funcionando a partir de la 
+                                       carbon, petroleo y gas natural. </li>
+    <!--                   <p> A nivel mundial, los edificios residenciales y comerciales consumen más de la mitad de la electricidad. 
+                        Al seguir recurriendo al carbón, el petróleo y el gas natural para la calefacción y la refrigeración, emiten cantidades importantes de gases de efecto invernadero.</p>
+    -->            
+                <li class="subtitulo"> La deforestacion para crear campos ganaderos y plantaciones. Los arboles talados liberan el dioxido 
+                                       acumulado en su interior a modo de emisiones.</li>
+    <!--                   <p> La tala de bosques para crear campos de ganaderia, plantaciones, o por otros motivos, genera que al cortar los arboles 
+                        se libere el carbono acumulado dentro de estos a modo de emisiones. Los bosques absorben dióxido de carbono, 
+                        su destrucción también limita la capacidad de la naturaleza para mantener las emisiones fuera de la atmósfera.</p>
+    -->      
+            </ol>
+        </section>
+
+        <br><br><br><br>
+
+        <!-- Seccion de consecuencias del cambio climatico-->
+
+        <h2 class="Titulos"> Consecuencias del cambio climatico </h2> <br>
+        <h3 class= "Informacion"> Entre las múltiples consecuencias del calentamiento global y el cambio climático, 
+             se destacan aquellas ligadas al aumento de las temperaturas. <br>
+             Hoy en día existen numerosas evidencias científicas de que nuestro planeta se
+             está calentando, mostrando cambios sin precedentes en los registros climáticos.</h3>
+
+        
+        <section>
+            <div class="slide hi-slide">
+                <div class="hi-prev"></div>
+                <div class="hi-next"></div>
+                <ul>
+                    <li>
+                        <img src="Imagenes/9.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/10.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/11.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/12.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/15.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/16.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="Imagenes/17.jpg" alt="">
+                    </li>  
+                </ul>
+            </div>
+        </section>
+    
+        <br><br>
+    
+        <section>
+            <ol class="listas">
+                <li class="subtitulo"> El deshielo producido por el aumento de las temperaturas y el aumento del nivel del mar consecuencia 
+                                       del deshielo ya que este vierte mayor cantidad de agua en los mares y oceanos.  </li>
+    <!--                <p> Como los casquetes se derriten, se vierte muchísima más agua en los mares y océanos y, 
+                        por tanto, aumenta el nivel del mar: esta es una de las consecuencias del cambio climático más graves, 
+                        ya que significa que muchísimas islas podrían desaparecer en el futuro</p>
+    -->    
+                <li class="subtitulo"> Aumento de las temperaturas a causa de la acumulacion de gases contaminantes en la atmosfera, lo que provoca 
+                                       sequias y riesgo de incendios forestales que llevarian a la desertizacion del planeta. </li>
+    <!--                <p> La acumulación de gases contaminantes hace que las temperaturas aumenten cada vez más y que los climas cambien: 
+                        esto provoca sequías y, además, aumenta el riesgo de incendios que conllevan la deforestación 
+                        y la desertización del planeta.</p>
+    -->    
+                <li class="subtitulo"> Tormentas mas intensas dado que las temperaturas mas altas generan luvias menos frecuentes pero con una mayor 
+                                       intensidad en el momento que se dan, provocando inundaciones. </li>
+    <!--                <p> El hecho de que las temperaturas sean más altas hace que las lluvias sean menos frecuentes, 
+                        pero que sean más intensas; por tanto, el nivel de inundaciones y su gravedad también irán en aumento</p>
+    -->     
+                <li class="subtitulo"> Aumento de las sequias dado a las temperaturas mas altas y la disminucion de las lluvias. Lo cual generaria 
+                                       cambios en la duracion de las estaciones del año. </li>
+    <!--                <p> Una temperatura más alta, menos precipitaciones, sequías e inundaciones hacen que el clima se adapte a esta nueva climatología 
+                        y, por tanto, se produzcan cambios en la duración de las estaciones</p>
+    -->     
+                <li class="subtitulo"> Perdida de especies (fauna y flora) consecuencia de la perdida de sus habitat naturales por los cambios en la 
+                                       temperatura, ademas de que no son capaces de adaptarse a cambios tan rapidamente. </li>
+    <!--                <p> Muchas especies de animales están viendo cómo su clima actual desaparece y no son capaces de adaptarse a cambios tan rápidamente. 
+                        Así, muchos osos polares están muriendo ahogados porque no pueden alcanzar los hielos flotantes, 
+                        y las aves migratorias están perdiendo la capacidad de emigrar porque no pueden seguir los flujos de temperatura a las que están habituadas.</p>
+    -->     
+                <li class="subtitulo"> Escasez de alimentos debido a las sequias o las fuertes tormentas ya que ponen en peligro la produccion de alimentos 
+                                       generando hambrunas y que las personas que viven de ello puedan llegar a perderlo todo. </li>
+    <!--                <p> El cambio climático pone en peligro la producción de alimentos tan básicos como el trigo, y esto significa que cientos de miles de personas cuya vida depende de sus cultivos están en riesgo de perderlo todo. 
+                        Y no solo eso: si los cultivos escasean, los precios se disparan.</p>
+    -->     
+                <li class="subtitulo"> Mayor riesgo para la salud ya que el aumento de la temperatura genera una zona mas acogedora a la propagacion de determinadas 
+                                       enfermedades a lo largo del mundo. </li>
+    <!--                <p> Un cambio de temperatura de varios grados puede hacer que la zona templada se haga más acogedora a 
+                        la propagación de determinadas enfermedades. </p>     
+    -->    
+             </ol>
+        </section>
+        
+    <!-- Seccion para las medidas que se pueden aplicar -->
+        
+        <h2 class="Titulos">¿Qué puedes hacer tú para reducir el cambio climatico?</h2>
+        <h3 class= "Informacion"> Es importante comenzar a aplicar medidas en nuestra vida que ayuden a reducir desde nuestro lugar el cambio climatico
+            Aun estamos a tiempo de reducir el impacto del cambio climático, pero debemos darnos prisa. 
+            Esto es lo que puedes hacer en tu día a día para contribuir a combatirlo.</h3>
+
+        <br>
+
+        <section class="medidas">
+
+            <div class="caja">
+                <img src="IMG/Energias.renov.png" alt="ilustracion de energias renovables" class="ilustraciones">
+                <p>
+                   Implementar el uso de energias renovables para reducir las emiciones de gases de efecto invernadero.
+                   Se puede optar por el autoconsumo electrico que consiste en una instalación fotovoltaica en tu tejado la cual 
+                   te garantizará energía limpia, directamente de tu tejado, no generarás ningún impacto en el medio y reducirá tu factura de la luz.    
+                </p>
+            </div>
+
+            <div class="caja">
+                <img src="IMG/Ahorro.energ.png" alt="ilustracion de ahorrar energia" class="ilustraciones">
+                <p>
+                    Ser eficientes con el consumo de energia. No solo implica consumir lo necesario sino que tambien hacerlo
+                    de forma eficiente y responsable. 
+                    <br><br><br><br><br><br>
+                </p>
+            </div>
+
+            <div class="caja">
+                <img src="IMG/las.tres.R" alt="ilustracion de aplica las 3 R" class="ilustraciones">
+                <p>
+                    Aplica las 3 R. <br> Reduce: consume menos, es decir, lo indispensable <br>
+                    Reutiliza: buscale una segunda vida util a los productos. <br>
+                    Recicla: es imprescindible reciclar si queremos generar un cambio positivo.
+                    <br><br><br>
+                </p>
+            </div>
+
+            <div class="caja">
+                <img src="IMG/Transporte.efic.png" alt="ilustracion de transporte eficiente" class="ilustraciones">
+                <p>
+                    Opta por empezar a usar menos el coche privado siempre que puedas. 
+                    Utiliza medios de transporte sostenibles como la bicicleta o intenta
+                    desplazarte en transporte publico. <br><br><br><br>
+                </p>
+            </div>
+
+            <div class="caja">
+                <img src="IMG/Bajo.en.carbono.png"  alt="ilustracion de dieta baja en carbono" class="ilustraciones">
+                <p>
+                    Intenta transformar tu dieta en una que sea con un baja en carbono, es decir
+                    reduce el consumo de carnes y aumenta el de frutas, verduas y hortalizas.
+                    Es importante tambien que los productos sean locales y que sean de temporada.
+                    <br><br><br>
+                </p>
+            </div>
+
+            <div class="caja">
+                <img src="IMG/Planta.un.arbol.png" alt="ilustracion de planta un arbol" class="ilustraciones">
+                <p>
+                    Si puedes ¡planta un arbol! ya que cada uno de ellos puede absorber 
+                    un kilo de CO2 durante su vida. 
+                    <br><br><br><br><br><br>
+                </p>
+            </div>
+
+
+        </section>
+
+        <br><br><br><br><br><br><br><br><br><br>
+
+       
+        <hr>
+
+
+        <footer class="foot">
+
+            
+                <div id="quienSoy" >
+            
+                    <img id=miFoto src="Imagenes/YO.jpg" alt="Foto Valeria Sestua">
+                
+                    <section class="Datos">
+
+                        <h2> Valeria Sestua </h2>
+
+                        <p>
+                            25 años <br>
+                            Buenos Aires Argentina
+                        </p>
+                    </section>
+                </div>
+
+                <div id= "contacto" >
+
+                    <a href="https://www.facebook.com/valee.sestua/" target="_blank">
+                    <img src="IMG/FB.png" alt="Icono de facebook" class="Icono">
+                    </a>
+                    <a href="https://twitter.com/valesestua" target="_blank">
+                    <img src="IMG/TW.png" alt="Icono de Twitter" class="Icono">
+                    </a>
+                    <a href="https://www.instagram.com/valesestua" target="_blank">
+                    <img src="IMG/IG.png" alt="Icono de Instagram" class="Icono">
+                    </a>
+                
+                    <p> Facebook: Valeria Sestua </p>
+                    <p> Instagram: valesestua </p>
+                    <p> Twitter: valesestua </p>
+               
+                </div> 
+
+            
+            
+
+        </footer>
+
+        <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+        <script src="js/jquery.hislide.js"></script>
+        
+        <script>
+            $('.slide').hiSlide();
+
+        </script>
+        
+        <script src="menu.js"></script>
+        
+    </body>
+
+</html>
