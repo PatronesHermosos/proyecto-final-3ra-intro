@@ -17,7 +17,7 @@
   - Codigo HTML, CSS y Javascript
   - Imagenes de ambos carrusel: https://unsplash.com/s/photos/pollution?orientation=portrait
 
-- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí:  https://youtu.be/51Qi_NqnjCA
 
 
 - Algo más que quieren añadir sobre el proyecto:
