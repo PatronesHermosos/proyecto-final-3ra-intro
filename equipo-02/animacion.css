@@ -1,0 +1,12 @@
+/* Movimientos de animacion */
+
+@keyframes example {
+    0%   {background-color:rgb(228, 179, 176); left:402px;  top:128px;}
+    16.67%   {background-color:rgb(228, 179, 176); left:703px; top:58px;}
+    33.34%   {background-color:rgb(228, 179, 176); left:549px;   top:268px;}
+    50.01%   {background-color:rgb(228, 179, 176); left:833px;  top:179px;}
+    66.68%   {background-color:rgb(228, 179, 176); left:706px;  top:369px;}
+    83.35%   {background-color:rgb(228, 179, 176); left:944px;  top:294px;}
+    100%   {background-color:rgb(228, 179, 176); left:817px; top:467px;}
+
+}
