@@ -19,7 +19,7 @@
    - Extension navegador Chrome: Tape https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb permite medir la posiciones de píxeles. Útil en un proyecto como este donde hay que ir poniendo las imágenes png una sobre otra.
    - Referencias bibliográficas : Las referencias están en el archivo referencias.html enlace: https://htmlpreview.github.io/?https://raw.githubusercontent.com/PatronesHermosos/proyecto-final-3ra-intro/main/equipo-01/Proyectofinal/referencias.html
   
-- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: en proceso...
 - Algo más que quieren añadir sobre el proyecto: 
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal!
