@@ -28,3 +28,4 @@ https://getbootstrap.com/docs/5.1/getting-started/introduction/
 - Algo más que quieren añadir sobre el proyecto:
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal!
+Nuestros archivos estan en el zip llamado código
