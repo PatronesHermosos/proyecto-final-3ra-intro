@@ -4,7 +4,7 @@
 
 - Nombre del equipo: Granizado
 
-- Nombre de todos miembros en el equipo: Andrea Fernanda Garzon, Giselli Montania González e Isabel Agreda Anchaise
+- Nombre de todos miembros en el equipo: Andrea Fernanda Garzón, Giselli Montania González e Isabel Agreda Anchaise
 
 - El título de su proyecto: Trabajo Digno
 
