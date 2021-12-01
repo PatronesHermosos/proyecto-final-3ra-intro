@@ -1,25 +1,24 @@
-
-.fondo1 {
-    z-index:1;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:1500px;
-    height:500px;
-    border-radius:0%;
-    background-color: rgb(68, 154, 212);
-    }
-
-    .fondo2 {
-    z-index:1;
-    position:absolute;
-    left:0px;
-    top:500px;
-    width:1500px;;
-    height:230px;
-    border-radius:0%;
-    background-color: rgb(3, 48, 9);
-    }
+.fondo1 { 
+  z-index:1;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100%;
+  height:100%;
+  border-radius:0%;
+  background-color: rgb(68, 154, 212);
+  }
+  
+  .fondo2 {
+  z-index:1;
+  position:absolute;
+  left:0px;
+  top:500px;
+  width:100%;
+  height:40%;
+  border-radius:0%;
+  background-color: rgb(3, 48, 9);
+  }
 
     .ramita1 {
         z-index:3;
