@@ -5,6 +5,7 @@
 - Nombre de todos miembros en el equipo:Erika Lissette Deza Ruiz
 - El título de su proyecto:Reforestar es sencillo y esta en nuestras manos.
 - Resumen (2-3 frases) de su proyecto final:
+- Lo ideal en la reforestacion es que las especies sean autoctonas,para que asi sean de crecimiento rapido y pueda realizarse de manera más rápida la repoblacián de arboles
 - La lista de recursos y referencias que han usado:Bootstraps,CSS,Javascript y Html.
 - Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Algo más que quieren añadir sobre el proyecto:Fue un desafio poder realizar la obra de arte que se creo y se tuvo que hacer unos cambios para mostrar un mejor resultado.
