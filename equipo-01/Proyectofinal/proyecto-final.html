@@ -39,7 +39,7 @@ footer{
 </header>
 <section  class="carousel" aria-label="Gallery">
 <ol class="carousel__viewport">
-<li id="carousel__slide1" tabindex="0"class="carousel__slide">
+<li id="carousel__slide1" tabindex="0" class="carousel__slide">
 <div id="container1" class="carousel__snapper"><!-- Inicio del contendor-->
  
 <!--ENCABEZADO-->
@@ -98,7 +98,7 @@ footer{
   background-image:url('esgoto.png');
   background-size:200px 100px;"> 
   <span class="tooltiptext"><strong><p style="text-align: center; line-height: 0px;">Aguas servidas</p></strong><hr>Lagunas de oxidación para el tratamiento de aguas residuales procedentes de hogares, 
-  comercios e industrias y de los colectores pluviales. Puede haber deficiencias en zonas de asentamiento urbanos informales. Colectores pluviales con exceso de residuos sólidos</span>
+  comercios e industrias y de los colectores pluviales. Puede haber deficiencias en zonas de asentamientos urbanos informales. Colectores pluviales con exceso de residuos sólidos</span>
 </div>
 <div id= "lluvia" class="tooltip" style="
   z-index: 3;
@@ -110,7 +110,7 @@ footer{
   background-image:url('lluvia-tormenta.png');
   background-size:90px 60px;"> 
   <span class="tooltiptext"><strong><p style="text-align: center; line-height: 0px;">Lluvia</p></strong><hr>Lluvias ácidas causadas por combustión de combustibles fósiles regiones fuertemente industrializadas.
-  Escazes de lluvia déficit de evapotranspiración (temperatura elevada pocas plantas, suelos secos). Inundaciones causadas por obstrucción de colectores pluviales en zonas lluviosas.</span>
+  Escasez de lluvia déficit de evapotranspiración (temperatura elevada pocas plantas, suelos secos). Inundaciones causadas por obstrucción de colectores pluviales en zonas lluviosas.</span>
 </div>
 <div id= "mototaxi" class="tooltip" style="
   z-index: 5;
@@ -316,8 +316,8 @@ footer{
   border-radius: 25%;
   height: auto;">
 </div>
-<div id= "avion" >
-  <img src="avion.png" style= "position: absolute;
+<div>
+  <img id="avion" src="avion.png" style= "position: absolute;
   z-index: 3; 
   top: 450px; 
   left: 700px;
@@ -571,18 +571,15 @@ footer{
   height: auto;"> 
 </div>
 </div><!--Fin contenedor1-->
+    <script src="moveme.js"></script>
 
-<script src="moveme.js"></script>
     <a href="#carousel__slide2"
-    class="carousel__prev">Go to last slide</a>
+      class="carousel__prev">Go to last slide</a>
     <a href="#carousel__slide2"
-    class="carousel__next">Go to next slide</a>
+      class="carousel__next">Go to next slide</a>
 </li>
 
-
-<li id="carousel__slide2"
-    tabindex="0"
-    class="carousel__slide">
+<li id="carousel__slide2" tabindex="0" class="carousel__slide">
 <div id="container2" class="carousel__snapper"><!-- Inicio del contenedor-->
 
 <!--ENCABEZADO-->
@@ -703,7 +700,7 @@ footer{
   background-image:url('ENTRADAS.png');
   background-size:210px 55px;"> 
   <span class="tooltiptext"><strong><p style="text-align: center; line-height: 0px;">Metabolismo urbano ENTRADAS</p></strong><hr> Como un organismo la ciudad <em>"Consume recursos de manera sostenible":</em><ul class="bullets"><li>Materias primas industria "verde"</li>
-    <li>Uso eficiente del agua potable.</li><li>Energías renovables para la industria o uso doméstico.</li><li>Producción local y comunitaria de alimentos.</li></ul></span>
+  <li>Uso eficiente del agua potable.</li><li>Energías renovables para la industria o uso doméstico.</li><li>Producción local y comunitaria de alimentos.</li></ul></span>
 </div>
 <div id= "salidas2" class="tooltip" style="
   z-index: 2;
@@ -736,7 +733,6 @@ footer{
   border-radius: 10%;
   height: auto;">
 </div>
-
 <div>
 <img id= "nube2" src="nube.png" style= "position: absolute;
   z-index: 1; 

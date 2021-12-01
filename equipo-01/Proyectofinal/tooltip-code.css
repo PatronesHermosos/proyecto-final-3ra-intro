@@ -37,7 +37,6 @@
     border-style: solid;
     border-color: #555 transparent transparent transparent;
   }
-  
   /* Mostrar el texto cuando el mouse pase sobre el contenedor del Tooltip*/
   .tooltip:hover .tooltiptext {
     visibility: visible;

@@ -1,5 +1,6 @@
 /*Fuente basado en Carousel only CSS and Html link: https://codepen.io/Schepp/pen/WNbQByE */
 /*Animación carousel*/
+/*Avanza*/
 @keyframes tonext {
     75% {
       left: 0;
@@ -14,7 +15,7 @@
       left: 0;
     }
   }
-  
+  /*Retrocede*/
   @keyframes tostart {
     75% {
       left: 0;
@@ -29,7 +30,7 @@
       left: 0;
     }
   }
-  
+  /*Alinea*/
   @keyframes snap {
     96% {
       scroll-snap-align: center;
@@ -63,7 +64,7 @@
    filter: drop-shadow(0 0 10px #0003);
     perspective: 100px;
   }
-  
+  /*Ventana gráfica*/
   .carousel__viewport {
     position: absolute;
     top: 0;
@@ -80,8 +81,7 @@
     position: relative;
     flex: 0 0 100%;
     width: 100%;
-  }
-    
+  }   
   .carousel__slide:before {
     position: absolute;
     top: 50%;
@@ -97,7 +97,7 @@
     height: 100%;
     scroll-snap-align: center;
   }
-  
+  /*Medias query de Animaciones*/
   @media (hover: hover) {
     .carousel__snapper {
       animation-name: tonext, snap;
@@ -105,18 +105,15 @@
       animation-duration: 10s;
       animation-iteration-count: infinite;
     }
-  
     .carousel__slide:last-child .carousel__snapper {
       animation-name: tostart, snap;
     }
   }
-  
   @media (prefers-reduced-motion: reduce) {
     .carousel__snapper {
       animation-name: none;
     }
   }
-  
   .carousel:hover .carousel__snapper,
   .carousel:focus-within .carousel__snapper {
     animation-name: none;
@@ -129,14 +126,12 @@
     left: 0;
     text-align: center;
   }
-  
   .carousel__navigation-list,
   .carousel__navigation-item {
     display: inline-block;
   }
   
   /*Circulos de posición inferiores*/
-
   .carousel__navigation-button {
     display: inline-block;
     width: 1.5rem;
@@ -170,7 +165,6 @@
   .carousel__prev {
     left: 0.1rem;
   }
-  
   .carousel::after,
   .carousel__next {
     right: 0.1rem;

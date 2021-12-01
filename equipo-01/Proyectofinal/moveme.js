@@ -5,7 +5,7 @@ var limite = 900
 var i = 5
 function islas(){
 if(limite> 920 || limite <900){
-  i = (-1)*i
+  i = (-1)*i;
   calor.style.background = 'rgb(245, 290, 37)';//cambio color 
   if(i >0){
   i = i/2;      
@@ -43,7 +43,17 @@ var punta_izq1 = document.getElementById('triangulo1');
 var base_der1 = document.getElementById('flecha2');
 var punta_der1 = document.getElementById('triangulo2');
 
+//Avion
+var avion= document.getElementById('avion');
+var vol_inicio= 700;
 
+function vuelo(){
+if (vol_inicio> 850|| vol_inicio<460){
+  vol_inicio= 460;  
+}
+vol_inicio=vol_inicio+dist;
+avion.style.left=vol_inicio+ 'px';
+};
 
 // PANEL 2
 //Nube 
@@ -112,20 +122,21 @@ position_punta_der= 490;
       punta_der1.style.top= position_punta_der + 'px';
       };
 
-setInterval(function(){
-    nubes();
-    setTimeout(flechaizq, 300);
-    flechader();
-},200);
-
+//Movimiento
 
 setInterval(function(){
     smogs();
     setTimeout(flechaizq, 300);
     flechader();
     islas();
+    vuelo();
 },300);
 
+setInterval(function(){
+  nubes();
+  setTimeout(flechaizq, 300);
+  flechader();
+},200);
 
 
 /*"Cuando una página está en segundo plano, no se repinta en absoluto,
