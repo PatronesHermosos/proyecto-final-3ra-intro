@@ -14,6 +14,7 @@
 
 - Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 
+
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal!
 
-- Link Excel países: https://docs.google.com/spreadsheets/d/1zC1_79s2IefCnG6xe-NvyqpGmt6PozQQ/edit#gid=1910415689
+Link Excel países: https://docs.google.com/spreadsheets/d/1zC1_79s2IefCnG6xe-NvyqpGmt6PozQQ/edit#gid=1910415689
