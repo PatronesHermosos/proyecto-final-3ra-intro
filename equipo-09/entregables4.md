@@ -24,6 +24,7 @@ https://getbootstrap.com/docs/5.1/getting-started/introduction/
 
 - Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí:
 
+https://youtu.be/o0GOeiJ2vI0
 
 - Algo más que quieren añadir sobre el proyecto:
 
