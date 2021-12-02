@@ -1,8 +1,8 @@
 ## Etapa 4 del proyecto final
 
-- Numero del equipo:
-- Nombre del equipo:
-- Nombre de todos miembros en el equipo:
+- Numero del equipo: 17
+- Nombre del equipo: ERROR 404
+- Nombre de todos miembros en el equipo: 
 - El título de su proyecto:
 - Resumen (2-3 frases) de su proyecto final:
 - La lista de recursos y referencias que han usado:
