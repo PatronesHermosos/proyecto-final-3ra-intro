@@ -1,0 +1,124 @@
+CODIGO // HTML
+<div class="container">
+            <div class="lbl-menu">
+                <label for="radio5">INICIO</label>
+                <label for="radio1">IMPORTANTE</label>
+                <label for="radio2">CIFRAS</label>
+                <label for="radio3">SOLUCIONES</label>
+                <label for="radio4">MÁS</label>
+        
+            </div>
+
+            <div class="content">
+                <input type="radio" name="radio" id="radio1">
+                <div class="tab1">
+                    <H1 id="concepto">IMPORTANTE</H1>
+                    <img class="WATTER" src="img/WATER.gif" alt="">
+                    <p>El agua es un recurso único e insustituible, es base de la vida, las sociedades y las economías. El acceso a ella es también un derecho humano; sin embargo, 2200 millones de personas carecen de este acceso.</p>
+                </div>
+                <input type="radio" name="radio" id="radio2">
+                <div class="tab2">
+                    <H1 id="cifras">CIFRAS</H1>
+                    <img class="PLANETAGIRATORIO" src="img/PLAN.gif">
+                    <p style="text-align: justify;"><b>A.</b> 1 de cada 4 estabecimientos de salud carece de servicios básicos de agua.<br>
+                        <b>B.</b> 3 de cada 10 personas carecen de acceso a servicios de agua potable gestionados de forma segura y 6 de cada 10 personas carecen de acceso a instalaciones de saneamiento gestionadas de forma segura.<br>
+                        <b>C.</b> Al menos 892 millones de personas continúan practicando la defecación al aire libre.<br>
+                        <b>D.</b> Las mujeres y las niñas son responsables de la recolección de agua en el 80% de los hogares sin acceso a agua en las instalaciones.<br>
+                        <b>E.</b> Entre 1990 y 2015 , la proporción de la población mundial que utiliza una fuente mejorada de agua potable ha aumentado del 76% al 90%.<br>
+                        <b>F.</b> La escasez de agua afecta a más del 40% de la población mundial y se prevé que aumente. Más de 1.700 millones de personas  viven actualmente en cuencas fluviales donde el uso del agua supera la recarga.<br>
+                        <b>G.</b> 2.400 millones de personas carecen de acceso a servicios básicos de saneamiento, como inodoros o letrinas.<br>
+                        <b>H.</b> Más del 80 por ciento de las aguas residuales resultantes de las actividades humanas se vierten en los ríos o el mar sin eliminar la contaminación.<br>
+                        <b>I.</b>Cada día, casi 1.000 niños mueren debido a enfermedades diarreicas evitables relacionadas con el agua y el saneamiento.<br>
+                        <b>J.</b> Aproximadamente el 70 por ciento de toda el agua extraída de ríos, lagos y acuíferos se utiliza para riego.<br>
+                        <b>K.</b> Las inundaciones y otros desastres relacionados con el agua representan el 70% de todas las muertes relacionadas con desastres naturales.<br></p>
+                </div>
+                <input type="radio" name="radio" id="radio3">
+                <div class="tab3">
+                    <H1 id="soluciones">SOLUCIONES</H1>
+                    <img class="MANOS" src= "img/MANOS.gif"">
+                    <p style="text-align: justify;">La falta de acceso a servicios de agua y saneamiento de calidad genera impactos económicos y sociales negativos que afectan la salud, educación, productividad y oportunidades de las personas, incrementando de esta manera los niveles de pobreza. El Derecho Humano al Agua y Saneamiento (DHAS), reconocido explícitamente en el 2010 por los Estados miembros de las Naciones Unidas para todas las personas y todos los contextos, asegura que nadie quede excluido, siendo este derecho una condición para poder alcanzar otros derechos humanos y los Objetivos de Desarrollo Sostenible para el 2030.</p><br>
+                    <p style="text-align:justify">El contar con agua potable para la higiene y un sistema de saneamiento adecuado y seguro, son la base de la prevención. Sin embargo, existen en la región de América Latina y el Caribe varias comunidades con serios desafíos en estos aspectos, y es necesario el intercambio de técnicos, expertos y tomadores de decisión para asegurar que todos tengan acceso permanente a este recurso.</p>
+                </div>
+                <input type="radio" name="radio" id="radio4">
+                <div class="tab4">
+                    <H1 id="mas">MÁS INFORMACIÓN</H1>
+                    <p style="text-align: justify;"><b>Palabras de la Sra. Lidia Brito, Directora Regional de Ciencias de la UNESCO en América Latina y el Caribe; el Sr. Marcelo Korc, jefe de la Unidad de Cambio Climático y Condiciones Ambientales Determinantes de la Salud de OPS/OMS; el Sr. Youssef Filali-Meknassi, secretario del Programa Hidrológico Intergubernamental de la UNESCO; y el Sr. Oscar Cristi, Director Nacional del Agua de Chile y Presidente del Comité Nacional del PHI</b>, marcaron los lineamientos principales de sus organizaciones y cómo se ponen a disposición todos los recursos necesarios para la investigación y trabajo de campo en la lucha contra esta pandemia.<p>
+                    <p style="text-align: justify;">El agua es un recurso único e insustituible, es base de la vida, las sociedades y las economías. El acceso a ella es también un derecho humano; sin embargo, 2200 millones de personas carecen de este acceso.
+                    El agua es un recurso cada vez más escaso en un mundo que la precisa para encarar sus grandes desafíos demográficos y climáticos. La falta de reconocimiento de su valor es la principal causa de su mal uso y desperdicio, afirma un nuevo informe de la ONU divulgado en la jornada dedicada a ese líquido vital. 
+                    En América Latina, se atribuye “un bajo valor” al agua, fomentando su sobreexplotación y contaminación, especialmente en un contexto de creciente inestabilidad climática.<p><br>
+                    <img class="PAZ" src="img/PAZ.gif" alt="">
+                    <H2 style="text-align: center;">Latinoamerica y el agua</H2>
+                    <p style="text-align: justify;">Los costos del uso del agua o de su mantenimiento (una vez que se ha otorgado la concesión o el derecho a utilizarla), suelen ser nulos o insignificante. El agua representa un “subsidio implícito” que no refleja su valor estratégico. Además, la mayoría de los países de la región “no han destinado suficiente financiación a la aplicación adecuada de la ley en los casos de contaminación y sobreexplotación”</p>
+                </div>
+
+                <input type="radio" name="radio" id="radio5">
+                <div class="tab5">
+                
+                </div>
+
+            </div>
+            
+CODIGO // CSS
+
+.container{
+    width: 100%;
+    max-width: 700%;
+    margin: auto;
+    margin-top: 0px;
+    text-align: center;
+    
+}
+
+.lbl-menu{
+    background: rgb(0, 0, 0);
+}
+
+.lbl-menu label{
+    display: inline-block;
+    padding: 20px;
+    color: #fff;
+    cursor: pointer;
+    transition: all 400ms ease;
+}
+.lbl-menu label:hover{
+    background: #4e9be4;
+}
+
+.content{
+    position: relative;
+    text-align: center;
+
+}
+.content div{
+    position: absolute;
+    line-height: 1.8;
+    transition: all 600ms ease;
+    opacity: 0;
+    visibility: hidden;
+    transform: scale(0.90);
+    padding: 30px;
+    background: rgb(93, 186, 223);
+    padding-bottom: 40px;
+
+}
+
+#radio1,#radio2,#radio3,#radio4,#radio5{
+    display: none;
+
+}
+
+#radio1:checked ~ .tab1,#radio2:checked ~ .tab2,#radio3:checked ~ .tab3,#radio4:checked ~ .tab4{
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1);
+}
+
+.content .tab2:after{
+    left: 122px;
+}
+.content .tab3:after{
+    left: 210px;
+}
+.content .tab4:after{
+    left: 303px;
+}
