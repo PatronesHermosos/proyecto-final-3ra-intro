@@ -154,3 +154,38 @@
 </body>
 
 </html>
+
+CSS//////CODIGO
+
+.PLANETAGIRATORIO{
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid black;
+    float: left;
+    width: 550px;
+
+}
+
+.MANOS{
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid black;
+    float: right;
+    width: 500px;
+    height: 600px;
+}
+
+.WATTER{
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid black;
+    float: center;
+    width: 400px;
+    height: 200px;
+}
+.PAZ{
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid black;
+    float: center;
+    width: 950px;
