@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+  <title>Juego</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap" rel="stylesheet">
+
+  <head>
+    <!--video de fondo-->
+    <header class="header content">
+    <div class="header-video">
+      <video src="images/space.mp4" type="video/mp4"
+          muted
+          autoPlay
+          loop></video>
+      </div>
+      <link rel="stylesheet" href="styles/styledrag.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     
+ 
+<!--Titulo de la tierra-->
+ <p class="titulo">Limpia la Tierra: Arrastra los objetos al contenedor que consideras correcto</p>
+<p style="text-align: justify">Desechemos la basura y todo lo que ya no ultilizamos de manera apropiada, para cuidar el medio ambiente.</p>
+
+<div class= "mundo">
+
+ <div class="buckets">
+
+  <img class="buckets__b1" src="images/cesta1reutilizar.png" alt="cesta1">
+
+  <img class="buckets__b2" src="images/cesta2reciclar.png" alt="cesta2">
+
+  <img class="buckets__b3" src="images/cesta3reducir.png" alt="cesta3">
+</div>
+
+
+<div id="reutilizar" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+<img id="ropa" src="items/piladeropa.png" draggable="true" ondragstart="drag(event)" width="150px" height="170px"> 
+
+<div id="reciclar" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+<img id="botellaplastico" src="items/plasticbottle.png" draggable="true" ondragstart="drag(event)" width="200px" height="280px">
+
+<div id="reducir" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+<img id="agua" src="items/agua.png" draggable="true" ondragstart="drag(event)" width="150px" height="170px">
+
+
+
+<div id="reutilizar" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+<img id="recipientevidrio" src="items/recipientevidrio.png" draggable="true" ondragstart="drag(event)" width="150px" height="170px">
+
+<div id="reciclar" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+<img id="bolsa" src="items/bolsa.png" draggable="true" ondragstart="drag(event)" width="200px" height="280px">
+
+<div id="reducir" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+<img id="luz" src="items/luz.png" draggable="true" ondragstart="drag(event)" width="150px" height="170px">
+
+
+
+			
+  <img src= "mundo.jpg.png">-->
+  <img id="mundo" src="images/Earth.gif"  alt="" style="z-Index:1" class="rotate" width="700px" height="700px"/>
+
+  <!-- en JavaScript -->
+  
+  <script>
+  /*
+      // guardar una variable con todas las propiedades del mundo
+      var mundo_imagen = document.getElementById('mundo');
+  
+      // unidad de tiempo en millisegundos
+      var unidad_tiempo_1 = 100;
+  
+      // con cada unidad de tiempo, ¿cuantos grados rotamos?
+      var angulo = 5; // pixeles
+  
+      // variable para guardar los grados con que rotamos
+      var angulo_guardado = 0;
+  
+      setInterval(function(){
+          // actualizamos el ángulo con que rotamos
+          angulo_guardado = angulo_guardado + angulo;
+          // actualizamos la propiedad transform
+          mundo_imagen.style.transform = 'rotate('.concat(angulo_guardado).concat('deg)');
+      },unidad_tiempo_1)
+  */
+  </script>
+   <div class="mover">
+
+    <img id = "nave" class="mover" src="images/ovni.png">
+<script>
+
+var velocityX = 50;
+var velocityY = 50;
+var positionX = 0;
+var positionY = 0;
+var nave = document.getElementById("nave");
+
+// ESCRIBE TU CODIGO AQUI
+setInterval(function(){
+   if (positionX>1300 || positionX<0){//rango en que se mueve la pelota
+       velocityX= (velocityX/2)*-2;
+   
+   }
+   if (positionY>580 || positionY<0){//rango en que se mueve la pelota
+       velocityY= (velocityY/2)*-2;
+   
+   }
+   
+   positionY= positionY + velocityY;
+   nave.style.top = positionY + "px";
+
+  positionX= positionX + velocityX;
+   
+   nave.style.left = positionX + "px";
+
+    },200);
+</script>
+
+
+ <!--Drag and drop-->
+
+<script>
+  function allowDrop(ev) {
+    ev.preventDefault();
+  }
+  
+  function drag(ev) {
+    ev.dataTransfer.setData("image", ev.target.id);
+  }
+  
+  function drop(ev) {
+    ev.preventDefault();
+    var data = ev.dataTransfer.getData("image");
+    ev.target.appendChild(document.getElementById(data));
+  }
+  </script>
+
+
+<a href="index.html" class="button"> Regresar a página principal</a>
+</body>
+  </html>

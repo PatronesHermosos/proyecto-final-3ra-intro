@@ -1,0 +1,178 @@
+.titulo {
+   
+    color: white;
+    font-size: 200%;
+    font-family:'Source Code Pro', monospace;
+    text-align: center;
+}
+
+*{
+    box-sizing: border-box;
+
+}
+
+
+.content{
+
+    max-width: 60rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0rem;
+    margin: auto;
+    text-align: center;
+}
+
+
+.buckets__b1 {
+ height: 300px;
+ width: 220px;
+ position: absolute;
+ top: 500px;
+ left:  400px;
+ 
+}
+
+
+.buckets__b2 {
+    height: 300px;
+    width: 220px;
+    position: absolute;
+    top: 500px;
+    left:  650px;
+}
+
+
+.buckets__b3 {
+    height: 300px;
+    width:220px;
+    position: absolute;
+    top: 500px;
+    left: 900px;
+  
+}
+
+
+.header-video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 130vh;
+    overflow: hidden; 
+    z-index: -1;
+}
+
+.header-video video{
+
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#mundo {
+  
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 170px;
+    left: 600px;
+    z-index: 2;
+}
+
+#reutilizar {
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    top: 500px;
+    left: 430px;
+    border: none ;
+    z-index: 1;
+}
+
+#reciclar {
+    width: 160px;
+    height: 200px;
+    position: absolute;
+    top: 500px;
+    left: 680px;
+    border: none ;
+}
+
+
+#reducir {
+    
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    top: 500px;
+    left: 930px;
+    border: none ;
+    
+}
+
+#agua {
+    z-index:3;
+    position: absolute;
+}
+
+#botellaplastico {
+    z-index:3;
+    position: absolute;
+}
+
+#ropa {
+    z-index:3;
+    position: absolute;
+}
+
+#recipientevidrio {
+    z-index:3;
+    position: absolute;
+}
+
+#bolsa {
+    z-index:3;
+    position: absolute;
+}
+
+#luz {
+    z-index: 100;
+    position: absolute;
+}
+.mover{
+    z-index:5;
+    position:absolute;
+    top : 0px;
+    left:0px;
+    width:200px;
+    height:200px;
+   }
+  p{
+   
+        color: white;
+        font-size: 100%;
+        font-family:'Source Code Pro', monospace;
+        text-align: center;
+  }
+
+.button{
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+z-index: 4;
+
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+  }

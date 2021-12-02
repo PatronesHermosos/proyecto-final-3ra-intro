@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body {
+margin: 0;
+font-size: 1rem;
+line-height: 1.5;
+color:beige;
+overflow-x: hidden;
+
+}
+
+.header {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    color: #f1f1f1;
+}
+
+.content{
+    max-width: 60rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin: auto;
+    text-align: center;
+}
+
+.header-video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden; 
+    z-index: -1;
+}
+
+.header-video video{
+
+    min-width: 100%;
+    min-height: 100%;
+   
+}
+
+.header-overlay{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    z-index: 1;
+    opacity: .10;
+}
+.header-content{
+    z-index: 3;
+}
+
+.header-content h1{
+
+    font-size: 50px;
+    margin-bottom: 0;
+    font-family: roboto;
+
+}
+
+.header-content p{
+    font-size: 1.5 rem;
+    display: block;
+    padding-bottom: 2rem;
+
+}
+
+.button{
+        position: absolute;
+        top: 70%;
+        left: 35%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        background-color: #f1f1f1;
+        color: black;
+        font-size: 16px;
+        padding: 16px 30px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+        text-align: center;
+    z-index: 4;
+   
+}
+
+.button:hover {
+        background-color: black;
+        color: white;
+      }
+      .video{
+          z-index: 10;
+      }
