@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="./css/main.css">
+
+    <title>Grupo 4 - Granizado</title>
+  </head>
+  <body>
+
+    <header class="container-fluid bg-dark d-flex justify-content-center">
+        <p class="text-light mb-0 p-2 fs-4">Grupo 4 - Granizado</p>
+    </header> 
+    
+    <nav>
+      <div class="logo_nav">
+        <img src="/img/patrones-hermosos.jpg" alt="logo patrones-hermosos" width="140" height="45"
+    </nav>
+
+    <nav  class="navbar navbar-expand-lg navbar-light p-3"  id="menu">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+              <span class="fs-2 text-dark fw-bold"></span>
+          </a>
+
+
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">   <!-----Acá empieza la lista----->
+                <a class="nav-link" aria-current="page" href="#">Inicio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#equipo">Infromación por Países</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#seccion-contacto">Creadoras</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#seccion-contacto">Contactenos</a>
+              </li>
+            </ul>
+            
+          </div>
+
+        </div>
+      </nav>
+          
+    <div id="carousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+
+          <div class="carousel-item active" data-bs-interval="1000">
+            <img src="./img/Slide1.jpg" class="d-block w-100" alt="Slide1">
+          </div>
+          
+ 
+          <div class="carousel-item" data-bs-interval="1000"> <!--data bs el tiempo para cambiar las imagenes-->
+            <img src="./img/Slide2.jpg" class="d-block w-100" alt="Slide2">
+          </div>
+ 
+
+          <div class="carousel-item" data-bs-interval="1000">
+            <img src="./img/Slide3.jpg" class="d-block w-100" alt="Slide3">
+          </div>
+
+          <div class="carousel-item" data-bs-interval="1000">
+            <img src="./img/Slide4.jpg" class="d-block w-100" alt="Slide4">
+          </div>
+ 
+ 
+        </div> 
+        <button class="carousel-control-prev" type="button" data-bs-target="#carousel"  data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carousel"  data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>   
+          
+        
+    <section class="d-flex flex-column justify-content-center align-items-center pt-5  text-center w-50 m-auto" id="intro"> <!-- w marca el ancho, m auto es el margen automatico -->      
+    <h1 class="p-3 fs-2 border-top border-3"> Esperamos usted pueda visulizar y comparar los datos estadísticos de cada país, respecto a su realidad. 
+      <span class="text-info"><center>y determine si su trabajo, es un trabajo en condiciones dignas.<center> </h1></span></h1>
+     <p class="p-3  fs-3">
+
+
+    <!-- BANDERAS CON VENTANAS EMERGENTES -->
+<section id="banderas" class="border-bottom border-secondary border-2">
+<style>
+/* dentro de CSS, definimos todas las propiedadas que necesitamos para a ventana emergente */
+
+  /* ventana emergente: creación */
+.ventana_emergente {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* ventana emergente: propiedades */
+.ventana_emergente .ventana_emergente_texto {
+  visibility: hidden;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 80px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 80%;
+  margin-left: -60px;
+}
+
+/* flecha para la ventana */
+.ventana_emergente .ventana_emergente_texto::after {
+  content: "";
+  margin-left: 5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+  text-align: center; /* para poner el text en el centro horizontal del div */
+  vertical-align: middle; /* para poner el text en el centro vertical del div */
+  line-height: 70px; /* la altura de la linea del texto*/
+}
+
+/* Cuando alguien le da clic, muestra o esconda la ventana */
+.ventana_emergente .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s
+}
+
+/* Añadir una animación para que la ventana se aparece lentamente */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+/* Añadir una animación para que la ventana se desaparece lentamente */
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+</style>
+</section>
+<!--  creamos el elemento para la ventana emergente -->
+<div class="ventana_emergente" onclick="funcionVentanaEmergente()" style="
+        z-index:20;
+        text-align: center; /* para poner el text en el centro horizontal del div */
+    vertical-align: middle; /* para poner el text en el centro vertical del div */
+    line-height: 20px; /* la altura de la linea del texto*/">
+  <!--   bandera -->
+
+  <img src="img/Argentina.png">
+  <!-- texto (si quisieramos texto) -->
+  Argentina
+  <span class="ventana_emergente_texto" id="ventana_emergente">
+  Población total: 45.376.763
+  Riesgo de pobreza: 2019 / 35,5%
+  Salario mínimo:  2021 / 318,4 €
+  Tasa de desempleo: 9,75%
+  Numero de desempleados: 2020 / 1.418 m
+</div>
+
+<!-- JavaScript para la animación de la ventana que aparecerá -->
+<script>
+  // Cuando le da clic en el elemento, vemos la ventana emergente
+  function funcionVentanaEmergente() {
+    // creando una variable para guardar el elemento ventana_emergente
+    var popup = document.getElementById("ventana_emergente");
+    // mostrando la ventana emergente cuando alguien le da clic por llamar al CSS que todavia definimos
+    popup.classList.toggle("show");
+  }
+  </script>
+  </section>
+
+<section class="d-flex flex-column justify-content-center align-items-center pt-5  text-center w-50 m-auto" id="intro"> <!-- w marca el ancho, m auto es el margen automatico -->      
+     
+    </section>
+
+    <section class="w-100">
+      <div class="row w-75 mx-auto" id="servicios-fila-1"> <!-- w marca el ancho -->      
+         
+      </section>
+
+      
+
+      </div>   
+      </div>
+    </section> 
+
+ <!--Creadoras-->
+<section class="w-100">
+  <div class="row w-75 mx-auto" id="servicios-fila-1"> <!-- w marca el ancho -->      
+    <p class="p-3  fs-3">
+      <span class="text-primary fw-bold"> Granizado </span> Trabajando juntos por reflejar los datos de cada país  
+  </p>  
+  <div class="mt-6 text-center">
+    <img id="img-equipo" src="./img/mapaMundi.jpeg" alt="Mapa Mundi"> 
+  
+  </div>
+      <div class="col-lg-6 col-md-12 col-sm-12 d-flex justify-content-start my-5 icono-wrap">
+          <img src="./img/Gise.jpg" alt="Gise.jpg"   width="180" height="220">   
+          <section>
+            <span class="text-primary fw-bold"> Giselli Montania González.</span>
+          <samp> Buenos Aires, Argentina.</span>
+          <p> Auxiliar Farmacéutica y estudiante de Sistemas, con muchas ganas de aprender y desenvolverme en el mundo it. </p>
+          </section>  
+      </div>
+
+      <div class="col-lg-6 col-md-12 col-sm-12 d-flex justify-content-start  my-5 icono-wrap">
+          <img src="./img/Iza.jpg" alt="Iza.jpg" width="180" height="220">  
+        <section>
+          <span class="text-primary fw-bold"> Isabel Agreda.</span>
+          <samp> Rosario provincia de Santa fe, Argentina.</span>
+          <p>Organizadora de eventos, actualmente del área de atención al cliente de una app digital y estudiante de desarrollo web. </p>
+          </section>      
+          
+     
+      </div>   
+  </div>
+  
+  <div class="row w-75 mx-auto mb-5" id="servicios-fila-2">       
+      <div class="col-lg-6 col-md-12 col-sm-12 d-flex justify-content-start  my-5 icono-wrap">
+          <center><img src="./img/Fer.jpg" alt="arbol" width="180" height="220"> </center> 
+      <section>
+          <span class="text-primary fw-bold"> Andrea Fernanda Garzón.</span>
+          <samp> Bogotá, Colombia.</span>
+          <p>Administradora Pública e ilustradora apasaionada, actualmente estudia desarrollo web. </p>
+          </section>     
+      </div>
+        
+      </div>   
+  </div>
+</section> 
+
+<!-------------NOSOTROS---------------->
+<section>
+    <div class="container w-80 m-auto text-center" id="equipo">
+        <h1 class="mb-5 fs-2"> Por una clase trabajadora organizada en <span class="text-primary"> Sindicatos</span> </h1>
+        <p class="fs-4 ">“La sed de conocimientos que demuestra la clase obrera es una de las manifestaciones culturales más notables de la lucha de clases contemporánea. En un sentido moral, la lucha de la clase obrera es también un índice de la renovación cultural de la sociedad.”, Rosa Luxemburgo. </p>
+        
+
+</section>
+
+    <div class="mt-6 text-center">
+      <img id="img-equipo" src="./img/equipo.jpg" alt="equipo"> 
+    
+    </div>
+      
+      
+
+            </section>
+          </div>
+      </div>
+    </div>
+
+</section>
+
+<!-------CONTACTOS------>
+<section id="seccion-contacto" class="border-bottom border-secondary border-2">
+  <div id="bg-contactos">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#1b2a4e" fill-opacity="1" d="M0,32L120,42.7C240,53,480,75,720,74.7C960,75,1200,53,1320,42.7L1440,32L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path></svg>
+  </div>
+
+
+  </div>
+</section>
+
+
+<!----------FOOTER----------->
+<footer class="w-100  d-flex  align-items-center justify-content-center flex-wrap">
+  <p class="fs-5 px-3  pt-3">Grupo 4 - Granizado &copy;  2021</p>
+  <div id="iconos" >
+      <a href="#"><i class="bi bi-facebook"></i></a>
+      <a href="#"><i class="bi bi-twitter"></i></a>
+      <a href="#"><i class="bi bi-instagram"></i></a>  
+  </div>
+</footer>
+
+    <!-- Paquete Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script> 
+    <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>

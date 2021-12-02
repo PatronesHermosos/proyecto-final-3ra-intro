@@ -1,0 +1,212 @@
+/*-------Generales-----*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+
+/*----------MENÚ----------*/
+ #menu a, button{    /* Selector id menu, a lo tenemos de hijo directo de li*/
+     font-size: 18px !important;
+     font-weight: 600;    
+ }
+ #menu a{
+     color:#3f3f3f;     
+ }
+
+ /*----------CARRUSEL IMAGENES----------*/
+.carousel-inner {
+    max-height:39rem !important;
+    
+}
+.slide{
+    margin-top: 10px;
+}
+.slide img{
+    height: 65vh;
+}
+
+/*---------------- PARTICIPANTES IMAGEN--------------*/
+#img-equipo{
+    max-height:30rem !important;
+    width:50%;
+}
+
+/*---------------------CONTACTOS BACKGROUND------------------------*/
+#bg-contactos{
+    position:relative;
+    top: -130px;
+} 
+ #seccion-contacto{
+    background-color: #1b2a4e;
+    min-height:500px;
+    position:relative;
+}
+
+/*----------FOOTER----------*/
+footer {
+    background: #1b2a4e;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+#iconos  i {
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
+
+/*----------PANTALLA ANCHA----------*/
+@media (max-width:1200px){
+    #intro, #equipo {
+        width:90% !important;
+        margin:auto;
+    }  
+    #local {
+        flex-wrap: wrap;
+        padding-top:30px;
+   }
+   .wrapper-local {
+    width:90%;
+    margin:auto;
+    padding-top:50px;    
+   } 
+}
+
+/*----------PANTALLA CHICA----------*/
+@media (max-width:768px) {
+
+    #intro, #equipo{
+        width:90% !important;
+        margin:auto;
+    }    
+    #img-equipo{
+        max-height:20rem !important;
+        width:90%;
+    }
+    .wrapper-local {
+        width:90%;
+        margin:auto;
+        padding-top:50px;    
+    }
+    #local {
+        flex-wrap: wrap;
+    }
+    #bg-contactos{
+        top: -120px;
+    }
+}
+
+/* dentro de CSS, definimos todas las propiedadas que necesitamos para a ventana emergente */
+
+  /* ventana emergente: creación */
+.ventana_emergente {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* ventana emergente: propiedades */
+.ventana_emergente .ventana_emergente_texto {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* flecha para la ventana */
+.ventana_emergente .ventana_emergente_texto::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+  text-align: center; /* para poner el text en el centro horizontal del div */
+  vertical-align: middle; /* para poner el text en el centro vertical del div */
+  line-height: 50px; /* la altura de la linea del texto*/
+}
+
+/* Cuando alguien le da clic, muestra o esconda la ventana */
+.ventana_emergente .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s
+}
+
+/* Añadir una animación para que la ventana se aparece lentamente */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+/* Añadir una animación para que la ventana se desaparece lentamente */
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+ /* ventana emergente: creación */
+.ventana_emergente {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* ventana emergente: propiedades */
+.ventana_emergente .ventana_emergente_texto {
+  visibility: hidden;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  margin-left: -80px;
+}
+
+/* flecha para la ventana */
+.ventana_emergente .ventana_emergente_texto::after {
+  content: "";
+  margin-left: 5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+  text-align: center; /* para poner el text en el centro horizontal del div */
+  vertical-align: middle; /* para poner el text en el centro vertical del div */
+  line-height: 50px; /* la altura de la linea del texto*/
+}
+
+/* Cuando alguien le da clic, muestra o esconda la ventana */
+.ventana_emergente .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s
+}
+
+/* Añadir una animación para que la ventana se aparece lentamente */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+/* Añadir una animación para que la ventana se desaparece lentamente */
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
