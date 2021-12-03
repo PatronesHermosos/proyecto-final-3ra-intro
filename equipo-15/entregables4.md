@@ -11,6 +11,6 @@
   - Referencias de imagenes (ver "References.txt")
   - Recursos externos (ver "Other resources.txt" )
 - Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://drive.google.com/file/d/1CCf8sFMJ14yVRFWjsUqsGuEY5CcVlpCg/view?usp=sharing
-- Algo más que quieren añadir sobre el proyecto: Aún nos falta integrar la pieza a la pagina web, esperamos resolverlo antes de la presentación. Muchas gracias.
+- Algo más que quieren añadir sobre el proyecto: En caso de no poder abrir el documento comprimido, la carpeta "Proyecto_Final" se puede encontrar en el siguiente link https://www.un.org/sustainabledevelopment/es/
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal!
