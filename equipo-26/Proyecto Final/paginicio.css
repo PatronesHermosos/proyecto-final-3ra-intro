@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0;
+   
+
+}
+
+
+
+.paisclick{
+    z-index: 3;
+    max-width: 400px;
+    top: 60%;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(95, 6, 80);
+    font-size: 20px;
+}
+
+.eres{
+
+    max-width: 400px;
+    background-color: rgba(204, 4, 187, 0.596);
+    font-size: 40px;
+    color: cornsilk;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
