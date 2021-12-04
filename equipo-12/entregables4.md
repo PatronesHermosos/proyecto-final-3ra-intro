@@ -42,7 +42,7 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvector-premiu
 plastico
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvector-premium%2Fconjunto-dibujos-animados-dibujo-ilustracion-botella-plastico_10646993.htm&psig=AOvVaw2I8NYtBZLLb2pGMm4ZDT24&ust=1638667324439000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCDztL9yPQCFQAAAAAdAAAAABAP
 
-- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://www.youtube.com/watch?v=Vg9TYOHa48k 
 - Algo más que quieren añadir sobre el proyecto:
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal!
