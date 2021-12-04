@@ -10,7 +10,7 @@
 
 - Resumen (2-3 frases) de su proyecto final:
 
-1. Mi proyecto final consiste en 1106 lineas de codigo en HTML y 620 lineas de codigo en JavaScript, la mayoria de las figuras son un conjunto de circulos, lineas, triangulos o arcos, y hay solo una estrategia de animacion aplicada sobre los rayos de sol que es la alternacion de colores mediante la logica de bordes. 
+1. Mi proyecto final consiste en 1106 lineas de codigo en HTML y 620 lineas de codigo en JavaScript, la mayoria de las figuras son un conjunto de circulos, lineas, triangulos o arcos, y hay solo una estrategia de animacion aplicada sobre los rayos de sol que es la alternacion de colores mediante la logica de bordes. La problematica escogida para la obra de arte fue "La importancia de plantar arboles" y el concepto que se desarrollo fue la naturaleza viva (izquierda) contra la naturaleza muerta (derecha).
 
 
 - La lista de recursos y referencias que han usado:
