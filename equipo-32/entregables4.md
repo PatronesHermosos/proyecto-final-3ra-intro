@@ -13,4 +13,5 @@ Para las fuentes: https://fonts.googleapis.com/css?family=Montserrat:400,700
 - Algo más que quieren añadir sobre el proyecto: Presentamos problemas con las otras dos integrantes que ya no nos respondían. Fue muy bonito realizar el proyecto con los recursos que disponiamos.
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal!
+
 Carpeta Drive donde se halla el código y las imágenes utilizadas: https://drive.google.com/folderview?id=1B2OGD-8TI-LvWpCv_YgOBH-xouZEgOg1
