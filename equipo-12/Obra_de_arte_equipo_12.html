@@ -1,221 +1,513 @@
- 
 <h1><center>CADA COSA A SU LUGAR</center></h1>;
-
-<!--bote de jenny-->
-
-<div style="
-z-index:5;
-position:absolute;
-left:100px;
-top:270px;
-width:250px;
-height:400px;
-border-radius:20%;
-border:2px solid;
-background:rgb(238, 204, 13)">
-</div>
-
-
-<div style="
-z-index:5;
-position:absolute;
-left:60px;
-top:360px;
-width:330px;
-height:50px;
-border-radius:20%;
-border:2px solid;
-background:rgb(207, 238, 35)">
-</div>
-
-<div style="
-z-index:5;
-position:absolute;
-left:160px;
-top:270px;
-width:130px;
-height:60px;
-border-radius:20%;
-border:2px solid;
-background:rgb(207, 238, 35)">
-</div>
-
-<div style="
-z-index:5;
-position:absolute;
-left:180px;
-top:280px;
-width:15px;
-height:30px;
-border-radius:50%;
-background:rgb(2, 71, 6)">
-</div>
-
-
-<div style="
-z-index:5;
-position:absolute;
-left:250px;
-top:280px;
-width:15px;
-height:30px;
-border-radius:50%;
-background:rgb(2, 71, 6)">
-</div>
-
-<div style="
-z-index:7;
-position:absolute;
-left:210px;
-top:300px;
-width:20px;
-height:20px;
-border-radius:50%;
-background:rgb(2, 71, 6)">
-</div>
-
-<!--bote ce carla-->
-
-<div style="
-z-index:5;
-position:absolute;
-left:900px; 
-top: 270px; 
-width: 240px;
-height:390px; 
-border-radius: 0%;
-background:rgb(196, 130, 85)"></div>
-
-<!--bote ce sol-->
 
 <style>
     .cuadrado {
     z-index:1;
     position:absolute;
-    left:620px;
+    left:650px;
     top:312px;
     width:88px;
     height:88px;
-    background: #42c1ca;
+    background: #FF9434;
 }
     .cuadrado-hijo {
     z-index:2;
     position:absolute;
-    left:632px;
+    left:662px;
+    top:324px;
+    width:64px;
+    height:64px;
+    background: #f7f4f4;
+}
+    .rectangulo-padre {
+    z-index:3;
+    position:absolute;
+    left:584px;
+    top:353px;
+    width:220px;
+    height:48px;
+    background: #FF9434;
+}
+    .rectangulo-hijo {
+    z-index:1;
+    position:absolute;
+    left:608px;
+    top:401px;
+    width:172px;
+    height:206px;
+    background: #FF9434;
+}
+
+    .cuadrado-dos {
+    z-index:1;
+    position:absolute;
+    left:385px;
+    top:312px;
+    width:88px;
+    height:88px;
+    background: #C4C4C4;
+}
+    .cuadrado-dos-hijo {
+    z-index:2;
+    position:absolute;
+    left:397px;
     top:324px;
     width:64px;
     height:64px;
     background: #ffffff;
 }
-    .rectangulo-padre {
+    .rectangulo-dos-padre {
     z-index:3;
     position:absolute;
-    left:554px;
+    left:319px;
     top:353px;
     width:220px;
     height:48px;
-    background: #42c1ca;
+    background: #C4C4C4;
 }
-    .rectangulo-hijo {
+    .rectangulo-dos-hijo {
     z-index:1;
     position:absolute;
-    left:578px;
+    left:343px;
     top:401px;
     width:172px;
     height:206px;
-    background: #42c1ca;
+    background: #C4C4C4;
 }
-    .rectangulo-nieto-uno {
+    .flechas-grises {
+    z-index:1;
+    position:absolute;
+    left:363px;
+    top:440px;
+    width:126px;
+    height:128px;
+}
+.pollito {
     z-index:2;
     position:absolute;
-    left:617px;
-    top:409px;
-    width:16px;
-    height:190px;
-    background: #D1EDFD;
+    left:472px;
+    top:245px;
+    width:131px;
+    height:80px;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    border-radius:50%;
+    background: hsl(25, 73%, 56%);
 }
-    .rectangulo-nieto-dos {
+    .huesito {
+    z-index:1;
+    position:absolute;
+    left:602px;
+    top:279px;
+    width:76px;
+    height:10px;
+    background: hsl(69, 58%, 81%);
+}
+    .circulo-pollito {
     z-index:2;
     position:absolute;
-    left:657px;
-    top:409px;
-    width:16px;
-    height:190px;
-    background: #D1EDFD;
+    left:675px;
+    top:274px;
+    width:10px;
+    height:10px;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    border-radius:50%;
+    background:hsl(69, 58%, 81%);
 }
-    .rectangulo-nieto-tres {
+    .circulo-dos-pollito {
     z-index:2;
     position:absolute;
-    left:696px;
-    top:409px;
-    width:16px;
-    height:190px;
-    background: #D1EDFD;
+    left:675px;
+    top:283px;
+    width:10px;
+    height:10px;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    border-radius:50%;
+    background:hsl(69, 58%, 81%);
 }
-    .rectangulo-bisnieto {
+    .manzanita-bb{
     z-index:3;
     position:absolute;
-    left:680;
-    top:110px;
+    left:628px;
+    top:425px;
+    width:85px;
+    height:85px;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    border-radius:50%;
+    background:hsl(0, 91%, 53%);
+}
+    .palito-manzanita {
+    z-index:2;
+    position:absolute;
+    left:670px;
+    top:409px;
+    width:4px;
+    height:17px;
+    background: hsl(25, 95%, 35%);
+}
+    .hoja-manzanita {
+    z-index:4;
+    position:absolute;
+    left:662px;
+    top:409px;
+    width:8px;
+    height:8px;
+    -moz-border-radius: 0 50% / 0 100%;
+    -webkit-border-radius: 0 50% / 0 100%;
+    border-radius: 0 50% / 0 100%;
+    background: #0eeb0e;
+}
+.huevo {
+    z-index:1;
+    position:absolute;
+    left:1178px;
+    top:111px;
+    width:95px;
+    height:74px;
+    background: #ebc90d;
+}
+.rectangulo-platanito {
+    z-index:3;
+    position:absolute;
+    left:390;
+    top:430px;
     width:48px;
     height:16px;
-    background:hsl(86, 64%, 58%);
+    background:rgb(55, 212, 41);
     transform: rotate(-5deg);
 }
     .luna {
     z-index:1;
     position:absolute;
-    left: 600px;
-    top: 80px;
+    left: 310px;
+    top: 400px;
     width: 100px;
     height: 100px;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    -moz-box-shadow: 30px 10px 0 hsl(69, 95%, 62%);
-    -webkit-box-shadow: 30px 10px 0 hsl(69, 95%, 62%);
-    box-shadow: 30px 10px 0 hslhsl(69, 95%, 62%);
+    -moz-box-shadow: 30px 10px 0 hsl(56, 94%, 51%);
+    -webkit-box-shadow: 30px 10px 0 hsl(56, 94%, 51%);
+    box-shadow: 30px 10px 0 hsl(56, 94%, 51%);
     transform: rotate(40deg);
 }
     .luna-hija {
     z-index:1;
     position:absolute;
-    left: 620px;
-    top: 110px;
+    left: 330px;
+    top: 430px;
     width: 100px;
     height: 100px;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    -moz-box-shadow: 30px 10px 0 hsl(69, 95%, 62%);
-    -webkit-box-shadow: 30px 10px 0 hsl(69, 95%, 62%);
-    box-shadow: 30px 10px 0 hsl(69, 95%, 62%);
+    -moz-box-shadow: 30px 10px 0 hsl(56, 94%, 51%);
+    -webkit-box-shadow: 30px 10px 0 hsl(56, 94%, 51%);
+    box-shadow: 30px 10px 0 hsl(56, 94%, 51%);
 }
     .luna-nieta {
     z-index:1;
     position:absolute;
-    left: 653px;
-    top: 120px;
+    left: 363px;
+    top: 440px;
     width: 100px;
     height: 100px;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    -moz-box-shadow: 30px 10px 0 hsl(69, 95%, 62%);
-    -webkit-box-shadow: 30px 10px 0 hsl(69, 95%, 62%);
-    box-shadow: 30px 10px 0 hsl(69, 95%, 62%);
+    -moz-box-shadow: 30px 10px 0 hsl(56, 94%, 51%);
+    -webkit-box-shadow: 30px 10px 0 hsl(56, 94%, 51%);
+    box-shadow: 30px 10px 0 hsl(56, 94%, 51%);
     transform: rotate(-35deg);
 }
-</style>
+
+.cuadrado-azul {
+    z-index:1;
+    position:absolute;
+    left:1470px;
+    top:312px;
+    width:88px;
+    height:88px;
+    background: #070be9;
+}
+    .cuadrado-hijo-azul {
+    z-index:2;
+    position:absolute;
+    left:1482px;
+    top:324px;
+    width:64px;
+    height:64px;
+    background: #f6f6f8;
+}
+    .rectangulo-padre-azul {
+    z-index:3;
+    position:absolute;
+    left:1404px;
+    top:353px;
+    width:220px;
+    height:48px;
+    background:  #070be9;
+}
+    .rectangulo-hijo-azul {
+    z-index:1;
+    position:absolute;
+    left:1428px;
+    top:401px;
+    width:172px;
+    height:206px;
+    background: #070be9;
+}
+
+.cuadrado-verde {
+    z-index:1;
+    position:absolute;
+    left:1200px;
+    top:312px;
+    width:88px;
+    height:88px;
+    background: #05770f;
+}
+    .cuadrado-hijo-verde {
+    z-index:2;
+    position:absolute;
+    left:1212px;
+    top:324px;
+    width:64px;
+    height:64px;
+    background: #f6f6f8;
+}
+    .rectangulo-padre-verde {
+    z-index:3;
+    position:absolute;
+    left:1134px;
+    top:353px;
+    width:220px;
+    height:48px;
+    background:  #05770f;
+}
+    .rectangulo-hijo-verde {
+    z-index:1;
+    position:absolute;
+    left:1158px;
+    top:401px;
+    width:172px;
+    height:206px;
+    background: #05770f;
+}
+
+.cuadrado-amarillo {
+    z-index:1;
+    position:absolute;
+    left:120px;
+    top:312px;
+    width:88px;
+    height:88px;
+    background: #f0ec06;
+}
+    .cuadrado-hijo-amarillo {
+    z-index:2;
+    position:absolute;
+    left:132px;
+    top:324px;
+    width:64px;
+    height:64px;
+    background: #f6f6f8;
+}
+    .rectangulo-padre-amarillo {
+    z-index:3;
+    position:absolute;
+    left:54px;
+    top:353px;
+    width:220px;
+    height:48px;
+    background:  #f0ec06;
+}
+    .rectangulo-hijo-amarillo {
+    z-index:1;
+    position:absolute;
+    left:78px;
+    top:401px;
+    width:172px;
+    height:206px;
+    background: #f0ec06;
+}
+
+.cuadrado-rojo {
+    z-index:1;
+    position:absolute;
+    left:920px;
+    top:312px;
+    width:88px;
+    height:88px;
+    background: #eb1708;
+}
+    .cuadrado-hijo-rojo {
+    z-index:2;
+    position:absolute;
+    left:932px;
+    top:324px;
+    width:64px;
+    height:64px;
+    background: #f6f6f8;
+}
+    .rectangulo-padre-rojo {
+    z-index:3;
+    position:absolute;
+    left:854px;
+    top:353px;
+    width:220px;
+    height:48px;
+    background:  #eb1708;
+}
+    .rectangulo-hijo-rojo {
+    z-index:1;
+    position:absolute;
+    left:878px;
+    top:401px;
+    width:172px;
+    height:206px;
+    background: #eb1708;
+}
+
+.geringa {
+    z-index:4;
+    position:absolute;
+    left:893px;
+    top:440px;
+    width:126px;
+    height:128px;
+    
+
+}
+.medicina {
+    z-index:4;
+    position:absolute;
+    left:853px;
+    top:640px;
+    width:126px;
+    height:128px;
+
+}
+.pilas {
+    z-index:4;
+    position:absolute;
+    left:953px;
+    top:640px;
+    width:126px;
+    height:128px;
+
+}
+
+.periodico {
+    z-index:4;
+    position:absolute;
+    left:1453px;
+    top:640px;
+    width:126px;
+    height:128px;
+
+}
+
+.papel {
+    z-index:4;
+    position:absolute;
+    left:1453px;
+    top:440px;
+    width:126px;
+    height:128px;
+
+}
+
+.botella {
+    z-index:2;
+    position:absolute;
+    left:1183px;
+    top:440px;
+    width:126px;
+    height:138px;
+
+}
+
+.vidrios {
+    z-index:2;
+    position:absolute;
+    left:1143px;
+    top:90px;
+    width:216px;
+    height:218px;
+
+}
+
+.plasticos {
+    z-index:2;
+    position:absolute;
+    left:50px;
+    top:650px;
+    width:236px;
+    height:298px;
+
+}
+
+.metalicos {
+    z-index:2;
+    position:absolute;
+    left:90px;
+    top:400px;
+    width:156px;
+    height:218px;
+
+}
+
+
+
+    </style>
+   
+    <div class="cuadrado"></div>
+    <div class="cuadrado-hijo"></div>
+    <div class="rectangulo-padre"></div>
+    <div class="rectangulo-hijo"></div>
+    <div class="cuadrado-dos"></div>
+    <div class="cuadrado-dos-hijo"></div>
+    <div class="rectangulo-dos-padre"></div>
+    <div class="rectangulo-dos-hijo"></div>
+    <img class="geringa" src="geringa.png">
+    <img class="medicina" src="ayufa.jpg">
+    <img class="pilas" src="pilas.jpg">
+    <img class="periodico" src="periodico.jpg">
+    <img class="papel" src="papel.png">
+    <img class="botella" src="botella.png">
+    <img class="vidrios" src="vidrios.jpg">
+    <img class="plasticos" src="plasticos.jpg">
+    <img class="metalicos" src="metalicos.png">
+    <div class="pollito"></div>
+    <div class="huesito"></div>
+    <div class="circulo-pollito"></div>
+    <div class="circulo-dos-pollito"></div>
+    <div class="manzanita-bb"></div>
+    <div class="palito-manzanita"></div>
+    <div class="hoja-manzanita"></div>
+    <div class="rectangulo-platanito"></div>
+    <div class="luna"></div>
+    <div class="luna-hija"></div>
+    <div class="luna-nieta"></div>
+    <div class="cuadrado-azul"></div>
+    <div class="cuadrado-hijo-azul"></div>
+    <div class="rectangulo-padre-azul"></div>
+    <div class="rectangulo-hijo-azul"></div>
+    <div class="cuadrado-verde"></div>
+    <div class="cuadrado-hijo-verde"></div>
+    <div class="rectangulo-padre-verde"></div>
+    <div class="rectangulo-hijo-verde"></div>
+    <div class="cuadrado-amarillo"></div>
+    <div class="cuadrado-hijo-amarillo"></div>
+    <div class="rectangulo-padre-amarillo"></div>
+    <div class="rectangulo-hijo-amarillo"></div>
+    <div class="cuadrado-rojo"></div>
+    <div class="cuadrado-hijo-rojo"></div>
+    <div class="rectangulo-padre-rojo"></div>
+    <div class="rectangulo-hijo-rojo"></div>
+
  
-<div class="cuadrado"></div>
-<div class="cuadrado-hijo"></div>
-<div class="rectangulo-padre"></div>
-<div class="rectangulo-hijo"></div>
-<div class="rectangulo-nieto-uno"></div>
-<div class="rectangulo-nieto-dos"></div>
-<div class="rectangulo-nieto-tres"></div>
-<div class="rectangulo-bisnieto"></div>
-<div class="luna"></div>
-<div class="luna-hija"></div>
-<div class="luna-nieta"></div>
