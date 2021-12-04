@@ -1,4 +1,4 @@
-body { background: #F5FFFA	;;
+body { background: #FffF	;;
 
     font-family: "apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
     font-size: 1em;
@@ -14,6 +14,7 @@ body { background: #F5FFFA	;;
     top: 0;
     left: 0;
     right: 0;
+
    
     
    
@@ -36,28 +37,34 @@ body { background: #F5FFFA	;;
 .inicio ul{ 
     margin: 0;;
     padding:0;
-    list-style: none; }
+    list-style: none; 
+    display: flex;
+}
     
     .inicio ul li {
     display: inline-block;
-    background-color: #333333; 
-    border-radius: 3.5px;
+    border-radius: 10px;
     padding: 0.5rem 1rem;
     
       }
    
     .inicio ul li a:hover {
+   background: black;
+  
+}
+.inicio ul li a:hover {
+    transition: all  0.5s linear;
+    border-radius: 10px;
     padding: 0.5rem 1rem ;
     display: block; 
-    background: #2A64BB;
-    transition: all  0.4s linear;
-    
+
 }
     
 .logo {
     letter-spacing: 10px;
     font-size: 1.3em;
    margin-left: 4em;
+   font-weight: bold;
 }
 
 .contenido {
@@ -88,11 +95,40 @@ p {
     margin-bottom: 4em;
 
 }
+.enlace{
+    text-decoration: none;
+    background: hsl(184, 79%, 72%);
+    border-radius: 10px;
+}
 
 .footer {
     
     padding: 2rem 0;
     text-align: center;
+ 
 }
 b{ color: grey;}
+.carruseljs {
+    height: flex;
+   align-items: center;
+}
+
+.carrusel-items{ display: flex;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    
+  
+
+
+}
+.carrusel-items {
+    min-width: 200px;
+    min-height: 200px;
+    height: 100px;
+}
+.carrusel-items img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 
