@@ -51,7 +51,8 @@ https://encuentraquedecir.org/como-pedir-ayuda/pensamientos-suicidas/
 https://www.befrienders.org/
 http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1727-897X2019000200191 
 
-- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
-- Algo más que quieren añadir sobre el proyecto:
+- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/qqy-11nS6Ko
+
+- Algo más que quieren añadir sobre el proyecto: Se mantuvo el nombre de la plantilla de bootstrap porque los avances anteriores se desconfiguraron y se perdió todo el avance anterior. En caso de que no funcione la imagen de fondo, seguramente es porque tenga algun error al subirlo a Github.
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal!
