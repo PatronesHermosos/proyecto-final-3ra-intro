@@ -23,7 +23,8 @@ Por último está el archivo main.js es donde convertimos nuestro cursor en marc
 https://www.youtube.com/watch?v=N8ZppRiqU7E&list=PL8jYNhdApJ0tUfHzcacY2JJZuxZAo4-HY&index=2&ab_channel=CodyTron
 https://www.youtube.com/watch?v=D9p2laFY0H4&list=PL8jYNhdApJ0tUfHzcacY2JJZuxZAo4-HY&index=6&ab_channel=JoelVentura
 
-- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí:
+https://www.youtube.com/watch?v=vMzetkvX1fU&ab_channel=DanielaSuazo
 - Algo más que quieren añadir sobre el proyecto:
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal!
