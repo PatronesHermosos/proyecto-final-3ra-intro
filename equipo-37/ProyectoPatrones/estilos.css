@@ -1,0 +1,373 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto','San serif';
+    overflow: hidden;
+    margin:0;
+    
+}
+
+.contenedor{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+   
+    
+}
+
+
+
+
+.section{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(62, 219, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    cursor: url("salpicadura.png"), pointer;
+}
+
+img{
+    position: absolute;
+    cursor: url("salpicadura.png"), pointer;
+}
+
+
+.box{
+    width: 33%;
+    height: 50vh;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+    margin: 1.5%;
+}
+
+.box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.box .hover{
+    width: 0%;
+    height: 50vh;
+    background-color: blueviolet;
+    position: absolute;
+    top:0;
+    display: flex;
+}
+
+.bg_animate{
+    width:  100%;
+    height: 100vh;
+    background: linear-gradient(to right,#005c98,#505BDA);
+    position: relative;
+    overflow: hidden;
+}
+
+.header_nav{
+    width: 100%;
+    position: absolute;
+    top:0;
+    left: 0;
+
+}
+
+.header_nav h1{
+
+    color: #fff;
+    font-family: 'Gagalin';
+}
+.header_nav nav a{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.header_nav .contenedor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.banner{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.banner_title h2{
+    color: #fff;
+    font-size: 60px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.banner_title .llamanos{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+    background: #1a2849;
+    padding: 20px;
+}
+
+/* burbujas*/
+.burbuja{
+    
+    border-radius: 50%;
+    background: #fff;
+    opacity: .3;
+
+    position: absolute;
+    bottom: -150;
+    
+    animation: burbujas 3s linear infinite;
+   
+}
+
+.burbuja:nth-child(1){
+    width: 30px;
+    height: 30px;
+    left: 5%;
+    animation-duration:  3s;
+}
+
+.burbuja:nth-child(2){
+    width: 100px;
+    height: 100px;
+    left: 15%;
+    animation-duration:  3s;
+    animation-delay: 3s;
+}
+
+.burbuja:nth-child(3){
+    width: 40px;
+    height: 40px;
+    left: 30%;
+    animation-duration:  3s;
+    animation-delay: 2s;
+}
+
+.burbuja:nth-child(4){
+    width: 110px;
+    height: 110px;
+    left: 50%;
+    animation-duration:  3s;
+    animation-delay: 0;
+}
+
+
+.burbuja:nth-child(5){
+    width: 110px;
+    height: 110px;
+    left: 55%;
+    animation-duration:  3s;
+    animation-delay: 5s;
+}
+
+.burbuja:nth-child(6){
+    width: 90px;
+    height: 90px;
+    left: 60%;
+    animation-duration:  3s;
+    animation-delay: 2s;
+}
+
+.burbuja:nth-child(7){
+    width: 200px;
+    height: 200px;
+    left: 70%;
+    animation-duration:  3s;
+    animation-delay: 0s;
+}
+
+.burbuja:nth-child(8){
+    width: 10px;
+    height: 10px;
+    left: 80%;
+    animation-duration:  3s;
+    animation-delay: 1s;
+}
+
+.burbuja:nth-child(9){
+    width: 150px;
+    height: 150px;
+    left: 100%;
+    animation-duration:  3s;
+    animation-delay: 1s;
+}
+
+.burbuja:nth-child(10){
+    width: 30px;
+    height: 30px;
+    left: 120%;
+    animation-duration:  3s;
+    animation-delay: 1s;
+}
+.burbuja:nth-child(11){
+    width: 180px;
+    height: 180px;
+    left: 130%;
+    animation-duration:  3s;
+    animation-delay: 0s;
+}
+
+.animal_img{
+    animation: movimiento 2.5s linear infinite;
+    
+    position: absolute;
+    
+}
+
+.animal_img:nth-child(1){
+    
+    left:10px;
+    top: 500px;
+    width: 150px;
+    
+}
+
+.animal_img:nth-child(2){
+    
+    left:20px;
+    top: 0px;
+    width: 300px;
+    animation-delay: 1s;
+    
+}
+
+.animal_img:nth-child(3){
+    
+    left:600px;
+    top: 300px;
+    width: 80px;
+    animation-delay: 0s;
+    
+}
+
+.animal_img:nth-child(4){
+    
+    left:500px;
+    top: 200px;
+    width: 80px;
+    animation-delay: 0s;
+    
+}
+
+.animal_img:nth-child(4){
+    
+    left:500px;
+    top: 200px;
+    width: 80px;
+    animation-delay: 5s;
+    
+}
+
+.animal_img:nth-child(5){
+    
+    left:1200px;
+    top: 0px;
+    width: 500px;
+    animation-delay: 4s;
+    
+}
+/* ballena*/
+.animal_img:nth-child(6){
+    
+    left:800px;
+    top: 100px;
+    width: 700px;
+    animation-delay: 5s;
+    
+}
+
+/* estrella*/
+.animal_img:nth-child(7){
+    
+    left:600px;
+    top: 100px;
+    width: 100px;
+    animation-delay: 0s;
+    
+}
+
+/* caballo*/
+.animal_img:nth-child(8){
+    
+    left:200px;
+    top: 200px;
+    width: 500px;
+    animation-delay: 2s;
+    
+}
+
+.ola{
+    
+    position: absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+    height: 100px;
+    background: url(ola.png);
+    background-size: 1000px 100px;
+    opacity: .2;
+}
+
+section .ola{
+    animation: animate 30s linear infinite;
+}
+
+@keyframes mover{
+    0%{
+        transform: translate(100%)
+    }
+}
+
+@keyframes animate
+{
+    0%{
+        background-position-x: 0;
+    }
+    100%{
+        background-position-x: 1000px;
+    }
+}
+@keyframes burbujas{
+    0%{
+        bottom: 0;
+        opacity: 0;
+    }
+    30%{
+        transform: translateX(30px);
+    }
+    50%{
+        opacity: .4;
+    }
+    100%{
+        bottom: 100vh;
+        opacity: 0;
+    }
+}
+@keyframes movimiento{
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(30px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+    /* ola*/
+
+    
+}
